@@ -1,0 +1,745 @@
+=============================================================
+ starting episode: 1900/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1900 step:0(2234280), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1901/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1901 step:0(2234293), a_t=[s= 0.83, t= 0.942841, b= 0.000000], r_t=[r= 0.44, prog= 0.44, pen=-0.00, r_old= 0.44], Reward=  0.44 /  0.44 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1902/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1902 step:0(2234305), a_t=[s= 1.00, t= 0.959612, b= 0.000000], r_t=[r= 0.22, prog= 0.22, pen=-0.00, r_old= 0.22], Reward=  0.22 /  0.22 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1903/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1903 step:0(2234317), a_t=[s= 0.98, t= 0.953287, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1904/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1904 step:0(2234329), a_t=[s= 0.98, t= 0.961683, b= 0.000000], r_t=[r= 0.27, prog= 0.27, pen=-0.00, r_old= 0.27], Reward=  0.27 /  0.27 /  494992.82, epsilon=  0.100, speed=  0.09, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1905/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1905 step:0(2234341), a_t=[s= 1.00, t= 0.947458, b= 0.000000], r_t=[r= 0.54, prog= 0.54, pen=-0.00, r_old= 0.54], Reward=  0.54 /  0.54 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1906/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1906 step:0(2234353), a_t=[s= 0.97, t= 0.949864, b= 0.000000], r_t=[r= 0.19, prog= 0.19, pen=-0.00, r_old= 0.19], Reward=  0.19 /  0.19 /  494992.82, epsilon=  0.100, speed=  0.06, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1907/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1907 step:0(2234365), a_t=[s= 0.96, t= 0.933989, b= 0.000000], r_t=[r= 0.64, prog= 0.64, pen=-0.00, r_old= 0.64], Reward=  0.64 /  0.64 /  494992.82, epsilon=  0.100, speed=  0.21, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1908/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1908 step:0(2234377), a_t=[s= 1.00, t= 0.944385, b= 0.000000], r_t=[r= 0.46, prog= 0.47, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1909/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1909 step:0(2234391), a_t=[s= 0.96, t= 0.948063, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1910/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1910 step:0(2234403), a_t=[s= 0.97, t= 0.956413, b= 0.000000], r_t=[r= 0.50, prog= 0.50, pen=-0.00, r_old= 0.50], Reward=  0.50 /  0.50 /  494992.82, epsilon=  0.100, speed=  0.17, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1911/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1911 step:0(2234415), a_t=[s= 1.00, t= 0.944079, b= 0.000000], r_t=[r= 0.46, prog= 0.47, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1912/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1912 step:0(2234427), a_t=[s= 0.84, t= 0.957828, b= 0.000000], r_t=[r= 0.55, prog= 0.55, pen=-0.00, r_old= 0.55], Reward=  0.55 /  0.55 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1913/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1913 step:0(2234439), a_t=[s= 0.96, t= 0.942610, b= 0.000000], r_t=[r= 0.55, prog= 0.55, pen=-0.00, r_old= 0.55], Reward=  0.55 /  0.55 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1914/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1914 step:0(2234451), a_t=[s= 0.96, t= 0.941911, b= 0.001488], r_t=[r= 0.88, prog= 0.88, pen=-0.00, r_old= 0.88], Reward=  0.88 /  0.88 /  494992.82, epsilon=  0.100, speed=  0.29, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1915/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1915 step:0(2234463), a_t=[s= 0.89, t= 0.958940, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1916/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1916 step:0(2234477), a_t=[s= 0.95, t= 0.953677, b= 0.002234], r_t=[r= 0.58, prog= 0.58, pen=-0.00, r_old= 0.58], Reward=  0.58 /  0.58 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1917/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1917 step:0(2234489), a_t=[s= 1.00, t= 0.949845, b= 0.000000], r_t=[r= 0.19, prog= 0.19, pen=-0.00, r_old= 0.19], Reward=  0.19 /  0.19 /  494992.82, epsilon=  0.100, speed=  0.06, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1918/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1918 step:0(2234501), a_t=[s= 0.93, t= 0.960981, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1919/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1919 step:0(2234513), a_t=[s= 0.87, t= 0.945832, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  494992.82, epsilon=  0.100, speed=  0.21, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1920/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1920 step:0(2234525), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1921/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1921 step:0(2234538), a_t=[s= 0.82, t= 0.940878, b= 0.000000], r_t=[r= 0.68, prog= 0.68, pen=-0.00, r_old= 0.68], Reward=  0.68 /  0.68 /  494992.82, epsilon=  0.100, speed=  0.23, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1922/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1922 step:0(2234551), a_t=[s= 0.88, t= 0.942420, b= 0.000000], r_t=[r= 0.42, prog= 0.42, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1923/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1923 step:0(2234563), a_t=[s= 1.00, t= 0.937645, b= 0.000000], r_t=[r= 0.64, prog= 0.64, pen=-0.00, r_old= 0.64], Reward=  0.64 /  0.64 /  494992.82, epsilon=  0.100, speed=  0.21, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1924/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1924 step:0(2234575), a_t=[s= 0.87, t= 0.951265, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1925/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1925 step:0(2234587), a_t=[s= 0.87, t= 0.959020, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1926/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1926 step:0(2234599), a_t=[s= 1.00, t= 0.963276, b= 0.000000], r_t=[r= 0.32, prog= 0.32, pen=-0.00, r_old= 0.32], Reward=  0.32 /  0.32 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1927/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1927 step:0(2234611), a_t=[s= 1.00, t= 0.951773, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1928/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1928 step:0(2234623), a_t=[s= 0.95, t= 0.944675, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1929/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1929 step:0(2234635), a_t=[s= 0.89, t= 0.955731, b= 0.000000], r_t=[r= 0.30, prog= 0.30, pen=-0.00, r_old= 0.30], Reward=  0.30 /  0.30 /  494992.82, epsilon=  0.100, speed=  0.10, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1930/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1930 step:0(2234647), a_t=[s= 0.98, t= 0.961677, b= 0.000000], r_t=[r= 0.27, prog= 0.27, pen=-0.00, r_old= 0.27], Reward=  0.27 /  0.27 /  494992.82, epsilon=  0.100, speed=  0.09, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1931/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1931 step:0(2234659), a_t=[s= 1.00, t= 0.939523, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1932/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1932 step:0(2234671), a_t=[s= 0.94, t= 0.956468, b= 0.000000], r_t=[r= 0.42, prog= 0.42, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1933/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1933 step:0(2234683), a_t=[s= 0.80, t= 0.955450, b= 0.000000], r_t=[r= 0.52, prog= 0.52, pen=-0.00, r_old= 0.52], Reward=  0.52 /  0.52 /  494992.82, epsilon=  0.100, speed=  0.17, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1934/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1934 step:0(2234695), a_t=[s= 0.93, t= 0.957011, b= 0.000000], r_t=[r= 0.26, prog= 0.26, pen=-0.00, r_old= 0.26], Reward=  0.26 /  0.26 /  494992.82, epsilon=  0.100, speed=  0.09, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1935/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1935 step:0(2234707), a_t=[s= 0.88, t= 0.956716, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1936/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1936 step:0(2234719), a_t=[s= 1.00, t= 0.921082, b= 0.000000], r_t=[r= 0.43, prog= 0.43, pen=-0.00, r_old= 0.43], Reward=  0.43 /  0.43 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1937/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1937 step:0(2234731), a_t=[s= 0.98, t= 0.957106, b= 0.000000], r_t=[r= 0.28, prog= 0.28, pen=-0.00, r_old= 0.28], Reward=  0.28 /  0.28 /  494992.82, epsilon=  0.100, speed=  0.09, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1938/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1938 step:0(2234743), a_t=[s= 0.96, t= 0.958004, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1939/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1939 step:0(2234755), a_t=[s= 0.86, t= 0.956554, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1940/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1940 step:0(2234769), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1941/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1941 step:0(2234782), a_t=[s= 0.98, t= 0.952378, b= 0.000000], r_t=[r= 0.25, prog= 0.25, pen=-0.00, r_old= 0.25], Reward=  0.25 /  0.25 /  494992.82, epsilon=  0.100, speed=  0.08, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1942/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1942 step:0(2234794), a_t=[s= 0.93, t= 0.942070, b= 0.000000], r_t=[r= 0.45, prog= 0.45, pen=-0.00, r_old= 0.45], Reward=  0.45 /  0.45 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1943/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1943 step:0(2234808), a_t=[s= 1.00, t= 0.962909, b= 0.000000], r_t=[r= 0.32, prog= 0.32, pen=-0.00, r_old= 0.32], Reward=  0.32 /  0.32 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1944/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1944 step:0(2234820), a_t=[s= 0.98, t= 0.960851, b= 0.000000], r_t=[r= 0.19, prog= 0.19, pen=-0.00, r_old= 0.19], Reward=  0.19 /  0.19 /  494992.82, epsilon=  0.100, speed=  0.06, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1945/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1945 step:0(2234832), a_t=[s= 0.94, t= 0.947711, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1946/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1946 step:0(2234844), a_t=[s= 0.94, t= 0.959652, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1947/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1947 step:0(2234856), a_t=[s= 0.86, t= 0.950047, b= 0.000000], r_t=[r= 0.34, prog= 0.34, pen=-0.00, r_old= 0.34], Reward=  0.34 /  0.34 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1948/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1948 step:0(2234869), a_t=[s= 0.94, t= 0.938893, b= 0.000000], r_t=[r= 0.77, prog= 0.77, pen=-0.00, r_old= 0.77], Reward=  0.77 /  0.77 /  494992.82, epsilon=  0.100, speed=  0.26, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1949/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1949 step:0(2234883), a_t=[s= 0.86, t= 0.940632, b= 0.000000], r_t=[r= 0.86, prog= 0.86, pen=-0.00, r_old= 0.86], Reward=  0.86 /  0.86 /  494992.82, epsilon=  0.100, speed=  0.29, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1950/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1950 step:0(2234897), a_t=[s= 1.00, t= 0.965195, b= 0.000000], r_t=[r= 0.86, prog= 0.86, pen=-0.00, r_old= 0.86], Reward=  0.86 /  0.86 /  494992.82, epsilon=  0.100, speed=  0.29, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1951/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1951 step:0(2234909), a_t=[s= 0.95, t= 0.962883, b= 0.000000], r_t=[r= 0.46, prog= 0.46, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1952/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1952 step:0(2234921), a_t=[s= 1.00, t= 0.951939, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1953/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1953 step:0(2234933), a_t=[s= 1.00, t= 0.962335, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1954/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1954 step:0(2234945), a_t=[s= 0.96, t= 0.940301, b= 0.000000], r_t=[r= 0.78, prog= 0.78, pen=-0.00, r_old= 0.78], Reward=  0.78 /  0.78 /  494992.82, epsilon=  0.100, speed=  0.26, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1955/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1955 step:0(2234957), a_t=[s= 0.88, t= 0.948939, b= 0.000000], r_t=[r= 0.59, prog= 0.59, pen=-0.00, r_old= 0.59], Reward=  0.59 /  0.59 /  494992.82, epsilon=  0.100, speed=  0.20, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1956/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1956 step:0(2234971), a_t=[s= 0.94, t= 0.948354, b= 0.000000], r_t=[r= 0.45, prog= 0.45, pen=-0.00, r_old= 0.45], Reward=  0.45 /  0.45 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1957/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1957 step:0(2234985), a_t=[s= 0.91, t= 0.950159, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  494992.82, epsilon=  0.100, speed=  0.06, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1958/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1958 step:0(2234997), a_t=[s= 0.96, t= 0.962735, b= 0.000000], r_t=[r= 0.31, prog= 0.31, pen=-0.00, r_old= 0.31], Reward=  0.31 /  0.31 /  494992.82, epsilon=  0.100, speed=  0.10, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1959/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1959 step:0(2235009), a_t=[s= 0.84, t= 0.955113, b= 0.000000], r_t=[r= 0.55, prog= 0.55, pen=-0.00, r_old= 0.55], Reward=  0.55 /  0.55 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1960/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1960 step:0(2235021), a_t=[s= 0.99, t= 1.000000, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1961/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1961 step:0(2235034), a_t=[s= 0.99, t= 0.957536, b= 0.000000], r_t=[r= 0.81, prog= 0.81, pen=-0.00, r_old= 0.81], Reward=  0.81 /  0.81 /  494992.82, epsilon=  0.100, speed=  0.27, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1962/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1962 step:0(2235046), a_t=[s= 0.86, t= 0.955014, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1963/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1963 step:0(2235058), a_t=[s= 1.00, t= 0.943593, b= 0.000000], r_t=[r= 0.46, prog= 0.47, pen=-0.00, r_old= 0.46], Reward=  0.46 /  0.46 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1964/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1964 step:0(2235070), a_t=[s= 0.80, t= 0.957801, b= 0.000000], r_t=[r= 0.52, prog= 0.52, pen=-0.00, r_old= 0.52], Reward=  0.52 /  0.52 /  494992.82, epsilon=  0.100, speed=  0.17, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1965/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1965 step:0(2235082), a_t=[s= 0.88, t= 0.948214, b= 0.000000], r_t=[r= 0.44, prog= 0.44, pen=-0.00, r_old= 0.44], Reward=  0.44 /  0.44 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1966/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1966 step:0(2235094), a_t=[s= 0.74, t= 0.944464, b= 0.000000], r_t=[r= 0.42, prog= 0.42, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1967/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1967 step:0(2235106), a_t=[s= 0.88, t= 0.956129, b= 0.000000], r_t=[r= 0.56, prog= 0.56, pen=-0.00, r_old= 0.56], Reward=  0.56 /  0.56 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1968/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1968 step:0(2235118), a_t=[s= 0.94, t= 0.948928, b= 0.000000], r_t=[r= 0.44, prog= 0.45, pen=-0.00, r_old= 0.44], Reward=  0.44 /  0.44 /  494992.82, epsilon=  0.100, speed=  0.15, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1969/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1969 step:0(2235130), a_t=[s= 0.81, t= 0.945749, b= 0.000000], r_t=[r= 0.69, prog= 0.69, pen=-0.00, r_old= 0.69], Reward=  0.69 /  0.69 /  494992.82, epsilon=  0.100, speed=  0.23, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1970/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1970 step:0(2235143), a_t=[s= 0.79, t= 0.945574, b= 0.000000], r_t=[r= 0.41, prog= 0.41, pen=-0.00, r_old= 0.41], Reward=  0.41 /  0.41 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1971/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1971 step:0(2235156), a_t=[s= 0.78, t= 0.942084, b= 0.000000], r_t=[r= 0.42, prog= 0.42, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1972/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1972 step:0(2235169), a_t=[s= 0.70, t= 0.944597, b= 0.000000], r_t=[r= 0.73, prog= 0.73, pen=-0.00, r_old= 0.73], Reward=  0.73 /  0.73 /  494992.82, epsilon=  0.100, speed=  0.24, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1973/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1973 step:0(2235184), a_t=[s= 0.50, t= 0.944922, b= 0.000000], r_t=[r= 0.59, prog= 0.59, pen=-0.00, r_old= 0.59], Reward=  0.59 /  0.59 /  494992.82, epsilon=  0.100, speed=  0.20, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1974/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1974 step:0(2235198), a_t=[s= 0.45, t= 0.931072, b= 0.000000], r_t=[r= 0.43, prog= 0.43, pen=-0.00, r_old= 0.43], Reward=  0.43 /  0.43 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+Ep:1974 step:20(2235218), a_t=[s= 0.73, t= 0.945468, b= 0.000000], r_t=[r= 226.01, prog= 250.58, pen=-24.57, r_old= 226.01], Reward=  2691.30 /  2691.30 /  494992.82, epsilon=  0.100, speed=  83.60, gear= 1, damage= 0.00
+Ep:1974 step:40(2235238), a_t=[s= 0.77, t= 0.961619, b= 0.000000], r_t=[r= 242.10, prog= 249.63, pen=-7.53, r_old= 242.10], Reward=  7353.12 /  7353.12 /  494992.82, epsilon=  0.100, speed=  83.21, gear= 1, damage= 0.00
+Ep:1974 step:60(2235258), a_t=[s=-0.18, t= 0.952448, b= 0.000000], r_t=[r= 244.37, prog= 251.31, pen=-6.94, r_old= 244.37], Reward=  12152.97 /  12152.97 /  494992.82, epsilon=  0.100, speed=  83.77, gear= 1, damage= 0.00
+Ep:1974 step:80(2235278), a_t=[s=-0.06, t= 0.947342, b= 0.000000], r_t=[r= 234.80, prog= 250.52, pen=-15.72, r_old= 234.80], Reward=  16939.92 /  16939.92 /  494992.82, epsilon=  0.100, speed=  83.66, gear= 1, damage= 0.00
+Ep:1974 step:100(2235298), a_t=[s=-0.18, t= 0.953510, b= 0.000000], r_t=[r= 219.16, prog= 249.54, pen=-30.38, r_old= 219.16], Reward=  21559.75 /  21559.75 /  494992.82, epsilon=  0.100, speed=  83.72, gear= 1, damage= 0.00
+Ep:1974 step:120(2235318), a_t=[s= 0.17, t= 0.964168, b= 0.000000], r_t=[r= 227.49, prog= 252.67, pen=-25.18, r_old= 227.49], Reward=  26048.03 /  26048.03 /  494992.82, epsilon=  0.100, speed=  84.22, gear= 1, damage= 0.00
+Ep:1974 step:140(2235338), a_t=[s= 0.15, t= 0.950867, b= 0.000000], r_t=[r= 223.36, prog= 251.31, pen=-27.95, r_old= 223.36], Reward=  30545.29 /  30545.29 /  494992.82, epsilon=  0.100, speed=  83.97, gear= 1, damage= 0.00
+Ep:1974 step:160(2235358), a_t=[s= 0.29, t= 0.940873, b= 0.000000], r_t=[r= 225.80, prog= 250.81, pen=-25.01, r_old= 225.80], Reward=  35084.15 /  35084.15 /  494992.82, epsilon=  0.100, speed=  83.86, gear= 1, damage= 0.00
+Ep:1974 step:180(2235378), a_t=[s= 0.05, t= 0.973928, b= 0.000000], r_t=[r= 244.12, prog= 252.26, pen=-8.15, r_old= 244.12], Reward=  39937.62 /  39937.62 /  494992.82, epsilon=  0.100, speed=  84.16, gear= 1, damage= 0.00
+Ep:1974 step:200(2235398), a_t=[s=-0.41, t= 0.940278, b= 0.000000], r_t=[r= 244.92, prog= 250.97, pen=-6.05, r_old= 244.92], Reward=  44802.99 /  44802.99 /  494992.82, epsilon=  0.100, speed=  83.66, gear= 1, damage= 0.00
+Ep:1974 step:220(2235418), a_t=[s=-0.02, t= 0.962720, b= 0.000000], r_t=[r= 238.63, prog= 251.80, pen=-13.17, r_old= 238.63], Reward=  49593.14 /  49593.14 /  494992.82, epsilon=  0.100, speed=  83.96, gear= 1, damage= 0.00
+Ep:1974 step:240(2235438), a_t=[s= 0.03, t= 0.943663, b= 0.000000], r_t=[r= 228.83, prog= 251.22, pen=-22.38, r_old= 228.83], Reward=  54133.70 /  54133.70 /  494992.82, epsilon=  0.100, speed=  83.74, gear= 1, damage= 0.00
+Ep:1974 step:260(2235458), a_t=[s=-0.02, t= 0.948985, b= 0.000000], r_t=[r= 221.21, prog= 251.77, pen=-30.55, r_old= 221.21], Reward=  58630.03 /  58630.03 /  494992.82, epsilon=  0.100, speed=  84.04, gear= 1, damage= 0.00
+Ep:1974 step:280(2235478), a_t=[s= 0.18, t= 0.945150, b= 0.000000], r_t=[r= 225.46, prog= 251.21, pen=-25.75, r_old= 225.46], Reward=  63141.10 /  63141.10 /  494992.82, epsilon=  0.100, speed=  83.84, gear= 1, damage= 0.00
+Ep:1974 step:300(2235498), a_t=[s=-0.19, t= 0.942069, b= 0.000000], r_t=[r= 220.93, prog= 250.08, pen=-29.15, r_old= 220.93], Reward=  67629.01 /  67629.01 /  494992.82, epsilon=  0.100, speed=  83.70, gear= 1, damage= 0.00
+Ep:1974 step:320(2235518), a_t=[s= 0.64, t= 0.929722, b= 0.000000], r_t=[r= 238.20, prog= 250.19, pen=-11.99, r_old= 238.20], Reward=  72174.98 /  72174.98 /  494992.82, epsilon=  0.100, speed=  83.42, gear= 1, damage= 0.00
+Ep:1974 step:340(2235538), a_t=[s=-0.62, t= 0.950353, b= 0.000000], r_t=[r= 235.88, prog= 248.58, pen=-12.70, r_old= 235.88], Reward=  76836.37 /  76836.37 /  494992.82, epsilon=  0.100, speed=  82.89, gear= 1, damage= 0.00
+Ep:1974 step:360(2235558), a_t=[s= 0.81, t= 0.951613, b= 0.000000], r_t=[r= 233.85, prog= 249.52, pen=-15.67, r_old= 233.85], Reward=  81518.06 /  81518.06 /  494992.82, epsilon=  0.100, speed=  83.21, gear= 1, damage= 0.00
+Ep:1974 step:380(2235578), a_t=[s= 0.92, t= 0.941991, b= 0.000000], r_t=[r= 236.97, prog= 249.97, pen=-13.00, r_old= 236.97], Reward=  86287.08 /  86287.08 /  494992.82, epsilon=  0.100, speed=  83.34, gear= 1, damage= 0.00
+Ep:1974 step:400(2235598), a_t=[s=-0.18, t= 0.960282, b= 0.000000], r_t=[r= 223.37, prog= 250.63, pen=-27.25, r_old= 223.37], Reward=  90920.08 /  90920.08 /  494992.82, epsilon=  0.100, speed=  83.74, gear= 1, damage= 0.00
+Ep:1974 step:420(2235618), a_t=[s=-0.16, t= 0.939776, b= 0.000000], r_t=[r= 223.97, prog= 249.81, pen=-25.84, r_old= 223.97], Reward=  95585.45 /  95585.45 /  494992.82, epsilon=  0.100, speed=  83.72, gear= 1, damage= 0.00
+Ep:1974 step:440(2235638), a_t=[s=-0.24, t= 0.948121, b= 0.000000], r_t=[r= 223.95, prog= 249.61, pen=-25.66, r_old= 223.95], Reward=  100115.16 /  100115.16 /  494992.82, epsilon=  0.100, speed=  83.68, gear= 1, damage= 0.00
+Ep:1974 step:460(2235658), a_t=[s= 0.32, t= 0.940489, b= 0.000000], r_t=[r= 231.08, prog= 251.31, pen=-20.23, r_old= 231.08], Reward=  104696.15 /  104696.15 /  494992.82, epsilon=  0.100, speed=  83.77, gear= 1, damage= 0.00
+Ep:1974 step:480(2235678), a_t=[s= 0.79, t= 0.983894, b= 0.000000], r_t=[r= 230.59, prog= 249.38, pen=-18.78, r_old= 230.59], Reward=  109313.31 /  109313.31 /  494992.82, epsilon=  0.100, speed=  83.32, gear= 1, damage= 0.00
+Ep:1974 step:500(2235698), a_t=[s= 0.86, t= 0.942596, b= 0.000000], r_t=[r= 230.82, prog= 249.86, pen=-19.05, r_old= 230.82], Reward=  114063.78 /  114063.78 /  494992.82, epsilon=  0.100, speed=  83.34, gear= 1, damage= 0.00
+Ep:1974 step:520(2235718), a_t=[s=-0.18, t= 0.967595, b= 0.000000], r_t=[r= 236.83, prog= 251.11, pen=-14.28, r_old= 236.83], Reward=  118757.00 /  118757.00 /  494992.82, epsilon=  0.100, speed=  83.72, gear= 1, damage= 0.00
+Ep:1974 step:540(2235738), a_t=[s=-0.02, t= 0.947234, b= 0.000000], r_t=[r= 232.44, prog= 252.01, pen=-19.57, r_old= 232.44], Reward=  123381.16 /  123381.16 /  494992.82, epsilon=  0.100, speed=  84.00, gear= 1, damage= 0.00
+Ep:1974 step:560(2235758), a_t=[s= 0.10, t= 0.960116, b= 0.000000], r_t=[r= 222.12, prog= 251.46, pen=-29.35, r_old= 222.12], Reward=  127840.32 /  127840.32 /  494992.82, epsilon=  0.100, speed=  83.87, gear= 1, damage= 0.00
+Ep:1974 step:580(2235778), a_t=[s= 0.04, t= 0.970554, b= 0.001480], r_t=[r= 222.17, prog= 250.78, pen=-28.61, r_old= 222.17], Reward=  132302.40 /  132302.40 /  494992.82, epsilon=  0.100, speed=  83.79, gear= 1, damage= 0.00
+Ep:1974 step:600(2235798), a_t=[s=-0.25, t= 0.968071, b= 0.000000], r_t=[r= 214.82, prog= 250.71, pen=-35.89, r_old= 214.82], Reward=  136804.98 /  136804.98 /  494992.82, epsilon=  0.100, speed=  83.75, gear= 1, damage= 0.00
+Ep:1974 step:620(2235818), a_t=[s=-0.12, t= 0.956539, b= 0.000000], r_t=[r= 224.53, prog= 251.35, pen=-26.82, r_old= 224.53], Reward=  141210.48 /  141210.48 /  494992.82, epsilon=  0.100, speed=  83.86, gear= 1, damage= 0.00
+Ep:1974 step:640(2235838), a_t=[s=-0.22, t= 0.951690, b= 0.000000], r_t=[r= 222.72, prog= 251.32, pen=-28.60, r_old= 222.72], Reward=  145654.09 /  145654.09 /  494992.82, epsilon=  0.100, speed=  83.81, gear= 1, damage= 0.00
+Ep:1974 step:660(2235858), a_t=[s= 0.33, t= 0.926223, b= 0.000000], r_t=[r= 210.35, prog= 250.86, pen=-40.51, r_old= 210.35], Reward=  149991.79 /  149991.79 /  494992.82, epsilon=  0.100, speed=  83.77, gear= 1, damage= 0.00
+Ep:1974 step:680(2235878), a_t=[s= 0.07, t= 0.943642, b= 0.000000], r_t=[r= 233.90, prog= 252.44, pen=-18.54, r_old= 233.90], Reward=  154473.30 /  154473.30 /  494992.82, epsilon=  0.100, speed=  84.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1975/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1975 step:0(2235898), a_t=[s= 0.49, t= 0.965311, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1976/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1976 step:0(2235916), a_t=[s= 0.55, t= 0.952697, b= 0.000000], r_t=[r= 0.08, prog= 0.08, pen=-0.00, r_old= 0.08], Reward=  0.08 /  0.08 /  494992.82, epsilon=  0.100, speed=  0.03, gear= 1, damage= 0.00
+Ep:1976 step:20(2235936), a_t=[s=-0.28, t= 0.947940, b= 0.000000], r_t=[r= 222.17, prog= 251.25, pen=-29.08, r_old= 222.17], Reward=  2470.67 /  2470.67 /  494992.82, epsilon=  0.100, speed=  83.81, gear= 1, damage= 0.00
+Ep:1976 step:40(2235956), a_t=[s=-0.32, t= 0.953662, b= 0.000000], r_t=[r= 212.21, prog= 247.45, pen=-35.24, r_old= 212.21], Reward=  7098.22 /  7098.22 /  494992.82, epsilon=  0.100, speed=  83.64, gear= 1, damage= 0.00
+Ep:1976 step:60(2235976), a_t=[s= 0.37, t= 0.937057, b= 0.000000], r_t=[r= 194.98, prog= 250.61, pen=-55.63, r_old= 194.98], Reward=  11020.47 /  11020.47 /  494992.82, epsilon=  0.100, speed=  83.68, gear= 1, damage= 0.00
+Ep:1976 step:80(2235996), a_t=[s=-0.64, t= 0.956029, b= 0.000000], r_t=[r= 160.89, prog= 238.32, pen=-77.43, r_old= 160.89], Reward=  14448.41 /  14448.41 /  494992.82, epsilon=  0.100, speed=  80.78, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1977/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1977 step:0(2236008), a_t=[s= 0.44, t= 0.952461, b= 0.000000], r_t=[r= 0.54, prog= 0.54, pen=-0.00, r_old= 0.54], Reward=  0.54 /  0.54 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1978/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1978 step:0(2236026), a_t=[s= 0.48, t= 0.945215, b= 0.000000], r_t=[r= 0.15, prog= 0.15, pen=-0.00, r_old= 0.15], Reward=  0.15 /  0.15 /  494992.82, epsilon=  0.100, speed=  0.05, gear= 1, damage= 0.00
+Ep:1978 step:20(2236046), a_t=[s= 0.29, t= 0.956748, b= 0.000000], r_t=[r= 228.82, prog= 251.58, pen=-22.75, r_old= 228.82], Reward=  2791.99 /  2791.99 /  494992.82, epsilon=  0.100, speed=  83.86, gear= 1, damage= 0.00
+Ep:1978 step:40(2236066), a_t=[s=-0.41, t= 0.953153, b= 0.000000], r_t=[r= 207.19, prog= 249.94, pen=-42.75, r_old= 207.19], Reward=  7307.77 /  7307.77 /  494992.82, epsilon=  0.100, speed=  83.63, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1979/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1979 step:0(2236084), a_t=[s= 0.42, t= 0.928138, b= 0.000000], r_t=[r= 0.57, prog= 0.57, pen=-0.00, r_old= 0.57], Reward=  0.57 /  0.57 /  494992.82, epsilon=  0.100, speed=  0.19, gear= 1, damage= 0.00
+Ep:1979 step:20(2236104), a_t=[s= 0.30, t= 0.949532, b= 0.000000], r_t=[r= 228.00, prog= 250.97, pen=-22.97, r_old= 228.00], Reward=  2796.19 /  2796.19 /  494992.82, epsilon=  0.100, speed=  83.74, gear= 1, damage= 0.00
+Ep:1979 step:40(2236124), a_t=[s= 0.51, t= 0.952083, b= 0.000000], r_t=[r= 178.54, prog= 246.83, pen=-68.28, r_old= 178.54], Reward=  7091.54 /  7091.54 /  494992.82, epsilon=  0.100, speed=  82.97, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1980/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1980 step:0(2236135), a_t=[s= 0.38, t= 1.000000, b= 0.000000], r_t=[r= 0.59, prog= 0.59, pen=-0.00, r_old= 0.59], Reward=  0.59 /  0.59 /  494992.82, epsilon=  0.100, speed=  0.20, gear= 1, damage= 0.00
+Ep:1980 step:20(2236155), a_t=[s= 0.12, t= 1.000000, b= 0.000000], r_t=[r= 232.98, prog= 251.87, pen=-18.90, r_old= 232.98], Reward=  2887.94 /  2887.94 /  494992.82, epsilon=  0.100, speed=  83.96, gear= 1, damage= 0.00
+Ep:1980 step:40(2236175), a_t=[s= 0.35, t= 1.000000, b= 0.000000], r_t=[r= 182.63, prog= 251.78, pen=-69.15, r_old= 182.63], Reward=  7181.21 /  7181.21 /  494992.82, epsilon=  0.100, speed=  83.98, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1981/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1981 step:0(2236194), a_t=[s= 0.28, t= 0.947241, b= 0.000000], r_t=[r= 0.37, prog= 0.37, pen=-0.00, r_old= 0.37], Reward=  0.37 /  0.37 /  494992.82, epsilon=  0.100, speed=  0.12, gear= 1, damage= 0.00
+Ep:1981 step:20(2236214), a_t=[s=-0.13, t= 0.929133, b= 0.000000], r_t=[r= 184.04, prog= 250.35, pen=-66.32, r_old= 184.04], Reward=  2479.98 /  2479.98 /  494992.82, epsilon=  0.100, speed=  83.73, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1982/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1982 step:0(2236223), a_t=[s= 0.23, t= 0.967357, b= 0.000000], r_t=[r= 0.39, prog= 0.39, pen=-0.00, r_old= 0.39], Reward=  0.39 /  0.39 /  494992.82, epsilon=  0.100, speed=  0.13, gear= 1, damage= 0.00
+Ep:1982 step:20(2236243), a_t=[s= 0.88, t= 0.963459, b= 0.000000], r_t=[r= 176.75, prog= 249.80, pen=-73.05, r_old= 176.75], Reward=  2255.82 /  2255.82 /  494992.82, epsilon=  0.100, speed=  83.27, gear= 1, damage= 0.00
+Ep:1982 step:40(2236263), a_t=[s=-0.44, t= 0.949002, b= 0.000000], r_t=[r= 160.55, prog= 239.82, pen=-79.26, r_old= 160.55], Reward=  6030.86 /  6030.86 /  494992.82, epsilon=  0.100, speed=  81.70, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1983/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1983 step:0(2236277), a_t=[s= 0.24, t= 0.944119, b= 0.000000], r_t=[r= 0.61, prog= 0.61, pen=-0.00, r_old= 0.61], Reward=  0.61 /  0.61 /  494992.82, epsilon=  0.100, speed=  0.20, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1984/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1984 step:0(2236296), a_t=[s= 0.43, t= 0.940664, b= 0.000000], r_t=[r= 0.38, prog= 0.38, pen=-0.00, r_old= 0.38], Reward=  0.38 /  0.38 /  494992.82, epsilon=  0.100, speed=  0.13, gear= 1, damage= 0.00
+Ep:1984 step:20(2236316), a_t=[s=-0.83, t= 0.944898, b= 0.000000], r_t=[r=-22.23, prog= 15.01, pen=-37.24, r_old=-22.23], Reward=  563.34 /  591.07 /  494992.82, epsilon=  0.100, speed=  13.46, gear= 1, damage= 918.00
+Ep:1984 step:40(2236336), a_t=[s=-0.91, t= 0.939042, b= 0.000000], r_t=[r= 0.12, prog= 1.81, pen=-1.69, r_old= 0.12], Reward=  530.59 /  558.32 /  494992.82, epsilon=  0.100, speed=  0.71, gear= 1, damage= 918.00
+Ep:1984 step:60(2236356), a_t=[s=-1.00, t= 0.956341, b= 0.000000], r_t=[r= 0.24, prog= 2.22, pen=-1.98, r_old= 0.24], Reward=  534.27 /  562.00 /  494992.82, epsilon=  0.100, speed=  0.85, gear= 1, damage= 918.00
+Ep:1984 step:80(2236376), a_t=[s=-0.76, t= 0.944365, b= 0.000000], r_t=[r= 0.29, prog= 2.12, pen=-1.82, r_old= 0.29], Reward=  539.95 /  567.68 /  494992.82, epsilon=  0.100, speed=  0.79, gear= 1, damage= 918.00
+Ep:1984 step:100(2236396), a_t=[s= 0.85, t= 0.943372, b= 0.000000], r_t=[r= 27.19, prog= 78.81, pen=-51.62, r_old= 27.19], Reward=  646.04 /  673.77 /  494992.82, epsilon=  0.100, speed=  26.40, gear= 1, damage= 918.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1985/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1985 step:0(2236402), a_t=[s=-0.14, t= 0.938184, b= 0.000000], r_t=[r= 0.42, prog= 0.42, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+Ep:1985 step:20(2236422), a_t=[s= 0.19, t= 0.944680, b= 0.000000], r_t=[r= 233.97, prog= 251.69, pen=-17.72, r_old= 233.97], Reward=  2735.67 /  2735.67 /  494992.82, epsilon=  0.100, speed=  83.90, gear= 1, damage= 0.00
+META = 1 ... out of track
+Ep:1985 step:40(2236442), a_t=[s=-0.83, t= 0.954083, b= 0.000000], r_t=[r=-127.35, prog= 212.80, pen=-340.16, r_old=-200.00], Reward=  6787.54 /  6714.89 /  494992.82, epsilon=  0.100, speed=  82.50, gear= 1, damage= 0.00
+=============================================================
+ starting episode: 1986/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1986 step:0(2236443), a_t=[s=-0.28, t= 0.941995, b= 0.000000], r_t=[r= 0.32, prog= 0.32, pen=-0.00, r_old= 0.32], Reward=  0.32 /  0.32 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1987/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1987 step:0(2236461), a_t=[s=-0.00, t= 0.963274, b= 0.000000], r_t=[r= 0.37, prog= 0.37, pen=-0.00, r_old= 0.37], Reward=  0.37 /  0.37 /  494992.82, epsilon=  0.100, speed=  0.12, gear= 1, damage= 0.00
+Ep:1987 step:20(2236481), a_t=[s= 0.09, t= 0.946802, b= 0.000000], r_t=[r= 234.23, prog= 251.62, pen=-17.39, r_old= 234.23], Reward=  2731.35 /  2731.35 /  494992.82, epsilon=  0.100, speed=  83.88, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1988/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1988 step:0(2236500), a_t=[s=-0.02, t= 0.939653, b= 0.000000], r_t=[r= 0.60, prog= 0.60, pen=-0.00, r_old= 0.60], Reward=  0.60 /  0.60 /  494992.82, epsilon=  0.100, speed=  0.20, gear= 1, damage= 0.00
+Ep:1988 step:20(2236520), a_t=[s= 0.22, t= 0.927142, b= 0.000000], r_t=[r= 227.64, prog= 251.12, pen=-23.48, r_old= 227.64], Reward=  2762.87 /  2762.87 /  494992.82, epsilon=  0.100, speed=  83.79, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1989/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1989 step:0(2236535), a_t=[s=-0.14, t= 0.933519, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  494992.82, epsilon=  0.100, speed=  0.06, gear= 1, damage= 0.00
+Ep:1989 step:20(2236555), a_t=[s= 0.11, t= 0.957826, b= 0.000000], r_t=[r= 225.42, prog= 251.66, pen=-26.23, r_old= 225.42], Reward=  2719.25 /  2719.25 /  494992.82, epsilon=  0.100, speed=  83.98, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1990/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1990 step:0(2236571), a_t=[s=-0.10, t= 0.944265, b= 0.000000], r_t=[r= 0.54, prog= 0.54, pen=-0.00, r_old= 0.54], Reward=  0.54 /  0.54 /  494992.82, epsilon=  0.100, speed=  0.18, gear= 1, damage= 0.00
+Ep:1990 step:20(2236591), a_t=[s=-0.07, t= 0.951154, b= 0.000000], r_t=[r= 224.19, prog= 251.30, pen=-27.11, r_old= 224.19], Reward=  2628.41 /  2628.41 /  494992.82, epsilon=  0.100, speed=  83.80, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1991/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1991 step:0(2236607), a_t=[s=-0.16, t= 0.941941, b= 0.000000], r_t=[r= 0.29, prog= 0.29, pen=-0.00, r_old= 0.29], Reward=  0.29 /  0.29 /  494992.82, epsilon=  0.100, speed=  0.10, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1992/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1992 step:0(2236624), a_t=[s=-0.13, t= 0.947352, b= 0.000000], r_t=[r= 0.49, prog= 0.49, pen=-0.00, r_old= 0.49], Reward=  0.49 /  0.49 /  494992.82, epsilon=  0.100, speed=  0.16, gear= 1, damage= 0.00
+Ep:1992 step:20(2236644), a_t=[s=-0.47, t= 0.946590, b= 0.000000], r_t=[r= 100.07, prog= 232.55, pen=-132.48, r_old= 100.07], Reward=  2251.88 /  2251.88 /  494992.82, epsilon=  0.100, speed=  83.34, gear= 1, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 1993/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1993 step:0(2236651), a_t=[s=-0.22, t= 0.947865, b= 0.000000], r_t=[r= 0.33, prog= 0.33, pen=-0.00, r_old= 0.33], Reward=  0.33 /  0.33 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1994/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1994 step:0(2236669), a_t=[s=-0.32, t= 0.942683, b= 0.000000], r_t=[r= 0.04, prog= 0.04, pen=-0.00, r_old= 0.04], Reward=  0.04 /  0.04 /  494992.82, epsilon=  0.100, speed=  0.01, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1995/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1995 step:0(2236687), a_t=[s=-0.12, t= 0.955786, b= 0.000000], r_t=[r= 0.28, prog= 0.28, pen=-0.00, r_old= 0.28], Reward=  0.28 /  0.28 /  494992.82, epsilon=  0.100, speed=  0.09, gear= 1, damage= 0.00
+Ep:1995 step:20(2236707), a_t=[s= 0.11, t= 0.945752, b= 0.000000], r_t=[r= 227.78, prog= 251.61, pen=-23.83, r_old= 227.78], Reward=  2727.76 /  2727.76 /  494992.82, epsilon=  0.100, speed=  83.92, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1996/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1996 step:0(2236723), a_t=[s=-0.32, t= 0.974063, b= 0.000000], r_t=[r= 0.42, prog= 0.43, pen=-0.00, r_old= 0.42], Reward=  0.42 /  0.42 /  494992.82, epsilon=  0.100, speed=  0.14, gear= 1, damage= 0.00
+Ep:1996 step:20(2236743), a_t=[s= 0.29, t= 0.950866, b= 0.000000], r_t=[r= 234.48, prog= 251.39, pen=-16.91, r_old= 234.48], Reward=  2811.70 /  2811.70 /  494992.82, epsilon=  0.100, speed=  83.80, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1997/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1997 step:0(2236759), a_t=[s=-0.30, t= 0.961818, b= 0.000000], r_t=[r= 0.33, prog= 0.33, pen=-0.00, r_old= 0.33], Reward=  0.33 /  0.33 /  494992.82, epsilon=  0.100, speed=  0.11, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1998/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3104..............
+Ep:1998 step:0(2236776), a_t=[s=-0.34, t= 0.952953, b= 0.000000], r_t=[r= 0.07, prog= 0.07, pen=-0.00, r_old= 0.07], Reward=  0.07 /  0.07 /  494992.82, epsilon=  0.100, speed=  0.02, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 1999/2000
+Waiting for server on 3104............
+Count Down : 5
+Client connected on 3104..............
+Ep:1999 step:0(2236794), a_t=[s=-0.21, t= 0.949628, b= 0.000000], r_t=[r= 0.22, prog= 0.22, pen=-0.00, r_old= 0.22], Reward=  0.22 /  0.22 /  494992.82, epsilon=  0.100, speed=  0.07, gear= 1, damage= 0.00
+META = 1 ... out of track
+Run finnished at : 2017-10-12 22:22:49

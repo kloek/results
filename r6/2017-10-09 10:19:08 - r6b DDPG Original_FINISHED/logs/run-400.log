@@ -1,0 +1,1224 @@
+=============================================================
+ starting episode: 400/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:400 step:0(67437), a_t=[s= 0.39, t= 1.000000, b= 0.000000], r_t=[r= 0.26, prog= 0.26, pen=-0.00, r_old= 0.26], Reward=  0.26 /  0.26 /  78568.60, epsilon=  0.788, speed=  0.09, gear= 1, damage= 0.00
+Ep:400 step:20(67457), a_t=[s= 0.27, t= 1.000000, b= 0.000000], r_t=[r= 261.84, prog= 277.85, pen=-16.01, r_old= 261.84], Reward=  2979.40 /  2979.40 /  78568.60, epsilon=  0.788, speed=  92.89, gear= 3, damage= 0.00
+Ep:400 step:40(67477), a_t=[s=-0.77, t= 1.000000, b= 0.000000], r_t=[r= 291.79, prog= 411.79, pen=-119.99, r_old= 291.79], Reward=  8850.74 /  8850.74 /  78568.60, epsilon=  0.788, speed=  137.26, gear= 4, damage= 0.00
+Ep:400 step:60(67497), a_t=[s=-0.36, t= 1.000000, b= 0.000000], r_t=[r= 251.21, prog= 422.27, pen=-171.06, r_old= 251.21], Reward=  14619.19 /  14619.19 /  78568.60, epsilon=  0.788, speed=  141.37, gear= 4, damage= 0.00
+Ep:400 step:80(67517), a_t=[s=-0.18, t= 1.000000, b= 0.000000], r_t=[r= 341.09, prog= 372.75, pen=-31.66, r_old= 341.09], Reward=  17812.47 /  17601.68 /  78568.60, epsilon=  0.788, speed=  124.34, gear= 4, damage= 31.00
+Ep:400 step:100(67537), a_t=[s= 0.35, t= 1.000000, b= 0.000000], r_t=[r= 368.11, prog= 418.16, pen=-50.05, r_old= 368.11], Reward=  23560.57 /  23349.78 /  78568.60, epsilon=  0.788, speed=  139.44, gear= 4, damage= 31.00
+Ep:400 step:120(67557), a_t=[s=-1.00, t= 1.000000, b= 0.000000], r_t=[r= 57.14, prog= 271.19, pen=-214.05, r_old= 57.14], Reward=  27755.95 /  27476.26 /  78568.60, epsilon=  0.788, speed=  104.84, gear= 3, damage= 94.00
+Ep:400 step:140(67577), a_t=[s=-1.00, t= 1.000000, b= 0.000000], r_t=[r=-19.22, prog= 172.40, pen=-191.62, r_old=-19.22], Reward=  30453.92 /  29935.97 /  78568.60, epsilon=  0.788, speed=  85.84, gear= 3, damage= 104.00
+Ep:400 step:160(67597), a_t=[s= 0.51, t= 1.000000, b= 0.000000], r_t=[r= 262.27, prog= 343.76, pen=-81.49, r_old= 262.27], Reward=  31852.99 /  31259.16 /  78568.60, epsilon=  0.788, speed=  115.83, gear= 4, damage= 110.00
+Ep:400 step:180(67617), a_t=[s= 0.28, t= 1.000000, b= 0.000000], r_t=[r= 198.91, prog= 377.68, pen=-178.77, r_old= 198.91], Reward=  35934.18 /  35195.61 /  78568.60, epsilon=  0.788, speed=  131.04, gear= 4, damage= 164.00
+Ep:400 step:200(67637), a_t=[s= 0.97, t= 1.000000, b= 0.000000], r_t=[r= 4.29, prog= 416.27, pen=-411.98, r_old= 4.29], Reward=  38696.22 /  37800.43 /  78568.60, epsilon=  0.788, speed=  140.76, gear= 5, damage= 207.00
+Ep:400 step:220(67657), a_t=[s=-1.00, t= 1.000000, b= 0.000000], r_t=[r=-4.09, prog= 145.54, pen=-149.63, r_old=-4.09], Reward=  39313.92 /  38359.55 /  78568.60, epsilon=  0.788, speed=  68.08, gear= 2, damage= 1101.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 401/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:401 step:0(67670), a_t=[s= 0.93, t= 0.559968, b= 0.000000], r_t=[r= 0.68, prog= 0.68, pen=-0.00, r_old= 0.68], Reward=  0.68 /  0.68 /  78568.60, epsilon=  0.788, speed=  0.23, gear= 1, damage= 0.00
+Ep:401 step:20(67690), a_t=[s= 0.29, t= 0.819842, b= 0.000000], r_t=[r= 137.49, prog= 166.60, pen=-29.11, r_old= 137.49], Reward=  1177.01 /  1177.01 /  78568.60, epsilon=  0.788, speed=  55.74, gear= 1, damage= 0.00
+Ep:401 step:40(67710), a_t=[s= 0.53, t= 0.645182, b= 0.000000], r_t=[r= 178.48, prog= 228.69, pen=-50.21, r_old= 178.48], Reward=  4610.85 /  4610.85 /  78568.60, epsilon=  0.788, speed=  79.31, gear= 3, damage= 0.00
+Ep:401 step:60(67730), a_t=[s= 1.00, t= 0.529187, b= 0.000000], r_t=[r= 239.12, prog= 269.95, pen=-30.84, r_old= 239.12], Reward=  9028.34 /  9028.34 /  78568.60, epsilon=  0.787, speed=  90.59, gear= 3, damage= 0.00
+Ep:401 step:80(67750), a_t=[s=-0.28, t= 0.601684, b= 0.000000], r_t=[r= 76.03, prog= 230.67, pen=-154.64, r_old= 76.03], Reward=  11698.64 /  11637.28 /  78568.60, epsilon=  0.787, speed=  81.25, gear= 2, damage= 30.00
+Ep:401 step:100(67770), a_t=[s= 0.37, t= 0.657332, b= 0.000000], r_t=[r=-180.06, prog= 188.20, pen=-368.27, r_old=-226.00], Reward=  13651.82 /  13544.52 /  78568.60, epsilon=  0.787, speed=  70.80, gear= 3, damage= 256.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 402/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:402 step:0(67777), a_t=[s=-0.19, t= 0.544380, b= 0.000000], r_t=[r= 0.55, prog= 0.55, pen=-0.00, r_old= 0.55], Reward=  0.55 /  0.55 /  78568.60, epsilon=  0.787, speed=  0.18, gear= 1, damage= 0.00
+Ep:402 step:20(67797), a_t=[s= 0.20, t= 0.471723, b= 0.000000], r_t=[r= 86.10, prog= 135.94, pen=-49.84, r_old= 86.10], Reward=  1018.11 /  1018.11 /  78568.60, epsilon=  0.787, speed=  48.30, gear= 1, damage= 0.00
+Ep:402 step:40(67817), a_t=[s= 1.00, t= 0.607792, b= 0.000000], r_t=[r= 204.05, prog= 238.91, pen=-34.86, r_old= 204.05], Reward=  4178.24 /  4178.24 /  78568.60, epsilon=  0.787, speed=  79.73, gear= 3, damage= 0.00
+Ep:402 step:60(67837), a_t=[s= 0.06, t= 0.569439, b= 0.000000], r_t=[r= 251.97, prog= 290.23, pen=-38.26, r_old= 251.97], Reward=  8339.97 /  8339.97 /  78568.60, epsilon=  0.787, speed=  97.41, gear= 3, damage= 0.00
+Ep:402 step:80(67857), a_t=[s= 0.14, t= 0.646403, b= 0.000000], r_t=[r= 315.80, prog= 328.77, pen=-12.97, r_old= 315.80], Reward=  12944.45 /  12944.45 /  78568.60, epsilon=  0.787, speed=  109.97, gear= 3, damage= 0.00
+Ep:402 step:100(67877), a_t=[s=-0.76, t= 0.589278, b= 0.000000], r_t=[r= 227.83, prog= 275.07, pen=-47.24, r_old= 227.83], Reward=  18725.38 /  18725.38 /  78568.60, epsilon=  0.787, speed=  99.94, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 403/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:403 step:0(67893), a_t=[s=-0.34, t= 0.596517, b= 0.000000], r_t=[r= 0.45, prog= 0.45, pen=-0.00, r_old= 0.45], Reward=  0.45 /  0.45 /  78568.60, epsilon=  0.787, speed=  0.15, gear= 1, damage= 0.00
+Ep:403 step:20(67913), a_t=[s= 1.00, t= 0.545509, b= 0.000000], r_t=[r= 147.85, prog= 157.55, pen=-9.70, r_old= 147.85], Reward=  1427.70 /  1427.70 /  78568.60, epsilon=  0.787, speed=  52.69, gear= 2, damage= 0.00
+Ep:403 step:40(67933), a_t=[s= 0.63, t= 0.620561, b= 0.000000], r_t=[r= 177.79, prog= 248.96, pen=-71.17, r_old= 177.79], Reward=  4989.59 /  4989.59 /  78568.60, epsilon=  0.787, speed=  83.09, gear= 3, damage= 0.00
+Ep:403 step:60(67953), a_t=[s= 0.25, t= 0.772310, b= 0.000000], r_t=[r= 221.38, prog= 298.48, pen=-77.10, r_old= 221.38], Reward=  9283.51 /  9283.51 /  78568.60, epsilon=  0.787, speed=  100.68, gear= 3, damage= 0.00
+Ep:403 step:80(67973), a_t=[s= 0.23, t= 0.639605, b= 0.000000], r_t=[r= 290.56, prog= 321.28, pen=-30.72, r_old= 290.56], Reward=  13975.61 /  13975.61 /  78568.60, epsilon=  0.787, speed=  107.25, gear= 3, damage= 0.00
+Ep:403 step:100(67993), a_t=[s= 0.63, t= 0.636667, b= 0.000000], r_t=[r= 37.66, prog= 133.16, pen=-95.50, r_old= 37.66], Reward=  14703.71 /  14584.97 /  78568.60, epsilon=  0.787, speed=  48.83, gear= 1, damage= 408.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 404/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:404 step:0(68005), a_t=[s=-0.08, t= 0.490773, b= 0.000000], r_t=[r= 0.01, prog= 0.01, pen=-0.00, r_old= 0.01], Reward=  0.01 /  0.01 /  78568.60, epsilon=  0.787, speed=  0.00, gear= 1, damage= 0.00
+Ep:404 step:20(68025), a_t=[s= 0.87, t= 0.676045, b= 0.000000], r_t=[r= 134.69, prog= 163.03, pen=-28.34, r_old= 134.69], Reward=  1287.35 /  1287.35 /  78568.60, epsilon=  0.786, speed=  54.91, gear= 1, damage= 0.00
+Ep:404 step:40(68045), a_t=[s= 0.57, t= 0.685133, b= 0.000000], r_t=[r= 196.85, prog= 257.28, pen=-60.43, r_old= 196.85], Reward=  4572.19 /  4572.19 /  78568.60, epsilon=  0.786, speed=  85.77, gear= 3, damage= 0.00
+Ep:404 step:60(68065), a_t=[s= 0.15, t= 0.692803, b= 0.000000], r_t=[r= 250.07, prog= 319.20, pen=-69.13, r_old= 250.07], Reward=  9277.66 /  9277.66 /  78568.60, epsilon=  0.786, speed=  107.03, gear= 3, damage= 0.00
+Ep:404 step:80(68085), a_t=[s= 1.00, t= 0.547941, b= 0.000000], r_t=[r= 271.31, prog= 305.23, pen=-33.92, r_old= 271.31], Reward=  12997.84 /  12997.84 /  78568.60, epsilon=  0.786, speed=  105.61, gear= 3, damage= 0.00
+Ep:404 step:100(68105), a_t=[s= 0.38, t= 0.606223, b= 0.000000], r_t=[r= 24.94, prog= 151.50, pen=-126.55, r_old= 24.94], Reward=  15769.31 /  15769.31 /  78568.60, epsilon=  0.786, speed=  94.58, gear= 3, damage= 0.00
+Ep:404 step:120(68125), a_t=[s= 0.54, t= 0.638221, b= 0.000000], r_t=[r= 146.80, prog= 297.31, pen=-150.51, r_old= 146.80], Reward=  19177.24 /  19177.24 /  78568.60, epsilon=  0.786, speed=  106.41, gear= 3, damage= 0.00
+Ep:404 step:140(68145), a_t=[s=-0.01, t= 0.593163, b= 0.000000], r_t=[r= 11.72, prog= 154.45, pen=-142.73, r_old= 11.72], Reward=  20458.31 /  20323.82 /  78568.60, epsilon=  0.786, speed=  66.61, gear= 2, damage= 33.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 405/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:405 step:0(68153), a_t=[s= 0.07, t= 0.575733, b= 0.000000], r_t=[r= 0.35, prog= 0.36, pen=-0.00, r_old= 0.35], Reward=  0.35 /  0.35 /  78568.60, epsilon=  0.786, speed=  0.12, gear= 1, damage= 0.00
+Ep:405 step:20(68173), a_t=[s=-0.46, t= 0.668572, b= 0.000000], r_t=[r= 113.50, prog= 153.34, pen=-39.84, r_old= 113.50], Reward=  1392.54 /  1392.54 /  78568.60, epsilon=  0.786, speed=  54.15, gear= 2, damage= 0.00
+Ep:405 step:40(68193), a_t=[s=-1.00, t= 0.560976, b= 0.000000], r_t=[r= 104.54, prog= 220.31, pen=-115.77, r_old= 104.54], Reward=  2799.30 /  2783.85 /  78568.60, epsilon=  0.786, speed=  73.44, gear= 2, damage= 81.00
+Ep:405 step:60(68213), a_t=[s=-0.53, t= 0.490679, b= 0.000000], r_t=[r= 222.02, prog= 263.47, pen=-41.45, r_old= 222.02], Reward=  5729.16 /  5713.71 /  78568.60, epsilon=  0.786, speed=  87.93, gear= 3, damage= 81.00
+Ep:405 step:80(68233), a_t=[s= 0.66, t= 0.734039, b= 0.000000], r_t=[r= 286.13, prog= 322.35, pen=-36.22, r_old= 286.13], Reward=  10941.54 /  10926.09 /  78568.60, epsilon=  0.786, speed=  108.00, gear= 4, damage= 81.00
+Ep:405 step:100(68253), a_t=[s= 0.50, t= 0.654004, b= 0.000000], r_t=[r= 120.36, prog= 315.49, pen=-195.13, r_old= 120.36], Reward=  15059.50 /  15044.05 /  78568.60, epsilon=  0.786, speed=  108.15, gear= 4, damage= 81.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 406/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:406 step:0(68266), a_t=[s=-0.45, t= 0.489800, b= 0.000000], r_t=[r= 0.05, prog= 0.05, pen=-0.00, r_old= 0.05], Reward=  0.05 /  0.05 /  78568.60, epsilon=  0.786, speed=  0.02, gear= 1, damage= 0.00
+Ep:406 step:20(68286), a_t=[s= 1.00, t= 0.706247, b= 0.000000], r_t=[r= 137.64, prog= 155.09, pen=-17.44, r_old= 137.64], Reward=  1325.08 /  1325.08 /  78568.60, epsilon=  0.786, speed=  51.91, gear= 2, damage= 0.00
+Ep:406 step:40(68306), a_t=[s= 0.26, t= 0.509087, b= 0.000000], r_t=[r= 194.06, prog= 234.33, pen=-40.27, r_old= 194.06], Reward=  4982.10 /  4982.10 /  78568.60, epsilon=  0.786, speed=  78.86, gear= 2, damage= 0.00
+Ep:406 step:60(68326), a_t=[s=-0.44, t= 0.511133, b= 0.000000], r_t=[r= 175.47, prog= 244.59, pen=-69.12, r_old= 175.47], Reward=  7655.47 /  7567.59 /  78568.60, epsilon=  0.785, speed=  97.30, gear= 3, damage= 16.00
+Ep:406 step:80(68346), a_t=[s= 0.03, t= 0.582932, b= 0.000000], r_t=[r= 244.99, prog= 317.36, pen=-72.38, r_old= 244.99], Reward=  10857.25 /  10672.25 /  78568.60, epsilon=  0.785, speed=  109.16, gear= 3, damage= 92.00
+Ep:406 step:100(68366), a_t=[s=-0.43, t= 0.695318, b= 0.000000], r_t=[r= 141.67, prog= 319.34, pen=-177.67, r_old= 141.67], Reward=  15273.43 /  14951.13 /  78568.60, epsilon=  0.785, speed=  106.52, gear= 3, damage= 126.00
+Ep:406 step:120(68386), a_t=[s= 0.69, t= 0.727270, b= 0.000000], r_t=[r= 190.23, prog= 335.24, pen=-145.01, r_old= 190.23], Reward=  17472.93 /  17150.64 /  78568.60, epsilon=  0.785, speed=  112.51, gear= 3, damage= 126.00
+Ep:406 step:140(68406), a_t=[s=-0.07, t= 0.680497, b= 0.000000], r_t=[r= 313.49, prog= 335.24, pen=-21.75, r_old= 313.49], Reward=  22350.14 /  22027.84 /  78568.60, epsilon=  0.785, speed=  111.98, gear= 3, damage= 126.00
+Ep:406 step:160(68426), a_t=[s= 1.00, t= 0.655027, b= 0.000000], r_t=[r= 259.26, prog= 322.78, pen=-63.52, r_old= 259.26], Reward=  27773.51 /  27451.22 /  78568.60, epsilon=  0.785, speed=  107.68, gear= 4, damage= 126.00
+Ep:406 step:180(68446), a_t=[s=-1.00, t= 0.441957, b= 0.000000], r_t=[r= 224.12, prog= 317.79, pen=-93.67, r_old= 224.12], Reward=  31525.38 /  31082.59 /  78568.60, epsilon=  0.785, speed=  106.39, gear= 3, damage= 149.00
+Ep:406 step:200(68466), a_t=[s=-0.12, t= 0.549138, b= 0.000000], r_t=[r= 117.46, prog= 314.54, pen=-197.09, r_old= 117.46], Reward=  34115.27 /  33468.81 /  78568.60, epsilon=  0.785, speed=  107.86, gear= 3, damage= 174.00
+Ep:406 step:220(68486), a_t=[s=-0.51, t= 0.631011, b= 0.000000], r_t=[r=-24.58, prog= 26.14, pen=-50.71, r_old=-24.58], Reward=  34562.30 /  33931.01 /  78568.60, epsilon=  0.785, speed=  21.27, gear= 1, damage= 1564.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 407/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:407 step:0(68489), a_t=[s= 0.68, t= 0.614308, b= 0.000000], r_t=[r= 0.47, prog= 0.47, pen=-0.00, r_old= 0.47], Reward=  0.47 /  0.47 /  78568.60, epsilon=  0.785, speed=  0.16, gear= 1, damage= 0.00
+Ep:407 step:20(68509), a_t=[s= 0.15, t= 0.705689, b= 0.000000], r_t=[r= 93.99, prog= 135.57, pen=-41.58, r_old= 93.99], Reward=  1385.79 /  1385.79 /  78568.60, epsilon=  0.785, speed=  49.03, gear= 1, damage= 0.00
+Ep:407 step:40(68529), a_t=[s=-0.49, t= 0.645835, b= 0.000000], r_t=[r= 130.13, prog= 224.01, pen=-93.88, r_old= 130.13], Reward=  4772.15 /  4772.15 /  78568.60, epsilon=  0.785, speed=  80.50, gear= 3, damage= 0.00
+Ep:407 step:60(68549), a_t=[s=-0.46, t= 0.542537, b= 0.000000], r_t=[r= 224.24, prog= 276.47, pen=-52.23, r_old= 224.24], Reward=  8282.09 /  8282.09 /  78568.60, epsilon=  0.785, speed=  93.92, gear= 3, damage= 0.00
+Ep:407 step:80(68569), a_t=[s= 0.89, t= 0.602654, b= 0.000000], r_t=[r= 266.96, prog= 313.47, pen=-46.51, r_old= 266.96], Reward=  13752.63 /  13752.63 /  78568.60, epsilon=  0.785, speed=  106.35, gear= 3, damage= 0.00
+Ep:407 step:100(68589), a_t=[s=-1.00, t= 0.464824, b= 0.000000], r_t=[r= 240.11, prog= 321.24, pen=-81.13, r_old= 240.11], Reward=  18772.88 /  18772.88 /  78568.60, epsilon=  0.785, speed=  107.18, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 408/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:408 step:0(68596), a_t=[s=-0.02, t= 0.598118, b= 0.000000], r_t=[r= 0.54, prog= 0.54, pen=-0.00, r_old= 0.54], Reward=  0.54 /  0.54 /  78568.60, epsilon=  0.785, speed=  0.18, gear= 1, damage= 0.00
+Ep:408 step:20(68616), a_t=[s=-0.89, t= 0.599962, b= 0.000000], r_t=[r= 108.55, prog= 143.73, pen=-35.18, r_old= 108.55], Reward=  1417.60 /  1417.60 /  78568.60, epsilon=  0.784, speed=  51.98, gear= 2, damage= 0.00
+Ep:408 step:40(68636), a_t=[s= 1.00, t= 0.580892, b= 0.000000], r_t=[r= 193.22, prog= 238.56, pen=-45.33, r_old= 193.22], Reward=  4550.40 /  4550.40 /  78568.60, epsilon=  0.784, speed=  79.95, gear= 3, damage= 0.00
+Ep:408 step:60(68656), a_t=[s=-0.37, t= 0.652628, b= 0.000000], r_t=[r= 81.98, prog= 233.46, pen=-151.48, r_old= 81.98], Reward=  6978.19 /  6978.19 /  78568.60, epsilon=  0.784, speed=  90.48, gear= 3, damage= 0.00
+Ep:408 step:80(68676), a_t=[s= 0.38, t= 0.678367, b= 0.000000], r_t=[r= 243.84, prog= 267.72, pen=-23.87, r_old= 243.84], Reward=  10860.90 /  10860.90 /  78568.60, epsilon=  0.784, speed=  91.71, gear= 3, damage= 0.00
+Ep:408 step:100(68696), a_t=[s=-0.85, t= 0.487275, b= 0.000000], r_t=[r= 115.62, prog= 286.46, pen=-170.84, r_old= 115.62], Reward=  14865.08 /  14746.42 /  78568.60, epsilon=  0.784, speed=  96.49, gear= 3, damage= 10.00
+Ep:408 step:120(68716), a_t=[s= 0.91, t= 0.605774, b= 0.000000], r_t=[r= 247.83, prog= 314.04, pen=-66.21, r_old= 247.83], Reward=  19161.01 /  19042.35 /  78568.60, epsilon=  0.784, speed=  104.91, gear= 3, damage= 10.00
+Ep:408 step:140(68736), a_t=[s= 0.13, t= 0.609168, b= 0.000000], r_t=[r= 126.26, prog= 324.68, pen=-198.42, r_old= 126.26], Reward=  22337.35 /  21978.69 /  78568.60, epsilon=  0.784, speed=  110.94, gear= 4, damage= 105.00
+Ep:408 step:160(68756), a_t=[s= 1.00, t= 0.635525, b= 0.000000], r_t=[r= 163.40, prog= 320.44, pen=-157.04, r_old= 163.40], Reward=  25153.94 /  24682.23 /  78568.60, epsilon=  0.784, speed=  110.97, gear= 4, damage= 109.00
+Ep:408 step:180(68776), a_t=[s= 0.03, t= 0.632639, b= 0.000000], r_t=[r= 271.84, prog= 328.23, pen=-56.39, r_old= 271.84], Reward=  30257.67 /  29785.95 /  78568.60, epsilon=  0.784, speed=  110.27, gear= 3, damage= 109.00
+Ep:408 step:200(68796), a_t=[s= 1.00, t= 0.694762, b= 0.000000], r_t=[r= 2.88, prog= 88.65, pen=-85.77, r_old= 2.88], Reward=  32322.12 /  31722.75 /  78568.60, epsilon=  0.784, speed=  75.85, gear= 2, damage= 139.00
+Ep:408 step:220(68816), a_t=[s=-0.40, t= 0.560428, b= 0.000000], r_t=[r= 191.13, prog= 263.90, pen=-72.78, r_old= 191.13], Reward=  34623.55 /  33938.65 /  78568.60, epsilon=  0.784, speed=  88.70, gear= 3, damage= 243.00
+Ep:408 step:240(68836), a_t=[s= 0.56, t= 0.627877, b= 0.000000], r_t=[r= 146.90, prog= 291.88, pen=-144.98, r_old= 146.90], Reward=  38891.67 /  38206.77 /  78568.60, epsilon=  0.784, speed=  99.60, gear= 3, damage= 243.00
+META = 1 ... Running backwards
+Ep:408 step:260(68856), a_t=[s=-0.81, t= 0.714890, b= 0.153688], r_t=[r= 1.68, prog= 1.49, pen= 0.19, r_old= 1.68], Reward=  40037.75 /  39352.84 /  78568.60, epsilon=  0.784, speed= -2.49, gear= 1, damage= 243.00
+=============================================================
+ starting episode: 409/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:409 step:0(68857), a_t=[s= 0.33, t= 0.680402, b= 0.000000], r_t=[r= 0.49, prog= 0.49, pen=-0.00, r_old= 0.49], Reward=  0.49 /  0.49 /  78568.60, epsilon=  0.784, speed=  0.16, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 410/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:410 step:0(68877), a_t=[s= 0.28, t= 0.484356, b= 0.000000], r_t=[r= 0.49, prog= 0.49, pen=-0.00, r_old= 0.49], Reward=  0.49 /  0.49 /  78568.60, epsilon=  0.784, speed=  0.16, gear= 1, damage= 0.00
+Ep:410 step:20(68897), a_t=[s= 0.59, t= 0.650798, b= 0.000000], r_t=[r= 142.65, prog= 155.45, pen=-12.81, r_old= 142.65], Reward=  1395.20 /  1395.20 /  78568.60, epsilon=  0.784, speed=  51.83, gear= 2, damage= 0.00
+Ep:410 step:40(68917), a_t=[s= 0.69, t= 0.652057, b= 0.000000], r_t=[r= 197.55, prog= 250.40, pen=-52.85, r_old= 197.55], Reward=  5199.63 /  5199.63 /  78568.60, epsilon=  0.783, speed=  83.94, gear= 3, damage= 0.00
+Ep:410 step:60(68937), a_t=[s=-0.84, t= 0.627691, b= 0.000000], r_t=[r= 258.69, prog= 304.26, pen=-45.57, r_old= 258.69], Reward=  9593.75 /  9593.75 /  78568.60, epsilon=  0.783, speed=  101.54, gear= 3, damage= 0.00
+Ep:410 step:80(68957), a_t=[s=-1.00, t= 0.591281, b= 0.000000], r_t=[r= 270.41, prog= 323.27, pen=-52.86, r_old= 270.41], Reward=  15238.25 /  15238.25 /  78568.60, epsilon=  0.783, speed=  108.68, gear= 3, damage= 0.00
+Ep:410 step:100(68977), a_t=[s=-0.29, t= 0.606612, b= 0.147541], r_t=[r=-63.39, prog= 24.48, pen=-87.87, r_old=-63.39], Reward=  17407.87 /  17340.95 /  78568.60, epsilon=  0.783, speed=  43.39, gear= 2, damage= 401.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 411/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:411 step:0(68979), a_t=[s= 0.63, t= 0.504955, b= 0.000000], r_t=[r= 0.52, prog= 0.52, pen=-0.00, r_old= 0.52], Reward=  0.52 /  0.52 /  78568.60, epsilon=  0.783, speed=  0.17, gear= 1, damage= 0.00
+Ep:411 step:20(68999), a_t=[s= 0.38, t= 0.522285, b= 0.000000], r_t=[r= 140.10, prog= 158.74, pen=-18.64, r_old= 140.10], Reward=  1342.87 /  1342.87 /  78568.60, epsilon=  0.783, speed=  53.05, gear= 2, damage= 0.00
+Ep:411 step:40(69019), a_t=[s= 0.02, t= 0.684802, b= 0.000000], r_t=[r= 200.40, prog= 245.26, pen=-44.86, r_old= 200.40], Reward=  5070.78 /  5070.78 /  78568.60, epsilon=  0.783, speed=  83.69, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 412/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:412 step:0(69036), a_t=[s= 0.42, t= 0.493812, b= 0.000000], r_t=[r= 0.30, prog= 0.30, pen=-0.00, r_old= 0.30], Reward=  0.30 /  0.30 /  78568.60, epsilon=  0.783, speed=  0.10, gear= 1, damage= 0.00
+Ep:412 step:20(69056), a_t=[s=-0.14, t= 0.807797, b= 0.000000], r_t=[r= 141.07, prog= 165.77, pen=-24.70, r_old= 141.07], Reward=  1427.92 /  1427.92 /  78568.60, epsilon=  0.783, speed=  55.73, gear= 2, damage= 0.00
+Ep:412 step:40(69076), a_t=[s= 1.00, t= 0.661152, b= 0.000000], r_t=[r= 166.89, prog= 257.36, pen=-90.48, r_old= 166.89], Reward=  5229.36 /  5229.36 /  78568.60, epsilon=  0.783, speed=  86.57, gear= 3, damage= 0.00
+Ep:412 step:60(69096), a_t=[s=-0.29, t= 0.628109, b= 0.000000], r_t=[r= 254.89, prog= 325.08, pen=-70.19, r_old= 254.89], Reward=  10009.04 /  10009.04 /  78568.60, epsilon=  0.783, speed=  110.73, gear= 3, damage= 0.00
+Ep:412 step:80(69116), a_t=[s=-1.00, t= 0.732488, b= 0.000000], r_t=[r= 192.50, prog= 318.40, pen=-125.91, r_old= 192.50], Reward=  14378.55 /  14378.55 /  78568.60, epsilon=  0.783, speed=  107.18, gear= 4, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 413/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:413 step:0(69131), a_t=[s=-0.46, t= 0.566824, b= 0.000000], r_t=[r= 0.28, prog= 0.28, pen=-0.00, r_old= 0.28], Reward=  0.28 /  0.28 /  78568.60, epsilon=  0.783, speed=  0.09, gear= 1, damage= 0.00
+Ep:413 step:20(69151), a_t=[s=-0.05, t= 0.582266, b= 0.000000], r_t=[r= 126.85, prog= 146.55, pen=-19.70, r_old= 126.85], Reward=  1307.96 /  1307.96 /  78568.60, epsilon=  0.783, speed=  48.92, gear= 1, damage= 0.00
+Ep:413 step:40(69171), a_t=[s=-0.33, t= 0.557076, b= 0.000000], r_t=[r= 110.55, prog= 238.37, pen=-127.81, r_old= 110.55], Reward=  4263.87 /  4263.87 /  78568.60, epsilon=  0.783, speed=  81.93, gear= 3, damage= 0.00
+Ep:413 step:60(69191), a_t=[s= 0.34, t= 0.643637, b= 0.000000], r_t=[r= 156.52, prog= 268.87, pen=-112.34, r_old= 156.52], Reward=  6931.30 /  6839.64 /  78568.60, epsilon=  0.783, speed=  94.69, gear= 3, damage= 15.00
+Ep:413 step:80(69211), a_t=[s=-1.00, t= 0.616180, b= 0.000000], r_t=[r= 52.54, prog= 222.61, pen=-170.07, r_old= 52.54], Reward=  10298.60 /  10145.08 /  78568.60, epsilon=  0.783, speed=  84.29, gear= 3, damage= 86.00
+Ep:413 step:100(69231), a_t=[s=-0.22, t= 0.528958, b= 0.000000], r_t=[r= 128.89, prog= 296.00, pen=-167.12, r_old= 128.89], Reward=  12507.86 /  12354.34 /  78568.60, epsilon=  0.782, speed=  101.06, gear= 3, damage= 86.00
+Ep:413 step:120(69251), a_t=[s= 0.31, t= 0.751462, b= 0.000000], r_t=[r= 174.45, prog= 293.96, pen=-119.51, r_old= 174.45], Reward=  15558.38 /  15404.86 /  78568.60, epsilon=  0.782, speed=  102.14, gear= 3, damage= 86.00
+Ep:413 step:140(69271), a_t=[s=-0.10, t= 0.625171, b= 0.000000], r_t=[r=-23.14, prog= 47.39, pen=-70.53, r_old=-23.14], Reward=  16850.45 /  16495.10 /  78568.60, epsilon=  0.782, speed=  57.43, gear= 1, damage= 101.00
+Ep:413 step:160(69291), a_t=[s= 0.56, t= 0.535458, b= 0.000000], r_t=[r= 196.69, prog= 216.81, pen=-20.12, r_old= 196.69], Reward=  18194.29 /  17819.34 /  78568.60, epsilon=  0.782, speed=  73.24, gear= 2, damage= 453.00
+Ep:413 step:180(69311), a_t=[s=-0.56, t= 0.606005, b= 0.000000], r_t=[r= 177.71, prog= 276.54, pen=-98.83, r_old= 177.71], Reward=  22544.36 /  22169.42 /  78568.60, epsilon=  0.782, speed=  93.45, gear= 3, damage= 453.00
+Ep:413 step:200(69331), a_t=[s=-0.29, t= 0.742534, b= 0.000000], r_t=[r= 112.87, prog= 256.41, pen=-143.55, r_old= 112.87], Reward=  24714.45 /  24297.24 /  78568.60, epsilon=  0.782, speed=  85.78, gear= 3, damage= 597.00
+Ep:413 step:220(69351), a_t=[s=-0.03, t= 0.735466, b= 0.000000], r_t=[r= 139.58, prog= 261.34, pen=-121.76, r_old= 139.58], Reward=  26626.21 /  26119.88 /  78568.60, epsilon=  0.782, speed=  87.13, gear= 3, damage= 603.00
+Ep:413 step:240(69371), a_t=[s= 0.38, t= 0.589073, b= 0.000000], r_t=[r= 135.05, prog= 266.90, pen=-131.85, r_old= 135.05], Reward=  28517.90 /  27931.30 /  78568.60, epsilon=  0.782, speed=  89.32, gear= 3, damage= 615.00
+Ep:413 step:260(69391), a_t=[s= 0.14, t= 0.649441, b= 0.000000], r_t=[r=-23.26, prog= 46.08, pen=-69.33, r_old=-23.26], Reward=  30084.22 /  29462.38 /  78568.60, epsilon=  0.782, speed=  29.74, gear= 1, damage= 766.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 414/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:414 step:0(69395), a_t=[s=-0.60, t= 0.762611, b= 0.000000], r_t=[r= 0.01, prog= 0.01, pen=-0.00, r_old= 0.01], Reward=  0.01 /  0.01 /  78568.60, epsilon=  0.782, speed=  0.00, gear= 1, damage= 0.00
+Ep:414 step:20(69415), a_t=[s=-0.27, t= 0.528790, b= 0.000000], r_t=[r= 142.76, prog= 159.49, pen=-16.74, r_old= 142.76], Reward=  1429.45 /  1429.45 /  78568.60, epsilon=  0.782, speed=  53.69, gear= 2, damage= 0.00
+Ep:414 step:40(69435), a_t=[s= 1.00, t= 0.730834, b= 0.000000], r_t=[r= 100.44, prog= 245.21, pen=-144.77, r_old= 100.44], Reward=  3877.85 /  3877.85 /  78568.60, epsilon=  0.782, speed=  82.22, gear= 3, damage= 0.00
+Ep:414 step:60(69455), a_t=[s=-1.00, t= 0.590519, b= 0.000000], r_t=[r= 225.32, prog= 299.74, pen=-74.41, r_old= 225.32], Reward=  7652.98 /  7652.98 /  78568.60, epsilon=  0.782, speed=  100.86, gear= 3, damage= 0.00
+Ep:414 step:80(69475), a_t=[s= 0.22, t= 0.603028, b= 0.000000], r_t=[r= 260.56, prog= 322.35, pen=-61.78, r_old= 260.56], Reward=  12221.29 /  12221.29 /  78568.60, epsilon=  0.782, speed=  109.12, gear= 3, damage= 0.00
+Ep:414 step:100(69495), a_t=[s= 0.75, t= 0.506227, b= 0.000000], r_t=[r= 138.55, prog= 307.59, pen=-169.04, r_old= 138.55], Reward=  15009.52 /  14952.84 /  78568.60, epsilon=  0.782, speed=  102.53, gear= 3, damage= 41.00
+Ep:414 step:120(69515), a_t=[s=-0.03, t= 0.585678, b= 0.000000], r_t=[r= 107.27, prog= 204.89, pen=-97.63, r_old= 107.27], Reward=  16970.21 /  16652.99 /  78568.60, epsilon=  0.781, speed=  80.35, gear= 3, damage= 225.00
+Ep:414 step:140(69535), a_t=[s= 0.86, t= 0.625215, b= 0.000000], r_t=[r= 85.36, prog= 253.31, pen=-167.95, r_old=-21.00], Reward=  20298.09 /  19874.50 /  78568.60, epsilon=  0.781, speed=  84.80, gear= 3, damage= 246.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 415/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:415 step:0(69545), a_t=[s= 0.37, t= 0.602266, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.781, speed=  0.21, gear= 1, damage= 0.00
+Ep:415 step:20(69565), a_t=[s=-0.05, t= 0.601049, b= 0.000000], r_t=[r= 132.10, prog= 164.14, pen=-32.05, r_old= 132.10], Reward=  1380.66 /  1380.66 /  78568.60, epsilon=  0.781, speed=  54.98, gear= 2, damage= 0.00
+Ep:415 step:40(69585), a_t=[s=-0.29, t= 0.732246, b= 0.000000], r_t=[r= 226.14, prog= 239.58, pen=-13.44, r_old= 226.14], Reward=  5352.43 /  5352.43 /  78568.60, epsilon=  0.781, speed=  80.04, gear= 3, damage= 0.00
+Ep:415 step:60(69605), a_t=[s=-0.38, t= 0.550232, b= 0.000000], r_t=[r= 228.87, prog= 298.28, pen=-69.41, r_old= 228.87], Reward=  9737.16 /  9737.16 /  78568.60, epsilon=  0.781, speed=  101.70, gear= 3, damage= 0.00
+Ep:415 step:80(69625), a_t=[s=-0.94, t= 0.599724, b= 0.000000], r_t=[r= 182.53, prog= 310.18, pen=-127.64, r_old= 182.53], Reward=  14624.03 /  14624.03 /  78568.60, epsilon=  0.781, speed=  106.98, gear= 3, damage= 0.00
+Ep:415 step:100(69645), a_t=[s=-0.30, t= 0.587430, b= 0.000000], r_t=[r= 157.97, prog= 274.90, pen=-116.93, r_old= 157.97], Reward=  17887.72 /  17762.20 /  78568.60, epsilon=  0.781, speed=  112.37, gear= 4, damage= 1.00
+Ep:415 step:120(69665), a_t=[s= 1.00, t= 0.827892, b= 0.000000], r_t=[r= 267.26, prog= 321.52, pen=-54.26, r_old= 267.26], Reward=  22681.92 /  22556.41 /  78568.60, epsilon=  0.781, speed=  107.56, gear= 3, damage= 1.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 416/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:416 step:0(69685), a_t=[s=-0.72, t= 0.554322, b= 0.000000], r_t=[r= 0.08, prog= 0.08, pen=-0.00, r_old= 0.08], Reward=  0.08 /  0.08 /  78568.60, epsilon=  0.781, speed=  0.03, gear= 1, damage= 0.00
+Ep:416 step:20(69705), a_t=[s=-0.13, t= 0.581033, b= 0.000000], r_t=[r= 148.21, prog= 172.82, pen=-24.61, r_old= 148.21], Reward=  1443.01 /  1443.01 /  78568.60, epsilon=  0.781, speed=  57.87, gear= 2, damage= 0.00
+Ep:416 step:40(69725), a_t=[s= 0.57, t= 0.626842, b= 0.000000], r_t=[r= 110.42, prog= 246.17, pen=-135.74, r_old= 110.42], Reward=  3921.77 /  3850.19 /  78568.60, epsilon=  0.781, speed=  82.06, gear= 2, damage= 16.00
+Ep:416 step:60(69745), a_t=[s=-0.05, t= 0.676717, b= 0.000000], r_t=[r=-752.44, prog= 88.15, pen=-840.60, r_old=-752.00], Reward=  4919.24 /  4848.11 /  78568.60, epsilon=  0.781, speed=  40.52, gear= 3, damage= 768.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 417/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:417 step:0(69758), a_t=[s=-0.10, t= 0.737994, b= 0.000000], r_t=[r= 0.13, prog= 0.13, pen=-0.00, r_old= 0.13], Reward=  0.13 /  0.13 /  78568.60, epsilon=  0.781, speed=  0.04, gear= 1, damage= 0.00
+Ep:417 step:20(69778), a_t=[s= 1.00, t= 0.556277, b= 0.000000], r_t=[r= 97.57, prog= 141.44, pen=-43.86, r_old= 97.57], Reward=  1162.71 /  1162.71 /  78568.60, epsilon=  0.781, speed=  50.06, gear= 1, damage= 0.00
+Ep:417 step:40(69798), a_t=[s= 1.00, t= 0.629720, b= 0.000000], r_t=[r= 152.84, prog= 238.81, pen=-85.98, r_old= 152.84], Reward=  4029.45 /  4029.45 /  78568.60, epsilon=  0.781, speed=  79.66, gear= 2, damage= 0.00
+Ep:417 step:60(69818), a_t=[s=-1.00, t= 0.679772, b= 0.000000], r_t=[r= 193.21, prog= 282.96, pen=-89.75, r_old= 193.21], Reward=  6994.27 /  6994.27 /  78568.60, epsilon=  0.780, speed=  96.49, gear= 3, damage= 0.00
+Ep:417 step:80(69838), a_t=[s=-0.50, t= 0.503853, b= 0.000000], r_t=[r= 137.59, prog= 297.00, pen=-159.41, r_old= 137.59], Reward=  9755.10 /  9674.53 /  78568.60, epsilon=  0.780, speed=  99.24, gear= 3, damage= 220.00
+Ep:417 step:100(69858), a_t=[s=-0.47, t= 0.689336, b= 0.000000], r_t=[r= 136.97, prog= 315.38, pen=-178.41, r_old= 136.97], Reward=  13174.66 /  12859.37 /  78568.60, epsilon=  0.780, speed=  105.37, gear= 3, damage= 269.00
+Ep:417 step:120(69878), a_t=[s= 0.81, t= 0.607597, b= 0.000000], r_t=[r= 139.87, prog= 340.66, pen=-200.79, r_old= 139.87], Reward=  16973.05 /  16517.20 /  78568.60, epsilon=  0.780, speed=  114.52, gear= 4, damage= 286.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 418/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:418 step:0(69887), a_t=[s= 0.32, t= 0.574845, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.780, speed=  0.21, gear= 1, damage= 0.00
+Ep:418 step:20(69907), a_t=[s= 0.25, t= 0.497096, b= 0.000000], r_t=[r= 144.80, prog= 153.88, pen=-9.08, r_old= 144.80], Reward=  1455.04 /  1455.04 /  78568.60, epsilon=  0.780, speed=  51.77, gear= 2, damage= 0.00
+Ep:418 step:40(69927), a_t=[s=-0.54, t= 0.642919, b= 0.000000], r_t=[r= 98.59, prog= 228.97, pen=-130.38, r_old= 98.59], Reward=  3531.11 /  3381.24 /  78568.60, epsilon=  0.780, speed=  76.35, gear= 2, damage= 33.00
+Ep:418 step:60(69947), a_t=[s=-0.49, t= 0.651766, b= 0.000000], r_t=[r= 246.72, prog= 263.67, pen=-16.95, r_old= 246.72], Reward=  7143.90 /  6994.03 /  78568.60, epsilon=  0.780, speed=  88.96, gear= 3, damage= 33.00
+Ep:418 step:80(69967), a_t=[s= 0.74, t= 0.641035, b= 0.000000], r_t=[r= 257.83, prog= 318.34, pen=-60.51, r_old= 257.83], Reward=  12351.03 /  12201.16 /  78568.60, epsilon=  0.780, speed=  106.28, gear= 3, damage= 33.00
+Ep:418 step:100(69987), a_t=[s=-0.51, t= 0.662062, b= 0.000000], r_t=[r= 231.04, prog= 326.22, pen=-95.18, r_old= 231.04], Reward=  17138.37 /  16988.50 /  78568.60, epsilon=  0.780, speed=  110.78, gear= 4, damage= 33.00
+Ep:418 step:120(70007), a_t=[s=-0.08, t= 0.628278, b= 0.000000], r_t=[r= 206.00, prog= 314.82, pen=-108.82, r_old= 206.00], Reward=  21721.93 /  21572.06 /  78568.60, epsilon=  0.780, speed=  104.94, gear= 3, damage= 33.00
+Ep:418 step:140(70027), a_t=[s= 0.20, t= 0.634280, b= 0.000000], r_t=[r= 137.93, prog= 301.12, pen=-163.19, r_old= 137.93], Reward=  24527.90 /  24149.53 /  78568.60, epsilon=  0.780, speed=  106.78, gear= 4, damage= 40.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 419/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:419 step:0(70046), a_t=[s=-1.00, t= 0.683178, b= 0.000000], r_t=[r=-0.06, prog=-0.06, pen= 0.00, r_old=-0.06], Reward= -0.06 / -0.06 /  78568.60, epsilon=  0.780, speed= -0.02, gear= 1, damage= 0.00
+Ep:419 step:20(70066), a_t=[s=-0.65, t= 0.508551, b= 0.000000], r_t=[r= 118.66, prog= 147.32, pen=-28.66, r_old= 118.66], Reward=  1294.47 /  1294.47 /  78568.60, epsilon=  0.780, speed=  50.78, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 420/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:420 step:0(70071), a_t=[s= 0.29, t= 1.000000, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.780, speed=  0.21, gear= 1, damage= 0.00
+Ep:420 step:20(70091), a_t=[s= 0.33, t= 1.000000, b= 0.000000], r_t=[r= 252.52, prog= 269.12, pen=-16.60, r_old= 252.52], Reward=  2806.75 /  2806.75 /  78568.60, epsilon=  0.780, speed=  89.82, gear= 3, damage= 0.00
+Ep:420 step:40(70111), a_t=[s=-0.58, t= 1.000000, b= 0.000000], r_t=[r= 342.89, prog= 404.61, pen=-61.72, r_old= 342.89], Reward=  9333.48 /  9333.48 /  78568.60, epsilon=  0.780, speed=  134.89, gear= 4, damage= 0.00
+Ep:420 step:60(70131), a_t=[s= 0.72, t= 1.000000, b= 0.000000], r_t=[r= 337.02, prog= 414.05, pen=-77.04, r_old= 337.02], Reward=  16054.18 /  16054.18 /  78568.60, epsilon=  0.780, speed=  138.28, gear= 4, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 421/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:421 step:0(70148), a_t=[s= 0.19, t= 0.498067, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  78568.60, epsilon=  0.780, speed=  0.07, gear= 1, damage= 0.00
+Ep:421 step:20(70168), a_t=[s=-0.20, t= 0.696250, b= 0.000000], r_t=[r= 71.15, prog= 144.44, pen=-73.29, r_old= 71.15], Reward=  1077.43 /  1077.43 /  78568.60, epsilon=  0.780, speed=  53.01, gear= 2, damage= 0.00
+Ep:421 step:40(70188), a_t=[s= 1.00, t= 0.582456, b= 0.000000], r_t=[r= 41.93, prog= 173.32, pen=-131.39, r_old= 41.93], Reward=  2492.67 /  2375.17 /  78568.60, epsilon=  0.780, speed=  64.10, gear= 2, damage= 7.00
+Ep:421 step:60(70208), a_t=[s= 0.89, t= 0.643364, b= 0.000000], r_t=[r= 215.88, prog= 253.37, pen=-37.49, r_old= 215.88], Reward=  5105.25 /  4987.74 /  78568.60, epsilon=  0.779, speed=  85.97, gear= 3, damage= 7.00
+Ep:421 step:80(70228), a_t=[s=-1.00, t= 0.776182, b= 0.000000], r_t=[r= 296.20, prog= 307.11, pen=-10.92, r_old= 296.20], Reward=  9826.96 /  9709.45 /  78568.60, epsilon=  0.779, speed=  102.84, gear= 3, damage= 7.00
+Ep:421 step:100(70248), a_t=[s= 0.03, t= 0.571018, b= 0.000000], r_t=[r= 15.69, prog= 151.47, pen=-135.78, r_old= 15.69], Reward=  13200.67 /  13002.09 /  78568.60, epsilon=  0.779, speed=  64.28, gear= 2, damage= 279.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 422/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:422 step:0(70254), a_t=[s= 0.94, t= 0.659670, b= 0.000000], r_t=[r= 0.69, prog= 0.69, pen=-0.00, r_old= 0.69], Reward=  0.69 /  0.69 /  78568.60, epsilon=  0.779, speed=  0.23, gear= 1, damage= 0.00
+Ep:422 step:20(70274), a_t=[s= 0.72, t= 0.745089, b= 0.000000], r_t=[r= 166.16, prog= 167.62, pen=-1.46, r_old= 166.16], Reward=  1542.14 /  1542.14 /  78568.60, epsilon=  0.779, speed=  55.89, gear= 2, damage= 0.00
+Ep:422 step:40(70294), a_t=[s=-0.28, t= 0.612841, b= 0.000000], r_t=[r= 135.89, prog= 242.63, pen=-106.75, r_old= 135.89], Reward=  3939.70 /  3939.70 /  78568.60, epsilon=  0.779, speed=  81.00, gear= 2, damage= 0.00
+Ep:422 step:60(70314), a_t=[s=-0.43, t= 0.540913, b= 0.000000], r_t=[r= 245.00, prog= 273.63, pen=-28.63, r_old= 245.00], Reward=  7813.11 /  7813.11 /  78568.60, epsilon=  0.779, speed=  91.88, gear= 3, damage= 0.00
+Ep:422 step:80(70334), a_t=[s=-1.00, t= 0.587248, b= 0.000000], r_t=[r= 291.82, prog= 319.84, pen=-28.02, r_old= 291.82], Reward=  12404.88 /  12404.88 /  78568.60, epsilon=  0.779, speed=  107.30, gear= 3, damage= 0.00
+Ep:422 step:100(70354), a_t=[s= 0.53, t= 0.725735, b= 0.000000], r_t=[r= 231.33, prog= 313.12, pen=-81.79, r_old= 231.33], Reward=  18019.11 /  18019.11 /  78568.60, epsilon=  0.779, speed=  104.65, gear= 3, damage= 0.00
+Ep:422 step:120(70374), a_t=[s= 0.30, t= 0.549955, b= 0.000000], r_t=[r= 215.26, prog= 311.01, pen=-95.75, r_old= 215.26], Reward=  23312.86 /  23312.86 /  78568.60, epsilon=  0.779, speed=  104.08, gear= 3, damage= 0.00
+Ep:422 step:140(70394), a_t=[s= 0.10, t= 0.617122, b= 0.000000], r_t=[r= 131.79, prog= 322.01, pen=-190.22, r_old= 131.79], Reward=  26220.18 /  25977.71 /  78568.60, epsilon=  0.779, speed=  108.21, gear= 4, damage= 12.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 423/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:423 step:0(70407), a_t=[s=-0.28, t= 0.690492, b= 0.000000], r_t=[r= 0.34, prog= 0.34, pen=-0.00, r_old= 0.34], Reward=  0.34 /  0.34 /  78568.60, epsilon=  0.779, speed=  0.11, gear= 1, damage= 0.00
+Ep:423 step:20(70427), a_t=[s=-0.22, t= 0.599081, b= 0.000000], r_t=[r= 149.56, prog= 160.42, pen=-10.86, r_old= 149.56], Reward=  1512.05 /  1512.05 /  78568.60, epsilon=  0.779, speed=  53.49, gear= 1, damage= 0.00
+Ep:423 step:40(70447), a_t=[s= 0.88, t= 0.708888, b= 0.000000], r_t=[r= 214.50, prog= 238.22, pen=-23.71, r_old= 214.50], Reward=  5088.53 /  5088.53 /  78568.60, epsilon=  0.779, speed=  79.61, gear= 3, damage= 0.00
+Ep:423 step:60(70467), a_t=[s=-0.01, t= 0.692488, b= 0.000000], r_t=[r= 177.15, prog= 262.84, pen=-85.69, r_old= 177.15], Reward=  9509.97 /  9509.97 /  78568.60, epsilon=  0.779, speed=  91.36, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 424/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:424 step:0(70470), a_t=[s= 0.32, t= 0.600209, b= 0.000000], r_t=[r= 0.62, prog= 0.62, pen=-0.00, r_old= 0.62], Reward=  0.62 /  0.62 /  78568.60, epsilon=  0.779, speed=  0.21, gear= 1, damage= 0.00
+Ep:424 step:20(70490), a_t=[s=-0.62, t= 0.721976, b= 0.000000], r_t=[r= 130.79, prog= 149.62, pen=-18.83, r_old= 130.79], Reward=  1378.97 /  1378.97 /  78568.60, epsilon=  0.778, speed=  53.10, gear= 2, damage= 0.00
+Ep:424 step:40(70510), a_t=[s= 1.00, t= 0.454001, b= 0.000000], r_t=[r= 92.45, prog= 228.99, pen=-136.54, r_old= 92.45], Reward=  3421.24 /  3327.14 /  78568.60, epsilon=  0.778, speed=  78.15, gear= 3, damage= 2.00
+Ep:424 step:60(70530), a_t=[s= 0.95, t= 0.705305, b= 0.000000], r_t=[r= 233.88, prog= 256.20, pen=-22.32, r_old= 233.88], Reward=  7086.48 /  6992.38 /  78568.60, epsilon=  0.778, speed=  85.74, gear= 3, damage= 2.00
+Ep:424 step:80(70550), a_t=[s= 0.99, t= 0.527508, b= 0.000000], r_t=[r= 229.77, prog= 305.34, pen=-75.57, r_old= 229.77], Reward=  11854.73 /  11760.64 /  78568.60, epsilon=  0.778, speed=  102.72, gear= 3, damage= 2.00
+Ep:424 step:100(70570), a_t=[s=-0.82, t= 0.578871, b= 0.000000], r_t=[r= 103.92, prog= 274.53, pen=-170.61, r_old= 103.92], Reward=  14708.05 /  14613.96 /  78568.60, epsilon=  0.778, speed=  98.68, gear= 3, damage= 2.00
+Ep:424 step:120(70590), a_t=[s= 0.38, t= 0.573005, b= 0.000000], r_t=[r=-4.91, prog= 73.61, pen=-78.51, r_old=-4.91], Reward=  14744.13 /  14326.53 /  78568.60, epsilon=  0.778, speed=  35.61, gear= 1, damage= 1812.00
+Ep:424 step:140(70610), a_t=[s=-0.05, t= 0.624974, b= 0.000000], r_t=[r= 226.59, prog= 244.05, pen=-17.46, r_old= 226.59], Reward=  17040.35 /  16482.04 /  78568.60, epsilon=  0.778, speed=  81.75, gear= 3, damage= 1842.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 425/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:425 step:0(70626), a_t=[s= 1.00, t= 0.573350, b= 0.000000], r_t=[r= 0.69, prog= 0.69, pen=-0.00, r_old= 0.69], Reward=  0.69 /  0.69 /  78568.60, epsilon=  0.778, speed=  0.23, gear= 1, damage= 0.00
+Ep:425 step:20(70646), a_t=[s=-0.78, t= 0.657639, b= 0.000000], r_t=[r= 155.45, prog= 165.24, pen=-9.79, r_old= 155.45], Reward=  1533.96 /  1533.96 /  78568.60, epsilon=  0.778, speed=  55.58, gear= 2, damage= 0.00
+Ep:425 step:40(70666), a_t=[s=-0.55, t= 0.545260, b= 0.000000], r_t=[r= 160.56, prog= 240.00, pen=-79.44, r_old= 160.56], Reward=  4582.28 /  4582.28 /  78568.60, epsilon=  0.778, speed=  80.51, gear= 3, damage= 0.00
+Ep:425 step:60(70686), a_t=[s= 0.31, t= 0.542974, b= 0.000000], r_t=[r= 203.46, prog= 257.23, pen=-53.77, r_old= 203.46], Reward=  8342.29 /  8342.29 /  78568.60, epsilon=  0.778, speed=  89.06, gear= 3, damage= 0.00
+Ep:425 step:80(70706), a_t=[s= 1.00, t= 0.695526, b= 0.000000], r_t=[r= 293.10, prog= 311.75, pen=-18.65, r_old= 293.10], Reward=  12758.56 /  12758.56 /  78568.60, epsilon=  0.778, speed=  104.11, gear= 3, damage= 0.00
+Ep:425 step:100(70726), a_t=[s=-0.16, t= 0.491929, b= 0.000000], r_t=[r=-1.29, prog= 132.56, pen=-133.85, r_old=-1.29], Reward=  16645.04 /  16626.25 /  78568.60, epsilon=  0.778, speed=  61.14, gear= 2, damage= 291.00
+Ep:425 step:120(70746), a_t=[s= 0.38, t= 0.625095, b= 0.000000], r_t=[r=-0.28, prog= 0.20, pen=-0.48, r_old=-0.28], Reward=  16408.69 /  16389.89 /  78568.60, epsilon=  0.778, speed=  0.20, gear= 1, damage= 291.00
+Ep:425 step:140(70766), a_t=[s= 0.28, t= 0.605753, b= 0.000000], r_t=[r=-0.16, prog= 0.14, pen=-0.30, r_old=-0.16], Reward=  16405.74 /  16386.94 /  78568.60, epsilon=  0.778, speed=  0.12, gear= 1, damage= 291.00
+Ep:425 step:160(70786), a_t=[s=-1.00, t= 0.495563, b= 0.000000], r_t=[r=-0.09, prog= 0.09, pen=-0.19, r_old=-0.09], Reward=  16402.80 /  16384.00 /  78568.60, epsilon=  0.778, speed=  0.08, gear= 1, damage= 291.00
+Ep:425 step:180(70806), a_t=[s=-0.06, t= 0.722701, b= 0.000000], r_t=[r=-0.05, prog= 0.08, pen=-0.13, r_old=-0.05], Reward=  16399.12 /  16380.33 /  78568.60, epsilon=  0.777, speed=  0.06, gear= 1, damage= 291.00
+Ep:425 step:200(70826), a_t=[s=-0.19, t= 0.700110, b= 0.000000], r_t=[r=-0.19, prog= 0.42, pen=-0.60, r_old=-0.19], Reward=  16395.93 /  16377.13 /  78568.60, epsilon=  0.777, speed=  0.26, gear= 1, damage= 291.00
+Ep:425 step:220(70846), a_t=[s=-1.00, t= 0.626291, b= 0.000000], r_t=[r=-0.22, prog= 0.60, pen=-0.82, r_old=-0.22], Reward=  16393.65 /  16374.86 /  78568.60, epsilon=  0.777, speed=  0.36, gear= 1, damage= 291.00
+Ep:425 step:240(70866), a_t=[s=-0.90, t= 0.719619, b= 0.000000], r_t=[r=-0.15, prog= 0.71, pen=-0.86, r_old=-0.15], Reward=  16390.81 /  16372.01 /  78568.60, epsilon=  0.777, speed=  0.38, gear= 1, damage= 291.00
+Ep:425 step:260(70886), a_t=[s= 0.75, t= 0.659332, b= 0.012277], r_t=[r=-0.02, prog= 0.73, pen=-0.75, r_old=-0.02], Reward=  16388.89 /  16370.09 /  78568.60, epsilon=  0.777, speed=  0.34, gear= 1, damage= 291.00
+Ep:425 step:280(70906), a_t=[s=-0.40, t= 0.681440, b= 0.000000], r_t=[r= 0.15, prog= 1.98, pen=-1.83, r_old= 0.15], Reward=  16389.56 /  16370.77 /  78568.60, epsilon=  0.777, speed=  0.85, gear= 1, damage= 291.00
+Ep:425 step:300(70926), a_t=[s= 0.28, t= 0.531204, b= 0.000000], r_t=[r= 0.92, prog= 3.78, pen=-2.86, r_old= 0.92], Reward=  16401.41 /  16382.62 /  78568.60, epsilon=  0.777, speed=  1.42, gear= 1, damage= 291.00
+Ep:425 step:320(70946), a_t=[s= 0.06, t= 0.738737, b= 0.000000], r_t=[r= 9.74, prog= 25.87, pen=-16.13, r_old= 9.74], Reward=  16470.28 /  16451.49 /  78568.60, epsilon=  0.777, speed=  8.83, gear= 1, damage= 291.00
+Ep:425 step:340(70966), a_t=[s= 0.76, t= 0.578857, b= 0.000000], r_t=[r= 87.60, prog= 139.53, pen=-51.93, r_old= 87.60], Reward=  17122.47 /  17093.24 /  78568.60, epsilon=  0.777, speed=  53.36, gear= 2, damage= 316.00
+Ep:425 step:360(70986), a_t=[s= 1.00, t= 0.619296, b= 0.000000], r_t=[r= 171.57, prog= 246.31, pen=-74.74, r_old= 171.57], Reward=  20871.55 /  20842.32 /  78568.60, epsilon=  0.777, speed=  84.42, gear= 3, damage= 316.00
+Ep:425 step:380(71006), a_t=[s= 0.41, t= 0.610067, b= 0.000000], r_t=[r= 18.97, prog= 260.26, pen=-241.28, r_old=-70.00], Reward=  24576.73 /  24458.53 /  78568.60, epsilon=  0.777, speed=  90.92, gear= 3, damage= 386.00
+Ep:425 step:400(71026), a_t=[s= 1.00, t= 0.657744, b= 0.000000], r_t=[r= 42.07, prog= 230.89, pen=-188.82, r_old= 42.07], Reward=  27253.54 /  26961.67 /  78568.60, epsilon=  0.777, speed=  95.40, gear= 3, damage= 415.00
+Ep:425 step:420(71046), a_t=[s=-0.39, t= 0.615122, b= 0.000000], r_t=[r= 248.43, prog= 281.28, pen=-32.85, r_old= 248.43], Reward=  29867.75 /  29472.90 /  78568.60, epsilon=  0.777, speed=  93.93, gear= 3, damage= 459.00
+Ep:425 step:440(71066), a_t=[s=-0.04, t= 0.559038, b= 0.000000], r_t=[r= 267.56, prog= 334.49, pen=-66.92, r_old= 267.56], Reward=  35366.68 /  34971.82 /  78568.60, epsilon=  0.777, speed=  111.57, gear= 4, damage= 459.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 426/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:426 step:0(71083), a_t=[s= 1.00, t= 0.741048, b= 0.000000], r_t=[r= 0.80, prog= 0.80, pen=-0.00, r_old= 0.80], Reward=  0.80 /  0.80 /  78568.60, epsilon=  0.777, speed=  0.27, gear= 1, damage= 0.00
+Ep:426 step:20(71103), a_t=[s= 0.72, t= 0.746788, b= 0.000000], r_t=[r= 129.47, prog= 151.23, pen=-21.77, r_old= 129.47], Reward=  1321.22 /  1321.22 /  78568.60, epsilon=  0.776, speed=  50.68, gear= 2, damage= 0.00
+Ep:426 step:40(71123), a_t=[s= 0.08, t= 0.619685, b= 0.000000], r_t=[r= 197.33, prog= 233.40, pen=-36.06, r_old= 197.33], Reward=  4919.47 /  4919.47 /  78568.60, epsilon=  0.776, speed=  77.83, gear= 2, damage= 0.00
+Ep:426 step:60(71143), a_t=[s=-0.71, t= 0.482338, b= 0.000000], r_t=[r= 157.40, prog= 225.75, pen=-68.35, r_old= 157.40], Reward=  7796.12 /  7796.12 /  78568.60, epsilon=  0.776, speed=  87.20, gear= 3, damage= 0.00
+Ep:426 step:80(71163), a_t=[s=-0.30, t= 0.641111, b= 0.000000], r_t=[r= 243.75, prog= 303.54, pen=-59.78, r_old= 243.75], Reward=  12322.13 /  12322.13 /  78568.60, epsilon=  0.776, speed=  103.05, gear= 3, damage= 0.00
+Ep:426 step:100(71183), a_t=[s=-1.00, t= 0.693530, b= 0.000000], r_t=[r= 304.98, prog= 321.18, pen=-16.20, r_old= 304.98], Reward=  17784.92 /  17784.92 /  78568.60, epsilon=  0.776, speed=  108.10, gear= 4, damage= 0.00
+Ep:426 step:120(71203), a_t=[s= 0.56, t= 0.751038, b= 0.000000], r_t=[r= 45.07, prog= 241.61, pen=-196.54, r_old=-16.00], Reward=  21791.96 /  21730.90 /  78568.60, epsilon=  0.776, speed=  90.31, gear= 3, damage= 16.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 427/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:427 step:0(71216), a_t=[s=-0.13, t= 0.642726, b= 0.000000], r_t=[r= 0.37, prog= 0.37, pen=-0.00, r_old= 0.37], Reward=  0.37 /  0.37 /  78568.60, epsilon=  0.776, speed=  0.12, gear= 1, damage= 0.00
+Ep:427 step:20(71236), a_t=[s=-0.83, t= 0.445194, b= 0.000000], r_t=[r= 126.25, prog= 151.42, pen=-25.17, r_old= 126.25], Reward=  1365.08 /  1365.08 /  78568.60, epsilon=  0.776, speed=  53.48, gear= 2, damage= 0.00
+Ep:427 step:40(71256), a_t=[s= 0.04, t= 0.619215, b= 0.000000], r_t=[r= 88.91, prog= 211.50, pen=-122.59, r_old=-1.00], Reward=  3490.03 /  3362.67 /  78568.60, epsilon=  0.776, speed=  70.57, gear= 2, damage= 69.00
+Ep:427 step:60(71276), a_t=[s=-0.35, t= 0.675705, b= 0.000000], r_t=[r= 253.46, prog= 286.98, pen=-33.53, r_old= 253.46], Reward=  6636.52 /  6509.16 /  78568.60, epsilon=  0.776, speed=  96.03, gear= 3, damage= 69.00
+Ep:427 step:80(71296), a_t=[s=-0.21, t= 0.541531, b= 0.000000], r_t=[r= 269.22, prog= 321.07, pen=-51.85, r_old= 269.22], Reward=  12226.26 /  12098.90 /  78568.60, epsilon=  0.776, speed=  109.54, gear= 3, damage= 69.00
+Ep:427 step:100(71316), a_t=[s=-0.83, t= 0.590358, b= 0.000000], r_t=[r= 19.08, prog= 149.87, pen=-130.79, r_old= 19.08], Reward=  16158.27 /  16030.91 /  78568.60, epsilon=  0.776, speed=  86.53, gear= 3, damage= 69.00
+Ep:427 step:120(71336), a_t=[s= 0.81, t= 0.699599, b= 0.000000], r_t=[r=-356.32, prog= 206.88, pen=-563.20, r_old=-426.00], Reward=  18021.47 /  17705.40 /  78568.60, epsilon=  0.776, speed=  72.56, gear= 3, damage= 512.00
+Ep:427 step:140(71356), a_t=[s= 0.61, t= 0.535548, b= 0.000000], r_t=[r= 197.03, prog= 263.61, pen=-66.58, r_old= 197.03], Reward=  21034.40 /  20718.32 /  78568.60, epsilon=  0.776, speed=  88.97, gear= 3, damage= 512.00
+Ep:427 step:160(71376), a_t=[s= 0.07, t= 0.668039, b= 0.000000], r_t=[r= 240.76, prog= 317.90, pen=-77.14, r_old= 240.76], Reward=  24772.95 /  24329.60 /  78568.60, epsilon=  0.776, speed=  106.06, gear= 3, damage= 515.00
+Ep:427 step:180(71396), a_t=[s=-1.00, t= 0.649413, b= 0.000383], r_t=[r= 269.04, prog= 311.08, pen=-42.04, r_old= 269.04], Reward=  29333.62 /  28890.26 /  78568.60, epsilon=  0.775, speed=  103.93, gear= 3, damage= 515.00
+Ep:427 step:200(71416), a_t=[s= 0.30, t= 0.600933, b= 0.000000], r_t=[r= 310.50, prog= 329.92, pen=-19.42, r_old= 310.50], Reward=  34947.25 /  34503.90 /  78568.60, epsilon=  0.775, speed=  110.27, gear= 3, damage= 515.00
+Ep:427 step:220(71436), a_t=[s= 0.72, t= 0.610273, b= 0.000000], r_t=[r= 199.57, prog= 268.69, pen=-69.12, r_old= 199.57], Reward=  38489.69 /  37912.36 /  78568.60, epsilon=  0.775, speed=  109.12, gear= 4, damage= 518.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 428/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:428 step:0(71451), a_t=[s=-1.00, t= 0.516037, b= 0.000000], r_t=[r= 0.03, prog= 0.03, pen=-0.00, r_old= 0.03], Reward=  0.03 /  0.03 /  78568.60, epsilon=  0.775, speed=  0.01, gear= 1, damage= 0.00
+Ep:428 step:20(71471), a_t=[s= 0.97, t= 0.658192, b= 0.000000], r_t=[r= 146.87, prog= 163.58, pen=-16.71, r_old= 146.87], Reward=  1498.79 /  1498.79 /  78568.60, epsilon=  0.775, speed=  54.64, gear= 2, damage= 0.00
+Ep:428 step:40(71491), a_t=[s= 0.22, t= 0.514915, b= 0.000000], r_t=[r= 218.64, prog= 247.67, pen=-29.03, r_old= 218.64], Reward=  5505.65 /  5505.65 /  78568.60, epsilon=  0.775, speed=  82.61, gear= 3, damage= 0.00
+Ep:428 step:60(71511), a_t=[s= 1.00, t= 0.630504, b= 0.000000], r_t=[r= 281.56, prog= 296.51, pen=-14.95, r_old= 281.56], Reward=  10419.18 /  10419.18 /  78568.60, epsilon=  0.775, speed=  99.08, gear= 3, damage= 0.00
+Ep:428 step:80(71531), a_t=[s= 0.08, t= 0.790116, b= 0.000000], r_t=[r= 227.76, prog= 293.17, pen=-65.41, r_old= 227.76], Reward=  15507.43 /  15507.43 /  78568.60, epsilon=  0.775, speed=  105.30, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 429/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:429 step:0(71545), a_t=[s=-0.41, t= 0.637936, b= 0.000000], r_t=[r= 0.51, prog= 0.51, pen=-0.00, r_old= 0.51], Reward=  0.51 /  0.51 /  78568.60, epsilon=  0.775, speed=  0.17, gear= 1, damage= 0.00
+Ep:429 step:20(71565), a_t=[s= 0.41, t= 0.693424, b= 0.000000], r_t=[r= 132.93, prog= 152.95, pen=-20.02, r_old= 132.93], Reward=  1388.93 /  1388.93 /  78568.60, epsilon=  0.775, speed=  52.30, gear= 2, damage= 0.00
+Ep:429 step:40(71585), a_t=[s= 1.00, t= 0.738156, b= 0.000000], r_t=[r=-128.41, prog= 160.61, pen=-289.01, r_old=-164.00], Reward=  4020.20 /  3984.61 /  78568.60, epsilon=  0.775, speed=  61.56, gear= 2, damage= 164.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 430/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:430 step:0(71598), a_t=[s= 0.52, t= 0.481725, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.775, speed=  0.21, gear= 1, damage= 0.00
+Ep:430 step:20(71618), a_t=[s=-1.00, t= 0.731886, b= 0.000000], r_t=[r= 155.81, prog= 162.61, pen=-6.80, r_old= 155.81], Reward=  1488.50 /  1488.50 /  78568.60, epsilon=  0.775, speed=  54.20, gear= 2, damage= 0.00
+Ep:430 step:40(71638), a_t=[s= 1.00, t= 0.476114, b= 0.000000], r_t=[r= 172.22, prog= 238.13, pen=-65.90, r_old= 172.22], Reward=  5213.56 /  5213.56 /  78568.60, epsilon=  0.775, speed=  79.49, gear= 3, damage= 0.00
+Ep:430 step:60(71658), a_t=[s= 0.87, t= 0.454312, b= 0.000000], r_t=[r= 172.45, prog= 262.34, pen=-89.89, r_old= 172.45], Reward=  8554.64 /  8554.64 /  78568.60, epsilon=  0.775, speed=  87.67, gear= 3, damage= 0.00
+Ep:430 step:80(71678), a_t=[s=-0.16, t= 0.608796, b= 0.000000], r_t=[r= 169.29, prog= 293.47, pen=-124.18, r_old= 169.29], Reward=  12817.70 /  12817.70 /  78568.60, epsilon=  0.775, speed=  98.85, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+Ep:430 step:100(71698), a_t=[s=-1.00, t= 0.677260, b= 0.000000], r_t=[r= 57.76, prog= 60.81, pen=-3.05, r_old= 57.76], Reward=  15575.39 /  15575.39 /  78568.60, epsilon=  0.774, speed= -32.44, gear= 1, damage= 0.00
+=============================================================
+ starting episode: 431/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:431 step:0(71699), a_t=[s=-0.31, t= 0.438361, b= 0.000000], r_t=[r= 0.10, prog= 0.10, pen=-0.00, r_old= 0.10], Reward=  0.10 /  0.10 /  78568.60, epsilon=  0.774, speed=  0.03, gear= 1, damage= 0.00
+META = 1 ... out of track
+Ep:431 step:20(71719), a_t=[s=-0.48, t= 0.606207, b= 0.000000], r_t=[r=-98.64, prog= 108.08, pen=-206.73, r_old=-200.00], Reward=  912.67 /  811.32 /  78568.60, epsilon=  0.774, speed=  54.03, gear= 2, damage= 0.00
+=============================================================
+ starting episode: 432/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:432 step:0(71720), a_t=[s= 0.33, t= 0.737183, b= 0.000000], r_t=[r= 0.26, prog= 0.26, pen=-0.00, r_old= 0.26], Reward=  0.26 /  0.26 /  78568.60, epsilon=  0.774, speed=  0.09, gear= 1, damage= 0.00
+Ep:432 step:20(71740), a_t=[s=-0.73, t= 0.519377, b= 0.000000], r_t=[r= 147.15, prog= 155.10, pen=-7.95, r_old= 147.15], Reward=  1406.01 /  1406.01 /  78568.60, epsilon=  0.774, speed=  51.76, gear= 2, damage= 0.00
+Ep:432 step:40(71760), a_t=[s= 0.60, t= 0.624278, b= 0.000000], r_t=[r= 89.99, prog= 215.17, pen=-125.17, r_old= 89.99], Reward=  3333.92 /  3282.85 /  78568.60, epsilon=  0.774, speed=  71.83, gear= 2, damage= 55.00
+Ep:432 step:60(71780), a_t=[s=-1.00, t= 0.387144, b= 0.000000], r_t=[r= 170.58, prog= 250.06, pen=-79.48, r_old= 170.58], Reward=  6101.27 /  6050.20 /  78568.60, epsilon=  0.774, speed=  84.60, gear= 3, damage= 55.00
+Ep:432 step:80(71800), a_t=[s= 0.08, t= 0.590580, b= 0.000000], r_t=[r= 208.88, prog= 275.42, pen=-66.53, r_old= 208.88], Reward=  10245.06 /  10193.98 /  78568.60, epsilon=  0.774, speed=  94.20, gear= 3, damage= 55.00
+Ep:432 step:100(71820), a_t=[s=-0.64, t= 0.675308, b= 0.000000], r_t=[r= 127.40, prog= 290.33, pen=-162.93, r_old= 127.40], Reward=  13650.86 /  13599.78 /  78568.60, epsilon=  0.774, speed=  106.91, gear= 3, damage= 55.00
+Ep:432 step:120(71840), a_t=[s=-0.20, t= 0.501544, b= 0.000000], r_t=[r= 236.15, prog= 305.38, pen=-69.23, r_old= 236.15], Reward=  17967.39 /  17916.31 /  78568.60, epsilon=  0.774, speed=  102.12, gear= 3, damage= 55.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 433/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:433 step:0(71856), a_t=[s=-1.00, t= 0.677461, b= 0.000000], r_t=[r= 0.01, prog= 0.01, pen=-0.00, r_old= 0.01], Reward=  0.01 /  0.01 /  78568.60, epsilon=  0.774, speed=  0.00, gear= 1, damage= 0.00
+Ep:433 step:20(71876), a_t=[s= 0.15, t= 0.585167, b= 0.000000], r_t=[r= 118.93, prog= 164.10, pen=-45.17, r_old= 118.93], Reward=  1268.38 /  1268.38 /  78568.60, epsilon=  0.774, speed=  56.21, gear= 2, damage= 0.00
+Ep:433 step:40(71896), a_t=[s= 0.19, t= 0.629351, b= 0.000000], r_t=[r= 236.83, prog= 241.23, pen=-4.40, r_old= 236.83], Reward=  4448.25 /  4448.25 /  78568.60, epsilon=  0.774, speed=  80.47, gear= 2, damage= 0.00
+Ep:433 step:60(71916), a_t=[s=-0.74, t= 0.620324, b= 0.000000], r_t=[r= 239.95, prog= 260.44, pen=-20.48, r_old= 239.95], Reward=  8735.84 /  8735.84 /  78568.60, epsilon=  0.774, speed=  88.23, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 434/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:434 step:0(71922), a_t=[s= 0.40, t= 0.680191, b= 0.000000], r_t=[r= 0.65, prog= 0.65, pen=-0.00, r_old= 0.65], Reward=  0.65 /  0.65 /  78568.60, epsilon=  0.774, speed=  0.22, gear= 1, damage= 0.00
+Ep:434 step:20(71942), a_t=[s=-0.67, t= 0.501591, b= 0.000000], r_t=[r= 108.85, prog= 138.72, pen=-29.87, r_old= 108.85], Reward=  1240.00 /  1240.00 /  78568.60, epsilon=  0.774, speed=  49.53, gear= 2, damage= 0.00
+Ep:434 step:40(71962), a_t=[s=-1.00, t= 0.611586, b= 0.000000], r_t=[r= 81.26, prog= 194.63, pen=-113.37, r_old= 81.26], Reward=  2538.54 /  2515.69 /  78568.60, epsilon=  0.774, speed=  64.90, gear= 2, damage= 104.00
+Ep:434 step:60(71982), a_t=[s=-0.38, t= 0.728096, b= 0.000000], r_t=[r=-47.62, prog= 119.46, pen=-167.07, r_old=-47.62], Reward=  3171.50 /  3148.65 /  78568.60, epsilon=  0.774, speed=  74.49, gear= 2, damage= 104.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 435/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:435 step:0(71990), a_t=[s=-0.50, t= 0.626173, b= 0.016450], r_t=[r= 0.09, prog= 0.09, pen=-0.00, r_old= 0.09], Reward=  0.09 /  0.09 /  78568.60, epsilon=  0.773, speed=  0.03, gear= 1, damage= 0.00
+Ep:435 step:20(72010), a_t=[s=-0.25, t= 0.628101, b= 0.000000], r_t=[r= 98.34, prog= 146.51, pen=-48.17, r_old= 98.34], Reward=  1149.28 /  1149.28 /  78568.60, epsilon=  0.773, speed=  52.25, gear= 1, damage= 0.00
+Ep:435 step:40(72030), a_t=[s= 0.48, t= 0.670335, b= 0.000000], r_t=[r= 159.54, prog= 253.93, pen=-94.39, r_old= 159.54], Reward=  3835.26 /  3835.26 /  78568.60, epsilon=  0.773, speed=  84.64, gear= 3, damage= 0.00
+Ep:435 step:60(72050), a_t=[s= 0.13, t= 0.626216, b= 0.000000], r_t=[r= 299.23, prog= 308.16, pen=-8.93, r_old= 299.23], Reward=  8554.04 /  8554.04 /  78568.60, epsilon=  0.773, speed=  102.93, gear= 3, damage= 0.00
+Ep:435 step:80(72070), a_t=[s= 0.14, t= 0.649660, b= 0.000000], r_t=[r= 24.05, prog= 165.52, pen=-141.47, r_old= 24.05], Reward=  11478.10 /  11427.17 /  78568.60, epsilon=  0.773, speed=  67.50, gear= 2, damage= 50.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 436/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:436 step:0(72081), a_t=[s=-0.08, t= 0.651553, b= 0.000000], r_t=[r= 0.33, prog= 0.33, pen=-0.00, r_old= 0.33], Reward=  0.33 /  0.33 /  78568.60, epsilon=  0.773, speed=  0.11, gear= 1, damage= 0.00
+Ep:436 step:20(72101), a_t=[s= 0.70, t= 0.566573, b= 0.000000], r_t=[r= 140.11, prog= 154.50, pen=-14.38, r_old= 140.11], Reward=  1363.54 /  1363.54 /  78568.60, epsilon=  0.773, speed=  53.11, gear= 2, damage= 0.00
+Ep:436 step:40(72121), a_t=[s=-0.08, t= 0.637843, b= 0.000000], r_t=[r= 174.72, prog= 245.03, pen=-70.31, r_old= 174.72], Reward=  5096.62 /  5096.62 /  78568.60, epsilon=  0.773, speed=  82.18, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 437/2000
+Client connected on 3112..............
+Ep:437 step:0(72124), a_t=[s=-0.43, t= 0.435002, b= 0.000000], r_t=[r= 0.18, prog= 0.18, pen=-0.00, r_old= 0.18], Reward=  0.18 /  0.18 /  78568.60, epsilon=  0.773, speed=  0.06, gear= 1, damage= 0.00
+Ep:437 step:20(72144), a_t=[s= 0.44, t= 0.448856, b= 0.000000], r_t=[r= 120.47, prog= 138.83, pen=-18.36, r_old= 120.47], Reward=  1159.28 /  1159.28 /  78568.60, epsilon=  0.773, speed=  47.93, gear= 1, damage= 0.00
+Ep:437 step:40(72164), a_t=[s=-0.03, t= 0.600235, b= 0.000000], r_t=[r= 192.02, prog= 248.02, pen=-56.00, r_old= 192.02], Reward=  4691.62 /  4691.62 /  78568.60, epsilon=  0.773, speed=  82.94, gear= 3, damage= 0.00
+Ep:437 step:60(72184), a_t=[s=-0.38, t= 0.482893, b= 0.000000], r_t=[r= 244.44, prog= 286.55, pen=-42.11, r_old= 244.44], Reward=  9479.03 /  9479.03 /  78568.60, epsilon=  0.773, speed=  97.21, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 438/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:438 step:0(72202), a_t=[s=-0.43, t= 0.455644, b= 0.000000], r_t=[r= 0.70, prog= 0.70, pen=-0.00, r_old= 0.70], Reward=  0.70 /  0.70 /  78568.60, epsilon=  0.773, speed=  0.23, gear= 1, damage= 0.00
+Ep:438 step:20(72222), a_t=[s=-0.17, t= 0.679062, b= 0.000000], r_t=[r= 130.53, prog= 152.75, pen=-22.22, r_old= 130.53], Reward=  1311.07 /  1311.07 /  78568.60, epsilon=  0.773, speed=  51.11, gear= 2, damage= 0.00
+Ep:438 step:40(72242), a_t=[s= 0.79, t= 0.620058, b= 0.000000], r_t=[r= 124.71, prog= 231.92, pen=-107.21, r_old= 124.71], Reward=  4318.50 /  4318.50 /  78568.60, epsilon=  0.773, speed=  79.92, gear= 2, damage= 0.00
+Ep:438 step:60(72262), a_t=[s=-1.00, t= 0.719908, b= 0.000000], r_t=[r= 256.46, prog= 272.38, pen=-15.92, r_old= 256.46], Reward=  7691.75 /  7691.75 /  78568.60, epsilon=  0.773, speed=  90.97, gear= 3, damage= 0.00
+Ep:438 step:80(72282), a_t=[s= 0.84, t= 0.669617, b= 0.000000], r_t=[r= 130.38, prog= 303.65, pen=-173.26, r_old= 130.38], Reward=  11787.50 /  11787.50 /  78568.60, epsilon=  0.773, speed=  101.37, gear= 3, damage= 0.00
+Ep:438 step:100(72302), a_t=[s=-0.43, t= 0.692035, b= 0.000000], r_t=[r= 117.93, prog= 276.52, pen=-158.59, r_old= 117.93], Reward=  13695.91 /  13679.12 /  78568.60, epsilon=  0.772, speed=  95.76, gear= 3, damage= 11.00
+Ep:438 step:120(72322), a_t=[s= 0.76, t= 0.533328, b= 0.000000], r_t=[r= 235.65, prog= 278.59, pen=-42.93, r_old= 235.65], Reward=  17614.27 /  17597.48 /  78568.60, epsilon=  0.772, speed=  93.91, gear= 3, damage= 11.00
+Ep:438 step:140(72342), a_t=[s= 0.56, t= 0.529918, b= 0.000000], r_t=[r= 134.42, prog= 305.96, pen=-171.53, r_old= 134.42], Reward=  21754.16 /  21604.46 /  78568.60, epsilon=  0.772, speed=  102.08, gear= 3, damage= 16.00
+Ep:438 step:160(72362), a_t=[s=-0.49, t= 0.573934, b= 0.000000], r_t=[r= 238.87, prog= 316.84, pen=-77.97, r_old= 238.87], Reward=  24403.28 /  24159.11 /  78568.60, epsilon=  0.772, speed=  109.92, gear= 3, damage= 19.00
+Ep:438 step:180(72382), a_t=[s= 0.24, t= 0.608658, b= 0.000000], r_t=[r= 114.62, prog= 233.40, pen=-118.78, r_old= 114.62], Reward=  27054.14 /  26673.41 /  78568.60, epsilon=  0.772, speed=  88.33, gear= 3, damage= 39.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 439/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:439 step:0(72393), a_t=[s= 1.00, t= 0.460658, b= 0.003658], r_t=[r= 0.84, prog= 0.84, pen=-0.00, r_old= 0.84], Reward=  0.84 /  0.84 /  78568.60, epsilon=  0.772, speed=  0.28, gear= 1, damage= 0.00
+Ep:439 step:20(72413), a_t=[s= 1.00, t= 0.441977, b= 0.000000], r_t=[r= 135.58, prog= 157.61, pen=-22.03, r_old= 135.58], Reward=  1511.88 /  1511.88 /  78568.60, epsilon=  0.772, speed=  53.21, gear= 2, damage= 0.00
+Ep:439 step:40(72433), a_t=[s= 0.81, t= 0.618434, b= 0.000000], r_t=[r= 80.78, prog= 243.14, pen=-162.36, r_old= 80.78], Reward=  4372.98 /  4372.98 /  78568.60, epsilon=  0.772, speed=  85.52, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 440/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:440 step:0(72444), a_t=[s= 0.27, t= 1.000000, b= 0.000000], r_t=[r= 0.09, prog= 0.09, pen=-0.00, r_old= 0.09], Reward=  0.09 /  0.09 /  78568.60, epsilon=  0.772, speed=  0.03, gear= 1, damage= 0.00
+Ep:440 step:20(72464), a_t=[s= 0.32, t= 1.000000, b= 0.000000], r_t=[r= 234.17, prog= 268.20, pen=-34.04, r_old= 234.17], Reward=  2713.78 /  2713.78 /  78568.60, epsilon=  0.772, speed=  89.49, gear= 3, damage= 0.00
+Ep:440 step:40(72484), a_t=[s= 0.64, t= 1.000000, b= 0.000000], r_t=[r= 396.44, prog= 409.73, pen=-13.29, r_old= 396.44], Reward=  9430.44 /  9430.44 /  78568.60, epsilon=  0.772, speed=  136.80, gear= 4, damage= 0.00
+Ep:440 step:60(72504), a_t=[s= 0.68, t= 1.000000, b= 0.000000], r_t=[r= 408.73, prog= 436.97, pen=-28.25, r_old= 408.73], Reward=  17396.18 /  17396.18 /  78568.60, epsilon=  0.772, speed=  145.98, gear= 5, damage= 0.00
+Ep:440 step:80(72524), a_t=[s= 0.37, t= 1.000000, b= 0.000000], r_t=[r= 411.14, prog= 463.96, pen=-52.82, r_old= 411.14], Reward=  25274.31 /  25274.31 /  78568.60, epsilon=  0.772, speed=  154.66, gear= 5, damage= 0.00
+Ep:440 step:100(72544), a_t=[s= 0.67, t= 1.000000, b= 0.000000], r_t=[r= 359.71, prog= 468.15, pen=-108.44, r_old= 359.71], Reward=  33298.03 /  33298.03 /  78568.60, epsilon=  0.772, speed=  156.37, gear= 5, damage= 0.00
+Ep:440 step:120(72564), a_t=[s=-1.00, t= 1.000000, b= 0.000000], r_t=[r= 56.99, prog= 292.61, pen=-235.62, r_old= 56.99], Reward=  37550.37 /  37187.74 /  78568.60, epsilon=  0.772, speed=  121.92, gear= 4, damage= 178.00
+Ep:440 step:140(72584), a_t=[s= 0.84, t= 1.000000, b= 0.000000], r_t=[r= 219.02, prog= 392.67, pen=-173.64, r_old= 219.02], Reward=  39721.60 /  39379.30 /  78568.60, epsilon=  0.772, speed=  130.94, gear= 4, damage= 203.00
+Ep:440 step:160(72604), a_t=[s= 0.21, t= 1.000000, b= 0.000000], r_t=[r= 153.39, prog= 352.57, pen=-199.17, r_old= 153.39], Reward=  42312.37 /  41471.99 /  78568.60, epsilon=  0.772, speed=  117.61, gear= 4, damage= 859.00
+Ep:440 step:180(72624), a_t=[s=-0.08, t= 1.000000, b= 0.000000], r_t=[r= 92.65, prog= 411.91, pen=-319.26, r_old= 92.65], Reward=  45782.96 /  44726.03 /  78568.60, epsilon=  0.772, speed=  138.87, gear= 4, damage= 877.00
+Ep:440 step:200(72644), a_t=[s=-0.70, t= 1.000000, b= 0.000000], r_t=[r= 6.52, prog= 284.19, pen=-277.67, r_old= 6.52], Reward=  45378.54 /  44324.50 /  78568.60, epsilon=  0.772, speed=  94.99, gear= 3, damage= 881.00
+Ep:440 step:220(72664), a_t=[s= 0.70, t= 1.000000, b= 0.000000], r_t=[r= 354.79, prog= 390.07, pen=-35.28, r_old= 354.79], Reward=  48695.49 /  47641.45 /  78568.60, epsilon=  0.772, speed=  130.11, gear= 4, damage= 881.00
+Ep:440 step:240(72684), a_t=[s=-0.57, t= 1.000000, b= 0.000000], r_t=[r= 403.93, prog= 420.46, pen=-16.52, r_old= 403.93], Reward=  56399.45 /  55345.40 /  78568.60, epsilon=  0.772, speed=  140.35, gear= 4, damage= 881.00
+Ep:440 step:260(72704), a_t=[s= 0.28, t= 1.000000, b= 0.000000], r_t=[r= 452.78, prog= 469.36, pen=-16.58, r_old= 452.78], Reward=  64244.83 /  63190.79 /  78568.60, epsilon=  0.772, speed=  156.46, gear= 5, damage= 881.00
+Ep:440 step:280(72724), a_t=[s=-1.00, t= 1.000000, b= 0.000001], r_t=[r=-67.62, prog= 80.80, pen=-148.42, r_old=-67.62], Reward=  70571.93 /  69527.40 /  78568.60, epsilon=  0.772, speed=  62.62, gear= 3, damage= 889.00
+Ep:440 step:300(72744), a_t=[s= 0.16, t= 1.000000, b= 0.000000], r_t=[r= 262.95, prog= 300.75, pen=-37.80, r_old= 262.95], Reward=  73112.45 /  72116.02 /  78568.60, epsilon=  0.772, speed=  100.28, gear= 3, damage= 890.00
+Ep:440 step:320(72764), a_t=[s=-0.64, t= 1.000000, b= 0.000000], r_t=[r= 412.46, prog= 414.46, pen=-2.00, r_old= 412.46], Reward=  80074.39 /  79077.96 /  78568.60, epsilon=  0.772, speed=  138.15, gear= 5, damage= 890.00
+Ep:440 step:340(72784), a_t=[s= 0.32, t= 1.000000, b= 0.000000], r_t=[r= 391.59, prog= 418.56, pen=-26.97, r_old= 391.59], Reward=  87961.15 /  86964.71 /  78568.60, epsilon=  0.772, speed=  139.58, gear= 4, damage= 890.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 441/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:441 step:0(72804), a_t=[s= 0.41, t= 0.579631, b= 0.000000], r_t=[r= 0.64, prog= 0.64, pen=-0.00, r_old= 0.64], Reward=  0.64 /  0.64 /  78568.60, epsilon=  0.772, speed=  0.21, gear= 1, damage= 0.00
+Ep:441 step:20(72824), a_t=[s=-0.58, t= 0.473225, b= 0.000000], r_t=[r= 105.08, prog= 152.36, pen=-47.28, r_old= 105.08], Reward=  1338.43 /  1338.43 /  78568.60, epsilon=  0.772, speed=  53.85, gear= 2, damage= 0.00
+Ep:441 step:40(72844), a_t=[s= 0.28, t= 0.499835, b= 0.000000], r_t=[r= 198.49, prog= 231.36, pen=-32.87, r_old= 198.49], Reward=  4169.15 /  4169.15 /  78568.60, epsilon=  0.772, speed=  78.75, gear= 2, damage= 0.00
+Ep:441 step:60(72864), a_t=[s= 0.30, t= 0.661057, b= 0.000000], r_t=[r= 155.75, prog= 293.91, pen=-138.16, r_old= 155.75], Reward=  8670.29 /  8670.29 /  78568.60, epsilon=  0.772, speed=  100.24, gear= 3, damage= 0.00
+Ep:441 step:80(72884), a_t=[s= 0.82, t= 0.687723, b= 0.000000], r_t=[r= 214.60, prog= 326.26, pen=-111.66, r_old= 214.60], Reward=  12071.01 /  11969.95 /  78568.60, epsilon=  0.772, speed=  109.99, gear= 3, damage= 1.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 442/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:442 step:0(72904), a_t=[s=-0.49, t= 0.653351, b= 0.000000], r_t=[r= 0.53, prog= 0.53, pen=-0.00, r_old= 0.53], Reward=  0.53 /  0.53 /  78568.60, epsilon=  0.772, speed=  0.18, gear= 1, damage= 0.00
+Ep:442 step:20(72924), a_t=[s=-0.24, t= 0.707849, b= 0.000000], r_t=[r= 148.63, prog= 154.54, pen=-5.91, r_old= 148.63], Reward=  1400.06 /  1400.06 /  78568.60, epsilon=  0.772, speed=  51.58, gear= 2, damage= 0.00
+Ep:442 step:40(72944), a_t=[s= 0.44, t= 0.519332, b= 0.000000], r_t=[r= 90.30, prog= 211.97, pen=-121.67, r_old=-1.00], Reward=  3934.81 /  3786.96 /  78568.60, epsilon=  0.772, speed=  70.71, gear= 2, damage= 52.00
+Ep:442 step:60(72964), a_t=[s= 0.96, t= 0.618551, b= 0.000000], r_t=[r=-27.31, prog= 86.77, pen=-114.08, r_old=-1.00], Reward=  5875.72 /  5754.18 /  78568.60, epsilon=  0.771, speed=  49.37, gear= 2, damage= 53.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 443/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:443 step:0(72969), a_t=[s=-0.56, t= 0.597297, b= 0.000000], r_t=[r= 0.03, prog= 0.03, pen=-0.00, r_old= 0.03], Reward=  0.03 /  0.03 /  78568.60, epsilon=  0.771, speed=  0.01, gear= 1, damage= 0.00
+Ep:443 step:20(72989), a_t=[s=-0.37, t= 0.555960, b= 0.000000], r_t=[r= 145.69, prog= 163.35, pen=-17.66, r_old= 145.69], Reward=  1535.52 /  1535.52 /  78568.60, epsilon=  0.771, speed=  55.59, gear= 2, damage= 0.00
+Ep:443 step:40(73009), a_t=[s=-1.00, t= 0.522183, b= 0.000000], r_t=[r= 97.11, prog= 215.30, pen=-118.19, r_old= 97.11], Reward=  3652.82 /  3513.34 /  78568.60, epsilon=  0.771, speed=  71.77, gear= 2, damage= 57.00
+Ep:443 step:60(73029), a_t=[s=-0.04, t= 0.572905, b= 0.000000], r_t=[r= 120.65, prog= 275.94, pen=-155.29, r_old= 120.65], Reward=  5900.97 /  5761.49 /  78568.60, epsilon=  0.771, speed=  95.50, gear= 3, damage= 57.00
+Ep:443 step:80(73049), a_t=[s= 0.00, t= 0.602105, b= 0.000000], r_t=[r= 128.68, prog= 320.91, pen=-192.23, r_old= 128.68], Reward=  9601.24 /  9461.76 /  78568.60, epsilon=  0.771, speed=  109.50, gear= 4, damage= 57.00
+Ep:443 step:100(73069), a_t=[s= 1.00, t= 0.516542, b= 0.000000], r_t=[r= 255.15, prog= 325.88, pen=-70.73, r_old= 255.15], Reward=  13706.42 /  13465.77 /  78568.60, epsilon=  0.771, speed=  108.63, gear= 4, damage= 64.00
+Ep:443 step:120(73089), a_t=[s= 0.24, t= 0.567435, b= 0.000000], r_t=[r= 301.49, prog= 340.41, pen=-38.92, r_old= 301.49], Reward=  19374.73 /  19134.09 /  78568.60, epsilon=  0.771, speed=  113.94, gear= 4, damage= 64.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 444/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:444 step:0(73109), a_t=[s=-0.40, t= 0.621098, b= 0.000000], r_t=[r= 0.43, prog= 0.43, pen=-0.00, r_old= 0.43], Reward=  0.43 /  0.43 /  78568.60, epsilon=  0.771, speed=  0.14, gear= 1, damage= 0.00
+Ep:444 step:20(73129), a_t=[s= 0.65, t= 0.580163, b= 0.000000], r_t=[r= 121.23, prog= 154.78, pen=-33.55, r_old= 121.23], Reward=  1251.92 /  1251.92 /  78568.60, epsilon=  0.771, speed=  51.59, gear= 2, damage= 0.00
+Ep:444 step:40(73149), a_t=[s=-0.48, t= 0.652604, b= 0.000000], r_t=[r= 190.59, prog= 232.28, pen=-41.69, r_old= 190.59], Reward=  4577.42 /  4577.42 /  78568.60, epsilon=  0.771, speed=  84.32, gear= 3, damage= 0.00
+Ep:444 step:60(73169), a_t=[s=-0.93, t= 0.683608, b= 0.000000], r_t=[r= 249.91, prog= 309.98, pen=-60.07, r_old= 249.91], Reward=  7929.07 /  7929.07 /  78568.60, epsilon=  0.771, speed=  104.01, gear= 3, damage= 0.00
+Ep:444 step:80(73189), a_t=[s=-1.00, t= 0.669760, b= 0.000000], r_t=[r= 150.27, prog= 316.90, pen=-166.63, r_old= 150.27], Reward=  13137.34 /  13137.34 /  78568.60, epsilon=  0.771, speed=  111.22, gear= 3, damage= 0.00
+Ep:444 step:100(73209), a_t=[s= 0.09, t= 0.551843, b= 0.000000], r_t=[r= 210.38, prog= 315.84, pen=-105.46, r_old= 210.38], Reward=  17145.13 /  17001.18 /  78568.60, epsilon=  0.771, speed=  105.41, gear= 3, damage= 3.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 445/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:445 step:0(73227), a_t=[s= 0.78, t= 0.686043, b= 0.000000], r_t=[r= 0.50, prog= 0.50, pen=-0.00, r_old= 0.50], Reward=  0.50 /  0.50 /  78568.60, epsilon=  0.771, speed=  0.17, gear= 1, damage= 0.00
+Ep:445 step:20(73247), a_t=[s= 0.40, t= 0.660334, b= 0.000000], r_t=[r= 121.65, prog= 159.80, pen=-38.15, r_old= 121.65], Reward=  1151.15 /  1151.15 /  78568.60, epsilon=  0.771, speed=  54.07, gear= 1, damage= 0.00
+Ep:445 step:40(73267), a_t=[s=-1.00, t= 0.590565, b= 0.000000], r_t=[r= 212.57, prog= 234.86, pen=-22.29, r_old= 212.57], Reward=  4559.49 /  4559.49 /  78568.60, epsilon=  0.770, speed=  78.89, gear= 2, damage= 0.00
+Ep:445 step:60(73287), a_t=[s=-0.50, t= 0.639263, b= 0.000000], r_t=[r= 230.81, prog= 292.34, pen=-61.53, r_old= 230.81], Reward=  8947.18 /  8947.18 /  78568.60, epsilon=  0.770, speed=  97.45, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 446/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:446 step:0(73303), a_t=[s=-0.86, t= 0.680435, b= 0.000000], r_t=[r= 0.20, prog= 0.20, pen=-0.00, r_old= 0.20], Reward=  0.20 /  0.20 /  78568.60, epsilon=  0.770, speed=  0.07, gear= 1, damage= 0.00
+Ep:446 step:20(73323), a_t=[s= 1.00, t= 0.524002, b= 0.000000], r_t=[r= 110.53, prog= 148.31, pen=-37.78, r_old= 110.53], Reward=  1268.04 /  1268.04 /  78568.60, epsilon=  0.770, speed=  51.42, gear= 2, damage= 0.00
+Ep:446 step:40(73343), a_t=[s= 0.46, t= 0.722610, b= 0.000000], r_t=[r= 83.04, prog= 221.75, pen=-138.71, r_old= 83.04], Reward=  2646.61 /  2542.34 /  78568.60, epsilon=  0.770, speed=  74.80, gear= 2, damage= 54.00
+Ep:446 step:60(73363), a_t=[s= 0.63, t= 0.433622, b= 0.000000], r_t=[r= 229.31, prog= 271.93, pen=-42.62, r_old= 229.31], Reward=  6139.85 /  6035.59 /  78568.60, epsilon=  0.770, speed=  91.17, gear= 3, damage= 54.00
+Ep:446 step:80(73383), a_t=[s=-0.32, t= 0.597558, b= 0.000000], r_t=[r= 258.66, prog= 288.60, pen=-29.94, r_old= 258.66], Reward=  10602.06 /  10497.80 /  78568.60, epsilon=  0.770, speed=  97.60, gear= 3, damage= 54.00
+META = 1 ... Running backwards
+Ep:446 step:100(73403), a_t=[s=-0.69, t= 0.604305, b= 0.000000], r_t=[r= 5.35, prog= 1.07, pen= 4.28, r_old= 5.35], Reward=  11908.64 /  11752.46 /  78568.60, epsilon=  0.770, speed= -8.65, gear= 1, damage= 68.00
+=============================================================
+ starting episode: 447/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:447 step:0(73404), a_t=[s=-0.03, t= 0.601142, b= 0.000000], r_t=[r= 0.13, prog= 0.13, pen=-0.00, r_old= 0.13], Reward=  0.13 /  0.13 /  78568.60, epsilon=  0.770, speed=  0.04, gear= 1, damage= 0.00
+Ep:447 step:20(73424), a_t=[s= 0.47, t= 0.583437, b= 0.000000], r_t=[r= 146.78, prog= 157.57, pen=-10.79, r_old= 146.78], Reward=  1411.13 /  1411.13 /  78568.60, epsilon=  0.770, speed=  52.54, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 448/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:448 step:0(73441), a_t=[s= 0.13, t= 0.686937, b= 0.000000], r_t=[r=-0.09, prog=-0.09, pen= 0.00, r_old=-0.09], Reward= -0.09 / -0.09 /  78568.60, epsilon=  0.770, speed= -0.03, gear= 1, damage= 0.00
+Ep:448 step:20(73461), a_t=[s= 0.23, t= 0.589949, b= 0.000000], r_t=[r= 147.09, prog= 163.59, pen=-16.49, r_old= 147.09], Reward=  1411.36 /  1411.36 /  78568.60, epsilon=  0.770, speed=  54.53, gear= 2, damage= 0.00
+Ep:448 step:40(73481), a_t=[s= 1.00, t= 0.589315, b= 0.000000], r_t=[r= 210.92, prog= 242.13, pen=-31.21, r_old= 210.92], Reward=  5104.19 /  5104.19 /  78568.60, epsilon=  0.770, speed=  80.72, gear= 3, damage= 0.00
+Ep:448 step:60(73501), a_t=[s=-0.38, t= 0.596335, b= 0.000000], r_t=[r= 285.87, prog= 307.72, pen=-21.84, r_old= 285.87], Reward=  10163.52 /  10163.52 /  78568.60, epsilon=  0.770, speed=  102.74, gear= 3, damage= 0.00
+Ep:448 step:80(73521), a_t=[s= 0.37, t= 0.508486, b= 0.000000], r_t=[r= 210.48, prog= 311.94, pen=-101.46, r_old= 210.48], Reward=  15624.19 /  15624.19 /  78568.60, epsilon=  0.770, speed=  105.50, gear= 3, damage= 0.00
+Ep:448 step:100(73541), a_t=[s= 1.00, t= 0.607563, b= 0.000000], r_t=[r= 223.69, prog= 285.88, pen=-62.19, r_old= 223.69], Reward=  19752.19 /  19752.19 /  78568.60, epsilon=  0.770, speed=  103.78, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 449/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:449 step:0(73545), a_t=[s= 1.00, t= 0.728195, b= 0.000000], r_t=[r= 0.71, prog= 0.71, pen=-0.00, r_old= 0.71], Reward=  0.71 /  0.71 /  78568.60, epsilon=  0.770, speed=  0.24, gear= 1, damage= 0.00
+Ep:449 step:20(73565), a_t=[s=-0.71, t= 0.480517, b= 0.000000], r_t=[r= 88.59, prog= 140.93, pen=-52.35, r_old= 88.59], Reward=  1209.29 /  1209.29 /  78568.60, epsilon=  0.769, speed=  52.23, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 450/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:450 step:0(73569), a_t=[s= 0.75, t= 0.716510, b= 0.000000], r_t=[r= 0.58, prog= 0.58, pen=-0.00, r_old= 0.58], Reward=  0.58 /  0.58 /  78568.60, epsilon=  0.769, speed=  0.19, gear= 1, damage= 0.00
+Ep:450 step:20(73589), a_t=[s= 0.20, t= 0.561752, b= 0.000000], r_t=[r= 140.43, prog= 147.30, pen=-6.87, r_old= 140.43], Reward=  1405.85 /  1405.85 /  78568.60, epsilon=  0.769, speed=  49.10, gear= 1, damage= 0.00
+Ep:450 step:40(73609), a_t=[s=-0.30, t= 0.657976, b= 0.000000], r_t=[r= 181.04, prog= 237.32, pen=-56.27, r_old= 181.04], Reward=  4874.35 /  4874.35 /  78568.60, epsilon=  0.769, speed=  79.66, gear= 2, damage= 0.00
+Ep:450 step:60(73629), a_t=[s=-0.14, t= 0.587147, b= 0.000000], r_t=[r= 259.23, prog= 295.03, pen=-35.80, r_old= 259.23], Reward=  9706.06 /  9706.06 /  78568.60, epsilon=  0.769, speed=  99.02, gear= 3, damage= 0.00
+Ep:450 step:80(73649), a_t=[s=-0.07, t= 0.579588, b= 0.000000], r_t=[r= 239.74, prog= 322.34, pen=-82.60, r_old= 239.74], Reward=  15353.59 /  15353.59 /  78568.60, epsilon=  0.769, speed=  111.34, gear= 3, damage= 0.00
+Ep:450 step:100(73669), a_t=[s=-1.00, t= 0.604170, b= 0.000000], r_t=[r= 258.70, prog= 312.79, pen=-54.09, r_old= 258.70], Reward=  20227.86 /  20227.86 /  78568.60, epsilon=  0.769, speed=  104.53, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+Ep:450 step:120(73689), a_t=[s=-0.17, t= 0.781355, b= 0.076854], r_t=[r= 31.16, prog= 26.36, pen= 4.79, r_old= 31.16], Reward=  23048.41 /  22853.01 /  78568.60, epsilon=  0.769, speed= -19.51, gear= 1, damage= 157.00
+=============================================================
+ starting episode: 451/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:451 step:0(73690), a_t=[s= 0.72, t= 0.711267, b= 0.000000], r_t=[r= 0.59, prog= 0.59, pen=-0.00, r_old= 0.59], Reward=  0.59 /  0.59 /  78568.60, epsilon=  0.769, speed=  0.20, gear= 1, damage= 0.00
+Ep:451 step:20(73710), a_t=[s= 0.43, t= 0.606527, b= 0.000000], r_t=[r= 136.98, prog= 156.72, pen=-19.74, r_old= 136.98], Reward=  1410.81 /  1410.81 /  78568.60, epsilon=  0.769, speed=  52.33, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 452/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:452 step:0(73729), a_t=[s=-0.80, t= 0.714680, b= 0.000000], r_t=[r= 0.44, prog= 0.44, pen=-0.00, r_old= 0.44], Reward=  0.44 /  0.44 /  78568.60, epsilon=  0.769, speed=  0.15, gear= 1, damage= 0.00
+Ep:452 step:20(73749), a_t=[s=-0.20, t= 0.566793, b= 0.000000], r_t=[r= 146.52, prog= 151.14, pen=-4.62, r_old= 146.52], Reward=  1326.91 /  1326.91 /  78568.60, epsilon=  0.769, speed=  50.45, gear= 2, damage= 0.00
+Ep:452 step:40(73769), a_t=[s= 0.07, t= 0.617550, b= 0.000000], r_t=[r= 176.26, prog= 245.13, pen=-68.87, r_old= 176.26], Reward=  4723.20 /  4723.20 /  78568.60, epsilon=  0.769, speed=  83.15, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 453/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:453 step:0(73780), a_t=[s=-0.47, t= 0.606234, b= 0.000000], r_t=[r= 0.21, prog= 0.21, pen=-0.00, r_old= 0.21], Reward=  0.21 /  0.21 /  78568.60, epsilon=  0.769, speed=  0.07, gear= 1, damage= 0.00
+Ep:453 step:20(73800), a_t=[s= 0.08, t= 0.726579, b= 0.000000], r_t=[r= 156.36, prog= 170.47, pen=-14.11, r_old= 156.36], Reward=  1410.36 /  1410.36 /  78568.60, epsilon=  0.769, speed=  56.95, gear= 2, damage= 0.00
+Ep:453 step:40(73820), a_t=[s=-0.10, t= 0.640176, b= 0.000000], r_t=[r= 157.89, prog= 280.64, pen=-122.75, r_old= 157.89], Reward=  5100.20 /  5100.20 /  78568.60, epsilon=  0.769, speed=  93.60, gear= 3, damage= 0.00
+Ep:453 step:60(73840), a_t=[s=-0.29, t= 0.575519, b= 0.000000], r_t=[r= 243.32, prog= 298.63, pen=-55.31, r_old= 243.32], Reward=  7884.97 /  7884.97 /  78568.60, epsilon=  0.769, speed=  107.46, gear= 3, damage= 0.00
+Ep:453 step:80(73860), a_t=[s=-1.00, t= 0.697757, b= 0.000000], r_t=[r= 156.83, prog= 323.56, pen=-166.74, r_old= 156.83], Reward=  12302.58 /  12302.58 /  78568.60, epsilon=  0.768, speed=  107.96, gear= 3, damage= 0.00
+Ep:453 step:100(73880), a_t=[s= 1.00, t= 0.714072, b= 0.000000], r_t=[r= 172.56, prog= 275.14, pen=-102.58, r_old= 172.56], Reward=  15933.54 /  15933.54 /  78568.60, epsilon=  0.768, speed=  103.58, gear= 3, damage= 0.00
+Ep:453 step:120(73900), a_t=[s= 1.00, t= 0.514424, b= 0.000000], r_t=[r= 256.97, prog= 314.24, pen=-57.27, r_old= 256.97], Reward=  20338.74 /  20338.74 /  78568.60, epsilon=  0.768, speed=  104.86, gear= 3, damage= 0.00
+Ep:453 step:140(73920), a_t=[s= 0.36, t= 0.791731, b= 0.000000], r_t=[r= 127.40, prog= 319.07, pen=-191.67, r_old= 127.40], Reward=  23997.96 /  23997.96 /  78568.60, epsilon=  0.768, speed=  108.24, gear= 3, damage= 0.00
+Ep:453 step:160(73940), a_t=[s=-0.79, t= 0.529803, b= 0.000000], r_t=[r= 113.15, prog= 273.41, pen=-160.26, r_old= 113.15], Reward=  26700.79 /  26646.82 /  78568.60, epsilon=  0.768, speed=  91.70, gear= 3, damage= 119.00
+Ep:453 step:180(73960), a_t=[s= 0.50, t= 0.612838, b= 0.000000], r_t=[r= 271.51, prog= 324.53, pen=-53.02, r_old= 271.51], Reward=  30649.57 /  30595.59 /  78568.60, epsilon=  0.768, speed=  108.25, gear= 3, damage= 119.00
+Ep:453 step:200(73980), a_t=[s= 1.00, t= 0.765258, b= 0.000000], r_t=[r= 259.41, prog= 315.98, pen=-56.56, r_old= 259.41], Reward=  36051.75 /  35997.77 /  78568.60, epsilon=  0.768, speed=  107.14, gear= 3, damage= 119.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 454/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:454 step:0(73995), a_t=[s= 0.75, t= 0.434031, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  78568.60, epsilon=  0.768, speed=  0.06, gear= 1, damage= 0.00
+Ep:454 step:20(74015), a_t=[s= 0.33, t= 0.615928, b= 0.000000], r_t=[r= 144.34, prog= 162.93, pen=-18.58, r_old= 144.34], Reward=  1428.68 /  1428.68 /  78568.60, epsilon=  0.768, speed=  54.31, gear= 2, damage= 0.00
+Ep:454 step:40(74035), a_t=[s=-0.36, t= 0.547515, b= 0.000000], r_t=[r= 234.70, prog= 249.32, pen=-14.62, r_old= 234.70], Reward=  4562.93 /  4562.93 /  78568.60, epsilon=  0.768, speed=  83.28, gear= 3, damage= 0.00
+Ep:454 step:60(74055), a_t=[s=-0.20, t= 0.613129, b= 0.000000], r_t=[r= 238.71, prog= 306.58, pen=-67.86, r_old= 238.71], Reward=  9694.30 /  9694.30 /  78568.60, epsilon=  0.768, speed=  103.86, gear= 3, damage= 0.00
+Ep:454 step:80(74075), a_t=[s=-0.41, t= 0.635253, b= 0.000000], r_t=[r= 319.44, prog= 324.84, pen=-5.41, r_old= 319.44], Reward=  15051.42 /  15051.42 /  78568.60, epsilon=  0.768, speed=  108.35, gear= 3, damage= 0.00
+Ep:454 step:100(74095), a_t=[s=-0.56, t= 0.720265, b= 0.000000], r_t=[r= 248.09, prog= 330.14, pen=-82.04, r_old= 248.09], Reward=  19835.37 /  19835.37 /  78568.60, epsilon=  0.768, speed=  110.14, gear= 4, damage= 0.00
+Ep:454 step:120(74115), a_t=[s= 0.18, t= 0.687481, b= 0.000000], r_t=[r= 40.70, prog= 178.55, pen=-137.85, r_old= 40.70], Reward=  21486.61 /  21296.74 /  78568.60, epsilon=  0.768, speed=  68.07, gear= 2, damage= 342.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 455/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:455 step:0(74124), a_t=[s=-0.44, t= 0.398181, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  78568.60, epsilon=  0.768, speed=  0.06, gear= 1, damage= 0.00
+Ep:455 step:20(74144), a_t=[s=-1.00, t= 0.621048, b= 0.000000], r_t=[r= 136.23, prog= 153.27, pen=-17.04, r_old= 136.23], Reward=  1430.74 /  1430.74 /  78568.60, epsilon=  0.768, speed=  52.67, gear= 1, damage= 0.00
+Ep:455 step:40(74164), a_t=[s= 0.85, t= 0.521591, b= 0.000000], r_t=[r= 53.40, prog= 149.71, pen=-96.31, r_old= 53.40], Reward=  2416.14 /  2388.46 /  78568.60, epsilon=  0.767, speed=  50.68, gear= 2, damage= 205.00
+Ep:455 step:60(74184), a_t=[s=-0.19, t= 0.513527, b= 0.000000], r_t=[r= 177.47, prog= 238.37, pen=-60.90, r_old= 177.47], Reward=  4328.66 /  4300.98 /  78568.60, epsilon=  0.767, speed=  79.66, gear= 3, damage= 205.00
+Ep:455 step:80(74204), a_t=[s=-0.12, t= 0.547152, b= 0.000000], r_t=[r= 135.48, prog= 252.93, pen=-117.45, r_old= 135.48], Reward=  7117.52 /  7029.74 /  78568.60, epsilon=  0.767, speed=  84.32, gear= 3, damage= 286.00
+Ep:455 step:100(74224), a_t=[s= 0.12, t= 0.662899, b= 0.000000], r_t=[r= 170.42, prog= 306.44, pen=-136.02, r_old= 170.42], Reward=  10729.21 /  10641.43 /  78568.60, epsilon=  0.767, speed=  102.48, gear= 3, damage= 286.00
+Ep:455 step:120(74244), a_t=[s= 0.82, t= 0.555194, b= 0.000000], r_t=[r= 298.35, prog= 307.12, pen=-8.77, r_old= 298.35], Reward=  14835.20 /  14747.42 /  78568.60, epsilon=  0.767, speed=  102.72, gear= 3, damage= 286.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 456/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:456 step:0(74260), a_t=[s=-0.66, t= 0.617719, b= 0.000000], r_t=[r= 0.02, prog= 0.02, pen=-0.00, r_old= 0.02], Reward=  0.02 /  0.02 /  78568.60, epsilon=  0.767, speed=  0.01, gear= 1, damage= 0.00
+Ep:456 step:20(74280), a_t=[s= 0.06, t= 0.693826, b= 0.000000], r_t=[r= 153.83, prog= 161.53, pen=-7.70, r_old= 153.83], Reward=  1448.66 /  1448.66 /  78568.60, epsilon=  0.767, speed=  53.87, gear= 2, damage= 0.00
+Ep:456 step:40(74300), a_t=[s=-0.13, t= 0.676154, b= 0.000000], r_t=[r= 5.12, prog= 77.77, pen=-72.65, r_old= 5.12], Reward=  3730.22 /  3709.60 /  78568.60, epsilon=  0.767, speed=  33.53, gear= 1, damage= 112.00
+Ep:456 step:60(74320), a_t=[s=-0.73, t= 0.615467, b= 0.000000], r_t=[r= 31.28, prog= 171.17, pen=-139.88, r_old= 31.28], Reward=  4582.50 /  4519.94 /  78568.60, epsilon=  0.767, speed=  77.51, gear= 2, damage= 113.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 457/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:457 step:0(74331), a_t=[s=-0.02, t= 0.534029, b= 0.000000], r_t=[r= 0.35, prog= 0.35, pen=-0.00, r_old= 0.35], Reward=  0.35 /  0.35 /  78568.60, epsilon=  0.767, speed=  0.12, gear= 1, damage= 0.00
+Ep:457 step:20(74351), a_t=[s=-0.09, t= 0.741403, b= 0.000000], r_t=[r= 47.78, prog= 128.80, pen=-81.01, r_old= 47.78], Reward=  1222.11 /  1222.11 /  78568.60, epsilon=  0.767, speed=  53.93, gear= 2, damage= 0.00
+Ep:457 step:40(74371), a_t=[s= 0.04, t= 0.658937, b= 0.000000], r_t=[r= 112.40, prog= 251.38, pen=-138.98, r_old= 112.40], Reward=  2854.70 /  2778.48 /  78568.60, epsilon=  0.767, speed=  85.87, gear= 3, damage= 2.00
+Ep:457 step:60(74391), a_t=[s=-0.09, t= 0.627909, b= 0.000000], r_t=[r= 253.63, prog= 297.49, pen=-43.86, r_old= 253.63], Reward=  7092.96 /  7016.74 /  78568.60, epsilon=  0.767, speed=  100.19, gear= 3, damage= 2.00
+Ep:457 step:80(74411), a_t=[s= 0.21, t= 0.742636, b= 0.000000], r_t=[r= 135.87, prog= 295.13, pen=-159.26, r_old= 135.87], Reward=  10018.77 /  9892.00 /  78568.60, epsilon=  0.767, speed=  99.13, gear= 3, damage= 121.00
+Ep:457 step:100(74431), a_t=[s= 0.41, t= 0.479591, b= 0.000000], r_t=[r= 231.34, prog= 326.73, pen=-95.39, r_old= 231.34], Reward=  14193.50 /  14066.73 /  78568.60, epsilon=  0.767, speed=  110.66, gear= 4, damage= 121.00
+Ep:457 step:120(74451), a_t=[s=-0.61, t= 0.522464, b= 0.000000], r_t=[r= 250.69, prog= 287.60, pen=-36.91, r_old= 250.69], Reward=  18720.35 /  18593.58 /  78568.60, epsilon=  0.766, speed=  97.81, gear= 3, damage= 121.00
+Ep:457 step:140(74471), a_t=[s=-0.23, t= 0.596168, b= 0.022268], r_t=[r= 238.53, prog= 316.31, pen=-77.78, r_old= 238.53], Reward=  24023.48 /  23896.71 /  78568.60, epsilon=  0.766, speed=  108.21, gear= 3, damage= 121.00
+Ep:457 step:160(74491), a_t=[s=-0.54, t= 0.645670, b= 0.000000], r_t=[r= 263.24, prog= 325.71, pen=-62.47, r_old= 263.24], Reward=  29137.80 /  29011.03 /  78568.60, epsilon=  0.766, speed=  110.55, gear= 4, damage= 121.00
+Ep:457 step:180(74511), a_t=[s=-0.22, t= 0.640633, b= 0.000000], r_t=[r=-18.82, prog= 60.45, pen=-79.27, r_old=-18.82], Reward=  29987.85 /  29802.35 /  78568.60, epsilon=  0.766, speed=  34.58, gear= 1, damage= 164.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 458/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:458 step:0(74517), a_t=[s= 0.32, t= 0.560584, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.766, speed=  0.21, gear= 1, damage= 0.00
+Ep:458 step:20(74537), a_t=[s=-0.15, t= 0.684044, b= 0.000000], r_t=[r= 143.31, prog= 164.28, pen=-20.97, r_old= 143.31], Reward=  1445.57 /  1445.57 /  78568.60, epsilon=  0.766, speed=  54.78, gear= 2, damage= 0.00
+Ep:458 step:40(74557), a_t=[s= 0.65, t= 0.599909, b= 0.000000], r_t=[r= 59.38, prog= 183.24, pen=-123.86, r_old= 59.38], Reward=  2853.18 /  2700.83 /  78568.60, epsilon=  0.766, speed=  63.87, gear= 2, damage= 163.00
+Ep:458 step:60(74577), a_t=[s=-1.00, t= 0.615785, b= 0.000000], r_t=[r= 252.64, prog= 271.72, pen=-19.08, r_old= 252.64], Reward=  5721.69 /  5569.33 /  78568.60, epsilon=  0.766, speed=  91.28, gear= 3, damage= 163.00
+Ep:458 step:80(74597), a_t=[s= 0.64, t= 0.619241, b= 0.000000], r_t=[r= 290.92, prog= 320.64, pen=-29.72, r_old= 290.92], Reward=  11195.71 /  11043.36 /  78568.60, epsilon=  0.766, speed=  108.02, gear= 3, damage= 163.00
+Ep:458 step:100(74617), a_t=[s=-1.00, t= 0.630197, b= 0.000000], r_t=[r= 138.52, prog= 288.09, pen=-149.58, r_old= 138.52], Reward=  15515.93 /  15248.86 /  78568.60, epsilon=  0.766, speed=  96.16, gear= 3, damage= 169.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 459/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:459 step:0(74624), a_t=[s= 0.55, t= 0.653493, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  78568.60, epsilon=  0.766, speed=  0.06, gear= 1, damage= 0.00
+Ep:459 step:20(74644), a_t=[s= 0.88, t= 0.586998, b= 0.000000], r_t=[r= 145.06, prog= 149.34, pen=-4.29, r_old= 145.06], Reward=  1381.90 /  1381.90 /  78568.60, epsilon=  0.766, speed=  49.95, gear= 2, damage= 0.00
+Ep:459 step:40(74664), a_t=[s= 1.00, t= 0.698940, b= 0.000000], r_t=[r= 156.33, prog= 240.34, pen=-84.01, r_old= 156.33], Reward=  4420.19 /  4420.19 /  78568.60, epsilon=  0.766, speed=  81.62, gear= 2, damage= 0.00
+Ep:459 step:60(74684), a_t=[s= 0.61, t= 0.527414, b= 0.000000], r_t=[r= 199.79, prog= 268.61, pen=-68.82, r_old= 199.79], Reward=  8363.09 /  8363.09 /  78568.60, epsilon=  0.766, speed=  89.54, gear= 3, damage= 0.00
+Ep:459 step:80(74704), a_t=[s= 1.00, t= 0.624873, b= 0.000000], r_t=[r= 194.87, prog= 306.30, pen=-111.42, r_old= 194.87], Reward=  12550.91 /  12550.91 /  78568.60, epsilon=  0.766, speed=  102.74, gear= 3, damage= 0.00
+Ep:459 step:100(74724), a_t=[s=-0.25, t= 0.573805, b= 0.000000], r_t=[r= 225.77, prog= 306.81, pen=-81.04, r_old= 225.77], Reward=  17424.26 /  17424.26 /  78568.60, epsilon=  0.766, speed=  102.49, gear= 3, damage= 0.00
+Ep:459 step:120(74744), a_t=[s= 0.47, t= 0.608276, b= 0.000000], r_t=[r= 63.46, prog= 227.09, pen=-163.63, r_old=-3.00], Reward=  21066.30 /  20977.90 /  78568.60, epsilon=  0.766, speed=  84.69, gear= 2, damage= 131.00
+Ep:459 step:140(74764), a_t=[s=-1.00, t= 0.648521, b= 0.000000], r_t=[r= 277.87, prog= 313.49, pen=-35.62, r_old= 277.87], Reward=  24129.67 /  23947.94 /  78568.60, epsilon=  0.765, speed=  107.04, gear= 3, damage= 165.00
+Ep:459 step:160(74784), a_t=[s= 0.44, t= 0.443565, b= 0.000000], r_t=[r= 82.50, prog= 225.40, pen=-142.90, r_old= 82.50], Reward=  27875.27 /  27594.48 /  78568.60, epsilon=  0.765, speed=  105.21, gear= 3, damage= 229.00
+Ep:459 step:180(74804), a_t=[s= 0.83, t= 0.625146, b= 0.005373], r_t=[r= 220.12, prog= 241.91, pen=-21.79, r_old= 220.12], Reward=  28568.03 /  28245.57 /  78568.60, epsilon=  0.765, speed=  82.74, gear= 3, damage= 1298.00
+Ep:459 step:200(74824), a_t=[s= 0.43, t= 0.511355, b= 0.000000], r_t=[r= 199.88, prog= 272.09, pen=-72.22, r_old= 199.88], Reward=  32666.66 /  32344.20 /  78568.60, epsilon=  0.765, speed=  97.64, gear= 3, damage= 1298.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 460/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:460 step:0(74843), a_t=[s= 0.32, t= 1.000000, b= 0.000000], r_t=[r= 0.32, prog= 0.32, pen=-0.00, r_old= 0.32], Reward=  0.32 /  0.32 /  78568.60, epsilon=  0.765, speed=  0.11, gear= 1, damage= 0.00
+Ep:460 step:20(74863), a_t=[s= 0.11, t= 1.000000, b= 0.000000], r_t=[r= 255.40, prog= 274.20, pen=-18.79, r_old= 255.40], Reward=  2825.29 /  2825.29 /  78568.60, epsilon=  0.765, speed=  91.40, gear= 3, damage= 0.00
+Ep:460 step:40(74883), a_t=[s= 0.37, t= 1.000000, b= 0.000000], r_t=[r= 385.55, prog= 405.85, pen=-20.30, r_old= 385.55], Reward=  9479.61 /  9479.61 /  78568.60, epsilon=  0.765, speed=  135.46, gear= 4, damage= 0.00
+Ep:460 step:60(74903), a_t=[s= 0.37, t= 1.000000, b= 0.000000], r_t=[r= 386.86, prog= 420.39, pen=-33.53, r_old= 386.86], Reward=  17246.62 /  17246.62 /  78568.60, epsilon=  0.765, speed=  140.19, gear= 4, damage= 0.00
+Ep:460 step:80(74923), a_t=[s= 0.11, t= 1.000000, b= 0.000000], r_t=[r= 391.39, prog= 414.86, pen=-23.47, r_old= 391.39], Reward=  24715.01 /  24715.01 /  78568.60, epsilon=  0.765, speed=  138.50, gear= 5, damage= 0.00
+Ep:460 step:100(74943), a_t=[s=-0.04, t= 1.000000, b= 0.000000], r_t=[r= 442.02, prog= 465.15, pen=-23.13, r_old= 442.02], Reward=  32664.37 /  32664.37 /  78568.60, epsilon=  0.765, speed=  155.05, gear= 5, damage= 0.00
+Ep:460 step:120(74963), a_t=[s=-0.97, t= 1.000000, b= 0.000000], r_t=[r= 173.59, prog= 451.67, pen=-278.07, r_old= 173.59], Reward=  38766.56 /  38564.27 /  78568.60, epsilon=  0.765, speed=  154.41, gear= 5, damage= 39.00
+Ep:460 step:140(74983), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 178.75, prog= 413.52, pen=-234.77, r_old= 178.75], Reward=  41424.65 /  40928.00 /  78568.60, epsilon=  0.765, speed=  140.34, gear= 4, damage= 181.00
+META = 1 ... Running backwards
+Ep:460 step:160(75003), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 12.05, prog= 5.75, pen= 6.30, r_old= 12.05], Reward=  43600.94 /  42806.60 /  78568.60, epsilon=  0.765, speed= -12.76, gear= 1, damage= 802.00
+=============================================================
+ starting episode: 461/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:461 step:0(75004), a_t=[s= 0.88, t= 0.562014, b= 0.000000], r_t=[r= 0.67, prog= 0.67, pen=-0.00, r_old= 0.67], Reward=  0.67 /  0.67 /  78568.60, epsilon=  0.765, speed=  0.22, gear= 1, damage= 0.00
+Ep:461 step:20(75024), a_t=[s=-0.27, t= 0.623258, b= 0.000000], r_t=[r= 156.41, prog= 164.82, pen=-8.41, r_old= 156.41], Reward=  1476.56 /  1476.56 /  78568.60, epsilon=  0.765, speed=  55.21, gear= 2, damage= 0.00
+Ep:461 step:40(75044), a_t=[s= 0.69, t= 0.679781, b= 0.000000], r_t=[r= 64.78, prog= 167.31, pen=-102.52, r_old=-2.00], Reward=  3507.51 /  3372.80 /  78568.60, epsilon=  0.765, speed=  56.27, gear= 1, damage= 185.00
+Ep:461 step:60(75064), a_t=[s= 0.21, t= 0.510040, b= 0.002738], r_t=[r= 224.38, prog= 243.79, pen=-19.42, r_old= 224.38], Reward=  6413.72 /  6279.01 /  78568.60, epsilon=  0.765, speed=  82.03, gear= 3, damage= 185.00
+Ep:461 step:80(75084), a_t=[s=-0.53, t= 0.575643, b= 0.000000], r_t=[r= 273.88, prog= 298.88, pen=-24.99, r_old= 273.88], Reward=  11264.02 /  11129.31 /  78568.60, epsilon=  0.765, speed=  100.38, gear= 3, damage= 185.00
+Ep:461 step:100(75104), a_t=[s= 0.24, t= 0.490442, b= 0.000000], r_t=[r= 100.44, prog= 246.00, pen=-145.56, r_old= 100.44], Reward=  15101.70 /  14966.99 /  78568.60, epsilon=  0.765, speed=  100.90, gear= 3, damage= 185.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 462/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:462 step:0(75114), a_t=[s=-0.28, t= 0.659965, b= 0.000000], r_t=[r= 0.35, prog= 0.35, pen=-0.00, r_old= 0.35], Reward=  0.35 /  0.35 /  78568.60, epsilon=  0.765, speed=  0.12, gear= 1, damage= 0.00
+Ep:462 step:20(75134), a_t=[s= 0.78, t= 0.695064, b= 0.000000], r_t=[r= 146.11, prog= 159.18, pen=-13.08, r_old= 146.11], Reward=  1442.77 /  1442.77 /  78568.60, epsilon=  0.765, speed=  53.24, gear= 2, damage= 0.00
+Ep:462 step:40(75154), a_t=[s= 0.82, t= 0.641609, b= 0.000000], r_t=[r= 180.38, prog= 254.43, pen=-74.05, r_old= 180.38], Reward=  5006.59 /  5006.59 /  78568.60, epsilon=  0.765, speed=  84.92, gear= 3, damage= 0.00
+Ep:462 step:60(75174), a_t=[s= 1.00, t= 0.607451, b= 0.000000], r_t=[r= 233.05, prog= 289.40, pen=-56.35, r_old= 233.05], Reward=  9095.07 /  9095.07 /  78568.60, epsilon=  0.765, speed=  100.32, gear= 3, damage= 0.00
+Ep:462 step:80(75194), a_t=[s=-0.54, t= 0.547489, b= 0.000000], r_t=[r= 277.26, prog= 308.06, pen=-30.80, r_old= 277.26], Reward=  14306.48 /  14306.48 /  78568.60, epsilon=  0.765, speed=  102.76, gear= 3, damage= 0.00
+Ep:462 step:100(75214), a_t=[s=-0.37, t= 0.630041, b= 0.000000], r_t=[r= 130.86, prog= 305.75, pen=-174.89, r_old= 130.86], Reward=  19535.63 /  19535.63 /  78568.60, epsilon=  0.764, speed=  106.12, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 463/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:463 step:0(75228), a_t=[s=-0.45, t= 0.660958, b= 0.000000], r_t=[r= 0.48, prog= 0.48, pen=-0.00, r_old= 0.48], Reward=  0.48 /  0.48 /  78568.60, epsilon=  0.764, speed=  0.16, gear= 1, damage= 0.00
+Ep:463 step:20(75248), a_t=[s=-0.35, t= 0.630342, b= 0.000000], r_t=[r= 156.24, prog= 160.45, pen=-4.21, r_old= 156.24], Reward=  1507.88 /  1507.88 /  78568.60, epsilon=  0.764, speed=  53.55, gear= 1, damage= 0.00
+Ep:463 step:40(75268), a_t=[s=-0.73, t= 0.601286, b= 0.000000], r_t=[r= 182.29, prog= 236.79, pen=-54.50, r_old= 182.29], Reward=  4761.99 /  4761.99 /  78568.60, epsilon=  0.764, speed=  78.99, gear= 3, damage= 0.00
+Ep:463 step:60(75288), a_t=[s= 0.89, t= 0.565708, b= 0.000000], r_t=[r= 242.35, prog= 282.60, pen=-40.25, r_old= 242.35], Reward=  8978.47 /  8978.47 /  78568.60, epsilon=  0.764, speed=  94.26, gear= 3, damage= 0.00
+Ep:463 step:80(75308), a_t=[s=-0.86, t= 0.614335, b= 0.000000], r_t=[r= 315.99, prog= 321.14, pen=-5.15, r_old= 315.99], Reward=  13956.16 /  13956.16 /  78568.60, epsilon=  0.764, speed=  107.08, gear= 3, damage= 0.00
+Ep:463 step:100(75328), a_t=[s= 0.61, t= 0.622740, b= 0.000000], r_t=[r= 262.23, prog= 316.65, pen=-54.42, r_old= 262.23], Reward=  19037.70 /  19037.70 /  78568.60, epsilon=  0.764, speed=  109.20, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 464/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:464 step:0(75347), a_t=[s= 0.55, t= 0.722656, b= 0.000000], r_t=[r= 0.22, prog= 0.22, pen=-0.00, r_old= 0.22], Reward=  0.22 /  0.22 /  78568.60, epsilon=  0.764, speed=  0.07, gear= 1, damage= 0.00
+Ep:464 step:20(75367), a_t=[s= 0.87, t= 0.529900, b= 0.000000], r_t=[r= 95.36, prog= 157.61, pen=-62.25, r_old= 95.36], Reward=  1138.42 /  1138.42 /  78568.60, epsilon=  0.764, speed=  54.06, gear= 2, damage= 0.00
+Ep:464 step:40(75387), a_t=[s=-1.00, t= 0.640081, b= 0.000000], r_t=[r= 153.15, prog= 249.81, pen=-96.66, r_old= 153.15], Reward=  4037.08 /  4037.08 /  78568.60, epsilon=  0.764, speed=  83.67, gear= 3, damage= 0.00
+Ep:464 step:60(75407), a_t=[s=-0.94, t= 0.653044, b= 0.000000], r_t=[r= 261.16, prog= 296.24, pen=-35.08, r_old= 261.16], Reward=  8295.97 /  8295.97 /  78568.60, epsilon=  0.764, speed=  99.60, gear= 3, damage= 0.00
+Ep:464 step:80(75427), a_t=[s=-0.59, t= 0.666484, b= 0.000000], r_t=[r= 308.10, prog= 329.51, pen=-21.41, r_old= 308.10], Reward=  14118.34 /  14118.34 /  78568.60, epsilon=  0.764, speed=  110.57, gear= 3, damage= 0.00
+Ep:464 step:100(75447), a_t=[s= 0.81, t= 0.562563, b= 0.000000], r_t=[r= 89.97, prog= 292.06, pen=-202.08, r_old= 89.97], Reward=  17934.29 /  17799.12 /  78568.60, epsilon=  0.764, speed=  106.08, gear= 3, damage= 8.00
+Ep:464 step:120(75467), a_t=[s=-0.31, t= 0.588029, b= 0.000000], r_t=[r= 34.39, prog= 122.57, pen=-88.19, r_old= 34.39], Reward=  17474.09 /  17339.93 /  78568.60, epsilon=  0.764, speed=  56.46, gear= 2, damage= 838.00
+Ep:464 step:140(75487), a_t=[s= 0.97, t= 0.619303, b= 0.000000], r_t=[r=-24.53, prog= 7.45, pen=-31.98, r_old=-24.53], Reward=  18930.51 /  18758.07 /  78568.60, epsilon=  0.764, speed=  13.00, gear= 1, damage= 844.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 465/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:465 step:0(75489), a_t=[s=-0.90, t= 0.546427, b= 0.000000], r_t=[r=-0.05, prog=-0.05, pen= 0.00, r_old=-0.05], Reward= -0.05 / -0.05 /  78568.60, epsilon=  0.764, speed= -0.02, gear= 1, damage= 0.00
+Ep:465 step:20(75509), a_t=[s= 0.22, t= 0.615573, b= 0.000000], r_t=[r= 102.85, prog= 152.98, pen=-50.13, r_old= 102.85], Reward=  1237.68 /  1237.68 /  78568.60, epsilon=  0.764, speed=  53.40, gear= 2, damage= 0.00
+Ep:465 step:40(75529), a_t=[s= 0.72, t= 0.688300, b= 0.000000], r_t=[r= 95.02, prog= 224.95, pen=-129.94, r_old= 95.02], Reward=  3091.02 /  2961.15 /  78568.60, epsilon=  0.763, speed=  75.08, gear= 2, damage= 26.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 466/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:466 step:0(75538), a_t=[s= 0.18, t= 0.678058, b= 0.000000], r_t=[r= 0.32, prog= 0.32, pen=-0.00, r_old= 0.32], Reward=  0.32 /  0.32 /  78568.60, epsilon=  0.763, speed=  0.11, gear= 1, damage= 0.00
+Ep:466 step:20(75558), a_t=[s= 0.47, t= 0.542782, b= 0.000000], r_t=[r= 128.00, prog= 166.52, pen=-38.52, r_old= 128.00], Reward=  1450.22 /  1450.22 /  78568.60, epsilon=  0.763, speed=  55.77, gear= 2, damage= 0.00
+META = 1 ... out of track
+Ep:466 step:40(75578), a_t=[s= 0.83, t= 0.744792, b= 0.000000], r_t=[r=-161.47, prog= 179.45, pen=-340.92, r_old=-200.00], Reward=  4260.77 /  4222.24 /  78568.60, epsilon=  0.763, speed=  80.20, gear= 3, damage= 0.00
+=============================================================
+ starting episode: 467/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:467 step:0(75579), a_t=[s= 0.37, t= 0.602848, b= 0.000000], r_t=[r= 0.63, prog= 0.63, pen=-0.00, r_old= 0.63], Reward=  0.63 /  0.63 /  78568.60, epsilon=  0.763, speed=  0.21, gear= 1, damage= 0.00
+Ep:467 step:20(75599), a_t=[s= 0.15, t= 0.603684, b= 0.000000], r_t=[r= 151.52, prog= 172.40, pen=-20.87, r_old= 151.52], Reward=  1556.91 /  1556.91 /  78568.60, epsilon=  0.763, speed=  58.28, gear= 2, damage= 0.00
+Ep:467 step:40(75619), a_t=[s= 0.72, t= 0.555147, b= 0.000000], r_t=[r= 54.54, prog= 210.97, pen=-156.43, r_old=-19.00], Reward=  4051.39 /  3977.85 /  78568.60, epsilon=  0.763, speed=  73.37, gear= 3, damage= 19.00
+Ep:467 step:60(75639), a_t=[s= 0.32, t= 0.651116, b= 0.000000], r_t=[r= 216.77, prog= 270.53, pen=-53.76, r_old= 216.77], Reward=  6875.81 /  6802.26 /  78568.60, epsilon=  0.763, speed=  92.48, gear= 3, damage= 19.00
+Ep:467 step:80(75659), a_t=[s=-0.42, t= 0.551878, b= 0.000000], r_t=[r= 170.25, prog= 307.75, pen=-137.50, r_old= 170.25], Reward=  11294.11 /  11220.57 /  78568.60, epsilon=  0.763, speed=  106.49, gear= 3, damage= 19.00
+Ep:467 step:100(75679), a_t=[s=-0.04, t= 0.614441, b= 0.000000], r_t=[r=-78.90, prog= 81.85, pen=-160.76, r_old=-78.90], Reward=  13020.90 /  12834.66 /  78568.60, epsilon=  0.763, speed=  83.81, gear= 2, damage= 82.00
+Ep:467 step:120(75699), a_t=[s= 0.12, t= 0.781865, b= 0.000000], r_t=[r= 130.94, prog= 202.48, pen=-71.54, r_old= 130.94], Reward=  13532.56 /  13335.03 /  78568.60, epsilon=  0.763, speed=  83.11, gear= 2, damage= 1388.00
+META = 1 ... Running backwards
+Ep:467 step:140(75719), a_t=[s=-0.26, t= 0.537338, b= 0.000000], r_t=[r= 39.16, prog= 26.36, pen= 12.79, r_old= 39.16], Reward=  13949.78 /  13713.60 /  78568.60, epsilon=  0.763, speed= -24.40, gear= 1, damage= 1691.00
+=============================================================
+ starting episode: 468/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:468 step:0(75720), a_t=[s= 1.00, t= 0.511952, b= 0.000000], r_t=[r= 0.62, prog= 0.62, pen=-0.00, r_old= 0.62], Reward=  0.62 /  0.62 /  78568.60, epsilon=  0.763, speed=  0.21, gear= 1, damage= 0.00
+Ep:468 step:20(75740), a_t=[s=-0.45, t= 0.776576, b= 0.000000], r_t=[r= 153.50, prog= 171.60, pen=-18.10, r_old= 153.50], Reward=  1519.60 /  1519.60 /  78568.60, epsilon=  0.763, speed=  59.48, gear= 2, damage= 0.00
+Ep:468 step:40(75760), a_t=[s= 0.75, t= 0.516983, b= 0.000000], r_t=[r= 98.96, prog= 219.10, pen=-120.15, r_old= 98.96], Reward=  3292.16 /  3107.96 /  78568.60, epsilon=  0.763, speed=  73.03, gear= 2, damage= 172.00
+Ep:468 step:60(75780), a_t=[s= 0.03, t= 0.681566, b= 0.000000], r_t=[r= 234.92, prog= 278.14, pen=-43.21, r_old= 234.92], Reward=  6660.70 /  6476.50 /  78568.60, epsilon=  0.763, speed=  93.84, gear= 3, damage= 172.00
+Ep:468 step:80(75800), a_t=[s= 0.36, t= 0.721139, b= 0.000000], r_t=[r= 184.67, prog= 329.47, pen=-144.80, r_old= 184.67], Reward=  11198.84 /  11014.64 /  78568.60, epsilon=  0.763, speed=  110.02, gear= 3, damage= 172.00
+Ep:468 step:100(75820), a_t=[s= 0.37, t= 0.761362, b= 0.000000], r_t=[r= 257.80, prog= 312.77, pen=-54.97, r_old= 257.80], Reward=  15952.46 /  15768.27 /  78568.60, epsilon=  0.762, speed=  105.30, gear= 3, damage= 172.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 469/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:469 step:0(75840), a_t=[s= 0.40, t= 0.434806, b= 0.000000], r_t=[r= 0.23, prog= 0.23, pen=-0.00, r_old= 0.23], Reward=  0.23 /  0.23 /  78568.60, epsilon=  0.762, speed=  0.08, gear= 1, damage= 0.00
+Ep:469 step:20(75860), a_t=[s=-0.82, t= 0.690921, b= 0.000000], r_t=[r= 138.36, prog= 159.75, pen=-21.39, r_old= 138.36], Reward=  1392.93 /  1392.93 /  78568.60, epsilon=  0.762, speed=  53.46, gear= 2, damage= 0.00
+Ep:469 step:40(75880), a_t=[s= 0.25, t= 0.646653, b= 0.000000], r_t=[r= 149.84, prog= 258.18, pen=-108.35, r_old= 149.84], Reward=  4235.84 /  4235.84 /  78568.60, epsilon=  0.762, speed=  86.65, gear= 3, damage= 0.00
+Ep:469 step:60(75900), a_t=[s=-0.48, t= 0.616809, b= 0.000000], r_t=[r= 161.31, prog= 326.42, pen=-165.12, r_old= 161.31], Reward=  8171.89 /  8171.89 /  78568.60, epsilon=  0.762, speed=  109.81, gear= 3, damage= 0.00
+Ep:469 step:80(75920), a_t=[s=-1.00, t= 0.653710, b= 0.000000], r_t=[r= 112.43, prog= 249.92, pen=-137.49, r_old= 112.43], Reward=  8982.33 /  8907.63 /  78568.60, epsilon=  0.762, speed=  83.40, gear= 2, damage= 12.00
+Ep:469 step:100(75940), a_t=[s= 0.10, t= 0.752711, b= 0.000000], r_t=[r= 6.98, prog= 148.41, pen=-141.43, r_old= 6.98], Reward=  10125.79 /  9920.86 /  78568.60, epsilon=  0.762, speed=  72.37, gear= 2, damage= 272.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 470/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:470 step:0(75944), a_t=[s=-0.33, t= 0.727414, b= 0.000000], r_t=[r= 0.41, prog= 0.41, pen=-0.00, r_old= 0.41], Reward=  0.41 /  0.41 /  78568.60, epsilon=  0.762, speed=  0.14, gear= 1, damage= 0.00
+Ep:470 step:20(75964), a_t=[s= 1.00, t= 0.652944, b= 0.000000], r_t=[r= 136.64, prog= 156.50, pen=-19.86, r_old= 136.64], Reward=  1532.03 /  1532.03 /  78568.60, epsilon=  0.762, speed=  53.25, gear= 2, damage= 0.00
+Ep:470 step:40(75984), a_t=[s=-0.09, t= 0.672087, b= 0.000000], r_t=[r= 145.27, prog= 229.87, pen=-84.60, r_old= 145.27], Reward=  4956.70 /  4956.70 /  78568.60, epsilon=  0.762, speed=  77.08, gear= 2, damage= 0.00
+Ep:470 step:60(76004), a_t=[s=-0.02, t= 0.510465, b= 0.000000], r_t=[r= 261.46, prog= 275.71, pen=-14.25, r_old= 261.46], Reward=  9042.88 /  9042.88 /  78568.60, epsilon=  0.762, speed=  92.33, gear= 3, damage= 0.00
+Ep:470 step:80(76024), a_t=[s=-0.61, t= 0.520490, b= 0.000000], r_t=[r= 181.13, prog= 307.07, pen=-125.95, r_old= 181.13], Reward=  12658.91 /  12658.91 /  78568.60, epsilon=  0.762, speed=  108.21, gear= 4, damage= 0.00
+Ep:470 step:100(76044), a_t=[s= 0.84, t= 0.652500, b= 0.000000], r_t=[r= 249.63, prog= 319.89, pen=-70.25, r_old= 249.63], Reward=  17895.54 /  17895.54 /  78568.60, epsilon=  0.762, speed=  106.68, gear= 3, damage= 0.00
+Ep:470 step:120(76064), a_t=[s= 1.00, t= 0.537981, b= 0.000000], r_t=[r=-16.48, prog= 191.60, pen=-208.08, r_old=-43.00], Reward=  22260.60 /  22234.08 /  78568.60, epsilon=  0.762, speed=  78.63, gear= 3, damage= 43.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 471/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:471 step:0(76074), a_t=[s= 0.12, t= 0.577793, b= 0.000000], r_t=[r= 0.05, prog= 0.05, pen=-0.00, r_old= 0.05], Reward=  0.05 /  0.05 /  78568.60, epsilon=  0.762, speed=  0.02, gear= 1, damage= 0.00
+Ep:471 step:20(76094), a_t=[s=-0.01, t= 0.665988, b= 0.000000], r_t=[r= 145.23, prog= 159.15, pen=-13.93, r_old= 145.23], Reward=  1467.09 /  1467.09 /  78568.60, epsilon=  0.762, speed=  53.94, gear= 2, damage= 0.00
+Ep:471 step:40(76114), a_t=[s= 0.64, t= 0.616432, b= 0.000000], r_t=[r= 82.39, prog= 222.50, pen=-140.11, r_old= 82.39], Reward=  4674.30 /  4674.30 /  78568.60, epsilon=  0.761, speed=  82.74, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 472/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:472 step:0(76130), a_t=[s= 1.00, t= 0.520490, b= 0.000000], r_t=[r= 0.59, prog= 0.59, pen=-0.00, r_old= 0.59], Reward=  0.59 /  0.59 /  78568.60, epsilon=  0.761, speed=  0.20, gear= 1, damage= 0.00
+Ep:472 step:20(76150), a_t=[s= 0.49, t= 0.584000, b= 0.000000], r_t=[r= 128.36, prog= 156.21, pen=-27.85, r_old= 128.36], Reward=  1496.88 /  1496.88 /  78568.60, epsilon=  0.761, speed=  54.35, gear= 2, damage= 0.00
+Ep:472 step:40(76170), a_t=[s= 0.48, t= 0.691188, b= 0.000000], r_t=[r= 76.41, prog= 179.97, pen=-103.56, r_old= 76.41], Reward=  3079.57 /  3057.94 /  78568.60, epsilon=  0.761, speed=  60.01, gear= 2, damage= 81.00
+Ep:472 step:60(76190), a_t=[s= 0.13, t= 0.552836, b= 0.000000], r_t=[r= 208.57, prog= 263.90, pen=-55.33, r_old= 208.57], Reward=  5585.75 /  5564.11 /  78568.60, epsilon=  0.761, speed=  91.99, gear= 3, damage= 81.00
+Ep:472 step:80(76210), a_t=[s= 0.21, t= 0.665915, b= 0.000000], r_t=[r= 211.03, prog= 310.25, pen=-99.22, r_old= 211.03], Reward=  9481.54 /  9459.91 /  78568.60, epsilon=  0.761, speed=  106.53, gear= 3, damage= 81.00
+Ep:472 step:100(76230), a_t=[s= 0.11, t= 0.535800, b= 0.000000], r_t=[r= 49.84, prog= 180.44, pen=-130.60, r_old= 49.84], Reward=  12290.85 /  12198.78 /  78568.60, epsilon=  0.761, speed=  66.19, gear= 2, damage= 352.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 473/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:473 step:0(76240), a_t=[s= 0.40, t= 0.717623, b= 0.000000], r_t=[r= 0.49, prog= 0.49, pen=-0.00, r_old= 0.49], Reward=  0.49 /  0.49 /  78568.60, epsilon=  0.761, speed=  0.16, gear= 1, damage= 0.00
+Ep:473 step:20(76260), a_t=[s=-0.27, t= 0.583241, b= 0.000000], r_t=[r= 124.03, prog= 157.27, pen=-33.24, r_old= 124.03], Reward=  1322.89 /  1322.89 /  78568.60, epsilon=  0.761, speed=  53.15, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 474/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:474 step:0(76265), a_t=[s= 0.33, t= 0.707467, b= 0.000000], r_t=[r= 0.30, prog= 0.30, pen=-0.00, r_old= 0.30], Reward=  0.30 /  0.30 /  78568.60, epsilon=  0.761, speed=  0.10, gear= 1, damage= 0.00
+Ep:474 step:20(76285), a_t=[s=-0.40, t= 0.620790, b= 0.000000], r_t=[r= 139.27, prog= 166.90, pen=-27.63, r_old= 139.27], Reward=  1453.15 /  1453.15 /  78568.60, epsilon=  0.761, speed=  56.17, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 475/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:475 step:0(76299), a_t=[s= 0.43, t= 0.436071, b= 0.000000], r_t=[r= 0.24, prog= 0.24, pen=-0.00, r_old= 0.24], Reward=  0.24 /  0.24 /  78568.60, epsilon=  0.761, speed=  0.08, gear= 1, damage= 0.00
+Ep:475 step:20(76319), a_t=[s=-0.13, t= 0.616139, b= 0.000000], r_t=[r= 128.58, prog= 156.52, pen=-27.94, r_old= 128.58], Reward=  1444.05 /  1444.05 /  78568.60, epsilon=  0.761, speed=  53.65, gear= 1, damage= 0.00
+Ep:475 step:40(76339), a_t=[s= 1.00, t= 0.667871, b= 0.000000], r_t=[r= 257.61, prog= 261.82, pen=-4.21, r_old= 257.61], Reward=  5166.84 /  5166.84 /  78568.60, epsilon=  0.761, speed=  87.28, gear= 3, damage= 0.00
+Ep:475 step:60(76359), a_t=[s=-0.08, t= 0.561937, b= 0.000000], r_t=[r= 266.97, prog= 321.35, pen=-54.38, r_old= 266.97], Reward=  10548.41 /  10548.41 /  78568.60, epsilon=  0.761, speed=  107.27, gear= 3, damage= 0.00
+Ep:475 step:80(76379), a_t=[s= 0.98, t= 0.606603, b= 0.000000], r_t=[r= 222.72, prog= 307.39, pen=-84.66, r_old= 222.72], Reward=  15939.95 /  15939.95 /  78568.60, epsilon=  0.761, speed=  105.54, gear= 3, damage= 0.00
+Ep:475 step:100(76399), a_t=[s=-0.71, t= 0.726066, b= 0.000000], r_t=[r= 113.51, prog= 262.94, pen=-149.43, r_old= 113.51], Reward=  18439.59 /  18359.16 /  78568.60, epsilon=  0.761, speed=  88.77, gear= 3, damage= 587.00
+Ep:475 step:120(76419), a_t=[s=-1.00, t= 0.741967, b= 0.000000], r_t=[r= 159.76, prog= 328.51, pen=-168.74, r_old= 159.76], Reward=  21145.90 /  20948.18 /  78568.60, epsilon=  0.760, speed=  109.63, gear= 3, damage= 590.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 476/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:476 step:0(76431), a_t=[s= 1.00, t= 0.605818, b= 0.000000], r_t=[r= 0.70, prog= 0.70, pen=-0.00, r_old= 0.70], Reward=  0.70 /  0.70 /  78568.60, epsilon=  0.760, speed=  0.23, gear= 1, damage= 0.00
+Ep:476 step:20(76451), a_t=[s= 0.10, t= 0.696935, b= 0.000000], r_t=[r= 124.33, prog= 167.59, pen=-43.26, r_old= 124.33], Reward=  1312.27 /  1312.27 /  78568.60, epsilon=  0.760, speed=  56.35, gear= 2, damage= 0.00
+Ep:476 step:40(76471), a_t=[s= 0.50, t= 0.596218, b= 0.000000], r_t=[r= 139.12, prog= 250.68, pen=-111.56, r_old= 139.12], Reward=  4551.57 /  4551.57 /  78568.60, epsilon=  0.760, speed=  84.22, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 477/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:477 step:0(76484), a_t=[s=-0.49, t= 0.610628, b= 0.000000], r_t=[r= 0.27, prog= 0.27, pen=-0.00, r_old= 0.27], Reward=  0.27 /  0.27 /  78568.60, epsilon=  0.760, speed=  0.09, gear= 1, damage= 0.00
+Ep:477 step:20(76504), a_t=[s=-0.70, t= 0.691471, b= 0.000000], r_t=[r= 145.82, prog= 158.12, pen=-12.30, r_old= 145.82], Reward=  1556.39 /  1556.39 /  78568.60, epsilon=  0.760, speed=  53.25, gear= 2, damage= 0.00
+Ep:477 step:40(76524), a_t=[s= 0.47, t= 0.680274, b= 0.000000], r_t=[r= 94.74, prog= 239.54, pen=-144.80, r_old= 94.74], Reward=  3814.46 /  3747.88 /  78568.60, epsilon=  0.760, speed=  80.82, gear= 3, damage= 63.00
+Ep:477 step:60(76544), a_t=[s=-1.00, t= 0.585653, b= 0.000000], r_t=[r= 63.16, prog= 193.66, pen=-130.50, r_old= 63.16], Reward=  6161.11 /  6081.86 /  78568.60, epsilon=  0.760, speed=  68.49, gear= 2, damage= 588.00
+Ep:477 step:80(76564), a_t=[s= 0.98, t= 0.504450, b= 0.000000], r_t=[r= 264.06, prog= 283.28, pen=-19.22, r_old= 264.06], Reward=  9434.65 /  9355.40 /  78568.60, epsilon=  0.760, speed=  94.74, gear= 3, damage= 588.00
+Ep:477 step:100(76584), a_t=[s= 0.73, t= 0.561894, b= 0.000000], r_t=[r= 161.56, prog= 311.87, pen=-150.31, r_old= 161.56], Reward=  14017.66 /  13938.42 /  78568.60, epsilon=  0.760, speed=  106.98, gear= 3, damage= 588.00
+Ep:477 step:120(76604), a_t=[s= 0.07, t= 0.632449, b= 0.000000], r_t=[r= 170.64, prog= 231.72, pen=-61.08, r_old= 170.64], Reward=  15596.62 /  15235.03 /  78568.60, epsilon=  0.760, speed=  92.20, gear= 3, damage= 935.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 478/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:478 step:0(76617), a_t=[s= 0.51, t= 0.541379, b= 0.000000], r_t=[r= 0.58, prog= 0.58, pen=-0.00, r_old= 0.58], Reward=  0.58 /  0.58 /  78568.60, epsilon=  0.760, speed=  0.19, gear= 1, damage= 0.00
+Ep:478 step:20(76637), a_t=[s= 0.78, t= 0.670739, b= 0.000000], r_t=[r= 135.76, prog= 163.53, pen=-27.78, r_old= 135.76], Reward=  1442.75 /  1442.75 /  78568.60, epsilon=  0.760, speed=  55.58, gear= 2, damage= 0.00
+Ep:478 step:40(76657), a_t=[s= 1.00, t= 0.637578, b= 0.000000], r_t=[r= 136.96, prog= 227.85, pen=-90.89, r_old= 136.96], Reward=  3719.76 /  3719.76 /  78568.60, epsilon=  0.760, speed=  81.66, gear= 3, damage= 0.00
+Ep:478 step:60(76677), a_t=[s= 0.35, t= 0.617874, b= 0.000000], r_t=[r= 97.92, prog= 269.22, pen=-171.30, r_old= 97.92], Reward=  7172.28 /  7172.28 /  78568.60, epsilon=  0.760, speed=  96.21, gear= 3, damage= 0.00
+Ep:478 step:80(76697), a_t=[s=-0.20, t= 0.542610, b= 0.000000], r_t=[r= 250.52, prog= 320.41, pen=-69.89, r_old= 250.52], Reward=  11455.90 /  11455.90 /  78568.60, epsilon=  0.760, speed=  110.31, gear= 3, damage= 0.00
+Ep:478 step:100(76717), a_t=[s=-0.62, t= 0.626620, b= 0.168077], r_t=[r=-100.48, prog= 78.54, pen=-179.02, r_old=-100.48], Reward=  13642.48 /  13642.48 /  78568.60, epsilon=  0.759, speed=  80.57, gear= 2, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 479/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:479 step:0(76732), a_t=[s= 0.20, t= 0.604610, b= 0.000000], r_t=[r= 0.50, prog= 0.50, pen=-0.00, r_old= 0.50], Reward=  0.50 /  0.50 /  78568.60, epsilon=  0.759, speed=  0.17, gear= 1, damage= 0.00
+Ep:479 step:20(76752), a_t=[s=-0.97, t= 0.653665, b= 0.000000], r_t=[r= 114.74, prog= 138.91, pen=-24.16, r_old= 114.74], Reward=  1312.73 /  1312.73 /  78568.60, epsilon=  0.759, speed=  47.11, gear= 1, damage= 0.00
+Ep:479 step:40(76772), a_t=[s= 0.36, t= 0.625790, b= 0.000000], r_t=[r= 188.39, prog= 239.24, pen=-50.85, r_old= 188.39], Reward=  4815.59 /  4815.59 /  78568.60, epsilon=  0.759, speed=  79.84, gear= 2, damage= 0.00
+Ep:479 step:60(76792), a_t=[s=-0.50, t= 0.716928, b= 0.000000], r_t=[r= 178.89, prog= 285.69, pen=-106.80, r_old= 178.89], Reward=  8549.48 /  8549.48 /  78568.60, epsilon=  0.759, speed=  96.48, gear= 3, damage= 0.00
+Ep:479 step:80(76812), a_t=[s= 0.42, t= 0.643279, b= 0.000000], r_t=[r= 206.41, prog= 285.13, pen=-78.72, r_old= 206.41], Reward=  12034.97 /  11794.83 /  78568.60, epsilon=  0.759, speed=  105.26, gear= 3, damage= 38.00
+Ep:479 step:100(76832), a_t=[s= 0.91, t= 0.681162, b= 0.000000], r_t=[r= 290.87, prog= 324.33, pen=-33.46, r_old= 290.87], Reward=  15294.28 /  14985.98 /  78568.60, epsilon=  0.759, speed=  109.56, gear= 3, damage= 177.00
+Ep:479 step:120(76852), a_t=[s=-0.04, t= 0.631894, b= 0.000000], r_t=[r=-41.30, prog= 46.45, pen=-87.74, r_old=-41.30], Reward=  18475.96 /  18154.09 /  78568.60, epsilon=  0.759, speed=  37.03, gear= 1, damage= 397.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 480/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:480 step:0(76855), a_t=[s= 0.19, t= 1.000000, b= 0.000000], r_t=[r= 0.43, prog= 0.43, pen=-0.00, r_old= 0.43], Reward=  0.43 /  0.43 /  78568.60, epsilon=  0.759, speed=  0.14, gear= 1, damage= 0.00
+Ep:480 step:20(76875), a_t=[s=-0.04, t= 1.000000, b= 0.000000], r_t=[r= 240.79, prog= 273.28, pen=-32.48, r_old= 240.79], Reward=  2762.15 /  2762.15 /  78568.60, epsilon=  0.759, speed=  91.25, gear= 3, damage= 0.00
+Ep:480 step:40(76895), a_t=[s= 0.53, t= 1.000000, b= 0.000000], r_t=[r= 345.07, prog= 386.48, pen=-41.41, r_old= 345.07], Reward=  8814.74 /  8814.74 /  78568.60, epsilon=  0.759, speed=  129.06, gear= 4, damage= 0.00
+Ep:480 step:60(76915), a_t=[s= 0.23, t= 1.000000, b= 0.000000], r_t=[r= 372.53, prog= 421.67, pen=-49.14, r_old= 372.53], Reward=  16053.67 /  16053.67 /  78568.60, epsilon=  0.759, speed=  140.67, gear= 4, damage= 0.00
+Ep:480 step:80(76935), a_t=[s= 0.02, t= 1.000000, b= 0.000000], r_t=[r= 430.18, prog= 440.16, pen=-9.97, r_old= 430.18], Reward=  23704.74 /  23704.74 /  78568.60, epsilon=  0.759, speed=  146.96, gear= 5, damage= 0.00
+Ep:480 step:100(76955), a_t=[s= 0.52, t= 1.000000, b= 0.000000], r_t=[r= 363.89, prog= 457.50, pen=-93.62, r_old= 363.89], Reward=  31686.55 /  31686.55 /  78568.60, epsilon=  0.759, speed=  153.25, gear= 5, damage= 0.00
+Ep:480 step:120(76975), a_t=[s=-0.71, t= 1.000000, b= 0.000000], r_t=[r= 204.13, prog= 468.12, pen=-263.99, r_old= 204.13], Reward=  37241.54 /  37045.68 /  78568.60, epsilon=  0.759, speed=  156.26, gear= 5, damage= 82.00
+Ep:480 step:140(76995), a_t=[s= 0.57, t= 1.000000, b= 0.000000], r_t=[r= 288.08, prog= 429.80, pen=-141.72, r_old= 288.08], Reward=  42269.85 /  42073.99 /  78568.60, epsilon=  0.759, speed=  144.88, gear= 5, damage= 82.00
+Ep:480 step:160(77015), a_t=[s= 1.00, t= 1.000000, b= 0.000000], r_t=[r= 96.53, prog= 325.22, pen=-228.70, r_old=-1.00], Reward=  45669.86 /  44948.89 /  78568.60, epsilon=  0.759, speed=  117.18, gear= 4, damage= 481.00
+Ep:480 step:180(77035), a_t=[s=-0.40, t= 1.000000, b= 0.000000], r_t=[r= 69.85, prog= 402.94, pen=-333.10, r_old= 69.85], Reward=  48091.00 /  47106.30 /  78568.60, epsilon=  0.759, speed=  134.97, gear= 4, damage= 566.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 481/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:481 step:0(77050), a_t=[s=-0.65, t= 0.638259, b= 0.000000], r_t=[r= 0.16, prog= 0.16, pen=-0.00, r_old= 0.16], Reward=  0.16 /  0.16 /  78568.60, epsilon=  0.759, speed=  0.05, gear= 1, damage= 0.00
+Ep:481 step:20(77070), a_t=[s= 0.45, t= 0.597716, b= 0.000000], r_t=[r= 157.86, prog= 168.16, pen=-10.31, r_old= 157.86], Reward=  1607.70 /  1607.70 /  78568.60, epsilon=  0.759, speed=  56.49, gear= 2, damage= 0.00
+Ep:481 step:40(77090), a_t=[s= 1.00, t= 0.680127, b= 0.000000], r_t=[r= 178.83, prog= 236.01, pen=-57.18, r_old= 178.83], Reward=  4971.16 /  4971.16 /  78568.60, epsilon=  0.759, speed=  81.90, gear= 3, damage= 0.00
+Ep:481 step:60(77110), a_t=[s= 0.15, t= 0.705233, b= 0.000000], r_t=[r= 196.24, prog= 312.41, pen=-116.17, r_old= 196.24], Reward=  8771.45 /  8771.45 /  78568.60, epsilon=  0.759, speed=  104.27, gear= 3, damage= 0.00
+Ep:481 step:80(77130), a_t=[s= 0.08, t= 0.650665, b= 0.000000], r_t=[r= 235.87, prog= 314.17, pen=-78.30, r_old= 235.87], Reward=  14020.85 /  14020.85 /  78568.60, epsilon=  0.759, speed=  110.44, gear= 3, damage= 0.00
+Ep:481 step:100(77150), a_t=[s= 0.99, t= 0.678423, b= 0.000000], r_t=[r= 210.85, prog= 303.34, pen=-92.50, r_old= 210.85], Reward=  18049.84 /  18049.84 /  78568.60, epsilon=  0.759, speed=  101.18, gear= 3, damage= 0.00
+Ep:481 step:120(77170), a_t=[s= 0.74, t= 0.609543, b= 0.000000], r_t=[r= 210.96, prog= 271.33, pen=-60.38, r_old= 210.96], Reward=  20063.47 /  19967.32 /  78568.60, epsilon=  0.759, speed=  93.74, gear= 3, damage= 17.00
+Ep:481 step:140(77190), a_t=[s= 0.74, t= 0.519406, b= 0.000000], r_t=[r= 209.58, prog= 317.75, pen=-108.18, r_old= 209.58], Reward=  23499.03 /  23281.76 /  78568.60, epsilon=  0.759, speed=  106.86, gear= 3, damage= 20.00
+Ep:481 step:160(77210), a_t=[s= 0.02, t= 0.651406, b= 0.000000], r_t=[r= 121.85, prog= 323.74, pen=-201.88, r_old= 121.85], Reward=  27858.01 /  27640.74 /  78568.60, epsilon=  0.758, speed=  111.04, gear= 3, damage= 20.00
+Ep:481 step:180(77230), a_t=[s=-0.59, t= 0.567700, b= 0.000000], r_t=[r= 114.53, prog= 286.36, pen=-171.82, r_old= 114.53], Reward=  30103.32 /  29447.00 /  78568.60, epsilon=  0.758, speed=  97.01, gear= 3, damage= 49.00
+Ep:481 step:200(77250), a_t=[s=-1.00, t= 0.640921, b= 0.000000], r_t=[r= 138.78, prog= 328.15, pen=-189.37, r_old= 138.78], Reward=  33102.34 /  32446.02 /  78568.60, epsilon=  0.758, speed=  109.80, gear= 3, damage= 49.00
+Ep:481 step:220(77270), a_t=[s= 0.39, t= 0.479691, b= 0.000000], r_t=[r= 71.13, prog= 198.29, pen=-127.16, r_old= 71.13], Reward=  34740.86 /  34045.97 /  78568.60, epsilon=  0.758, speed=  68.51, gear= 2, damage= 898.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 482/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:482 step:0(77283), a_t=[s=-0.66, t= 0.716277, b= 0.000000], r_t=[r= 0.17, prog= 0.17, pen=-0.00, r_old= 0.17], Reward=  0.17 /  0.17 /  78568.60, epsilon=  0.758, speed=  0.06, gear= 1, damage= 0.00
+Ep:482 step:20(77303), a_t=[s= 0.18, t= 0.551947, b= 0.000000], r_t=[r= 138.99, prog= 144.62, pen=-5.63, r_old= 138.99], Reward=  1475.16 /  1475.16 /  78568.60, epsilon=  0.758, speed=  48.46, gear= 1, damage= 0.00
+Ep:482 step:40(77323), a_t=[s= 0.75, t= 0.595108, b= 0.000000], r_t=[r= 60.21, prog= 173.51, pen=-113.30, r_old=-1.00], Reward=  3711.77 /  3608.22 /  78568.60, epsilon=  0.758, speed=  59.82, gear= 2, damage= 35.00
+Ep:482 step:60(77343), a_t=[s= 0.30, t= 0.620464, b= 0.000000], r_t=[r= 196.19, prog= 243.11, pen=-46.92, r_old= 196.19], Reward=  6662.70 /  6479.52 /  78568.60, epsilon=  0.758, speed=  84.38, gear= 3, damage= 36.00
+Ep:482 step:80(77363), a_t=[s= 0.02, t= 0.579674, b= 0.000000], r_t=[r= 266.60, prog= 315.55, pen=-48.95, r_old= 266.60], Reward=  11311.78 /  11128.60 /  78568.60, epsilon=  0.758, speed=  106.76, gear= 3, damage= 36.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 483/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:483 step:0(77382), a_t=[s= 0.29, t= 0.576560, b= 0.000000], r_t=[r= 0.52, prog= 0.52, pen=-0.00, r_old= 0.52], Reward=  0.52 /  0.52 /  78568.60, epsilon=  0.758, speed=  0.17, gear= 1, damage= 0.00
+Ep:483 step:20(77402), a_t=[s= 0.45, t= 0.522888, b= 0.000000], r_t=[r= 127.59, prog= 148.98, pen=-21.40, r_old= 127.59], Reward=  1244.03 /  1244.03 /  78568.60, epsilon=  0.758, speed=  49.83, gear= 2, damage= 0.00
+Ep:483 step:40(77422), a_t=[s= 0.71, t= 0.445609, b= 0.000000], r_t=[r= 195.10, prog= 244.43, pen=-49.33, r_old= 195.10], Reward=  4326.58 /  4326.58 /  78568.60, epsilon=  0.758, speed=  81.51, gear= 3, damage= 0.00
+Ep:483 step:60(77442), a_t=[s=-0.82, t= 0.507221, b= 0.000000], r_t=[r= 266.85, prog= 290.38, pen=-23.53, r_old= 266.85], Reward=  8800.03 /  8800.03 /  78568.60, epsilon=  0.758, speed=  97.00, gear= 3, damage= 0.00
+Ep:483 step:80(77462), a_t=[s=-0.11, t= 0.689011, b= 0.000000], r_t=[r= 275.87, prog= 319.87, pen=-44.00, r_old= 275.87], Reward=  14215.04 /  14215.04 /  78568.60, epsilon=  0.758, speed=  107.04, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 484/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:484 step:0(77482), a_t=[s= 0.19, t= 0.658726, b= 0.000000], r_t=[r= 0.50, prog= 0.50, pen=-0.00, r_old= 0.50], Reward=  0.50 /  0.50 /  78568.60, epsilon=  0.758, speed=  0.17, gear= 1, damage= 0.00
+Ep:484 step:20(77502), a_t=[s= 0.62, t= 0.536891, b= 0.000000], r_t=[r= 116.29, prog= 144.07, pen=-27.78, r_old= 116.29], Reward=  1262.90 /  1262.90 /  78568.60, epsilon=  0.758, speed=  48.37, gear= 1, damage= 0.00
+Ep:484 step:40(77522), a_t=[s= 0.51, t= 0.546827, b= 0.000000], r_t=[r= 226.67, prog= 254.82, pen=-28.15, r_old= 226.67], Reward=  4844.18 /  4844.18 /  78568.60, epsilon=  0.757, speed=  87.49, gear= 3, damage= 0.00
+Ep:484 step:60(77542), a_t=[s=-0.87, t= 0.729000, b= 0.000000], r_t=[r= 212.93, prog= 318.68, pen=-105.75, r_old= 212.93], Reward=  8058.56 /  8058.56 /  78568.60, epsilon=  0.757, speed=  106.69, gear= 3, damage= 0.00
+Ep:484 step:80(77562), a_t=[s= 0.63, t= 0.559931, b= 0.000000], r_t=[r= 126.97, prog= 308.04, pen=-181.08, r_old=-9.00], Reward=  12150.00 /  12014.03 /  78568.60, epsilon=  0.757, speed=  102.68, gear= 3, damage= 9.00
+Ep:484 step:100(77582), a_t=[s=-0.38, t= 0.635956, b= 0.000000], r_t=[r= 71.95, prog= 217.81, pen=-145.87, r_old= 71.95], Reward=  15873.65 /  15737.68 /  78568.60, epsilon=  0.757, speed=  89.32, gear= 3, damage= 9.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 485/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:485 step:0(77588), a_t=[s=-0.05, t= 0.597662, b= 0.000000], r_t=[r= 0.12, prog= 0.12, pen=-0.00, r_old= 0.12], Reward=  0.12 /  0.12 /  78568.60, epsilon=  0.757, speed=  0.04, gear= 1, damage= 0.00
+Ep:485 step:20(77608), a_t=[s= 0.71, t= 0.696080, b= 0.000000], r_t=[r= 125.92, prog= 157.46, pen=-31.55, r_old= 125.92], Reward=  1364.14 /  1364.14 /  78568.60, epsilon=  0.757, speed=  52.49, gear= 1, damage= 0.00
+Ep:485 step:40(77628), a_t=[s= 0.50, t= 0.473651, b= 0.000000], r_t=[r=-8.27, prog= 49.03, pen=-57.31, r_old=-8.27], Reward=  3080.11 /  3093.17 /  78568.60, epsilon=  0.757, speed=  25.18, gear= 1, damage= 993.00
+Ep:485 step:60(77648), a_t=[s=-0.39, t= 0.673261, b= 0.000000], r_t=[r= 96.23, prog= 189.98, pen=-93.75, r_old= 96.23], Reward=  3971.82 /  3935.07 /  78568.60, epsilon=  0.757, speed=  63.55, gear= 2, damage= 994.00
+Ep:485 step:80(77668), a_t=[s= 0.49, t= 0.695423, b= 0.000000], r_t=[r= 201.35, prog= 244.81, pen=-43.47, r_old= 201.35], Reward=  5499.08 /  5303.52 /  78568.60, epsilon=  0.757, speed=  83.27, gear= 3, damage= 1066.00
+Ep:485 step:100(77688), a_t=[s=-0.44, t= 0.556808, b= 0.000000], r_t=[r= 250.70, prog= 289.45, pen=-38.74, r_old= 250.70], Reward=  9910.38 /  9714.82 /  78568.60, epsilon=  0.757, speed=  96.52, gear= 3, damage= 1066.00
+Ep:485 step:120(77708), a_t=[s=-0.79, t= 0.682744, b= 0.000000], r_t=[r= 159.94, prog= 247.33, pen=-87.40, r_old= 159.94], Reward=  14424.07 /  14228.51 /  78568.60, epsilon=  0.757, speed=  97.01, gear= 3, damage= 1066.00
+Ep:485 step:140(77728), a_t=[s=-0.28, t= 0.615413, b= 0.000000], r_t=[r= 106.86, prog= 257.99, pen=-151.14, r_old= 106.86], Reward=  17920.42 /  17633.74 /  78568.60, epsilon=  0.757, speed=  86.66, gear= 3, damage= 1145.00
+Ep:485 step:160(77748), a_t=[s=-0.75, t= 0.645436, b= 0.000000], r_t=[r= 308.24, prog= 327.36, pen=-19.12, r_old= 308.24], Reward=  21542.18 /  21255.49 /  78568.60, epsilon=  0.757, speed=  110.31, gear= 3, damage= 1145.00
+Ep:485 step:180(77768), a_t=[s= 0.69, t= 0.571388, b= 0.000000], r_t=[r= 259.11, prog= 314.07, pen=-54.97, r_old= 259.11], Reward=  26651.22 /  26364.53 /  78568.60, epsilon=  0.757, speed=  104.83, gear= 3, damage= 1145.00
+Ep:485 step:200(77788), a_t=[s=-1.00, t= 0.488167, b= 0.000000], r_t=[r= 232.48, prog= 304.34, pen=-71.86, r_old= 232.48], Reward=  31866.25 /  31579.56 /  78568.60, epsilon=  0.757, speed=  102.44, gear= 3, damage= 1145.00
+Ep:485 step:220(77808), a_t=[s=-1.00, t= 0.647687, b= 0.038803], r_t=[r=-25.24, prog= 22.10, pen=-47.34, r_old=-25.24], Reward=  33012.61 /  32650.89 /  78568.60, epsilon=  0.756, speed=  19.73, gear= 1, damage= 1192.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 486/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:486 step:0(77811), a_t=[s= 0.77, t= 0.686369, b= 0.000000], r_t=[r= 0.50, prog= 0.50, pen=-0.00, r_old= 0.50], Reward=  0.50 /  0.50 /  78568.60, epsilon=  0.756, speed=  0.17, gear= 1, damage= 0.00
+Ep:486 step:20(77831), a_t=[s= 1.00, t= 0.585264, b= 0.000000], r_t=[r= 124.07, prog= 148.36, pen=-24.30, r_old= 124.07], Reward=  1418.90 /  1418.90 /  78568.60, epsilon=  0.756, speed=  51.12, gear= 1, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 487/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:487 step:0(77840), a_t=[s= 1.00, t= 0.567737, b= 0.000000], r_t=[r= 0.70, prog= 0.70, pen=-0.00, r_old= 0.70], Reward=  0.70 /  0.70 /  78568.60, epsilon=  0.756, speed=  0.23, gear= 1, damage= 0.00
+Ep:487 step:20(77860), a_t=[s= 0.73, t= 0.511295, b= 0.000000], r_t=[r= 120.49, prog= 155.58, pen=-35.10, r_old= 120.49], Reward=  1254.52 /  1254.52 /  78568.60, epsilon=  0.756, speed=  53.11, gear= 2, damage= 0.00
+Ep:487 step:40(77880), a_t=[s= 0.45, t= 0.666615, b= 0.000000], r_t=[r= 137.12, prog= 247.09, pen=-109.97, r_old= 137.12], Reward=  4488.45 /  4488.45 /  78568.60, epsilon=  0.756, speed=  83.55, gear= 3, damage= 0.00
+Ep:487 step:60(77900), a_t=[s=-0.37, t= 0.592591, b= 0.000000], r_t=[r= 223.93, prog= 321.92, pen=-97.99, r_old= 223.93], Reward=  7749.08 /  7749.08 /  78568.60, epsilon=  0.756, speed=  107.77, gear= 3, damage= 0.00
+Ep:487 step:80(77920), a_t=[s=-0.08, t= 0.683735, b= 0.001514], r_t=[r= 204.50, prog= 295.49, pen=-90.99, r_old= 204.50], Reward=  12564.17 /  12564.17 /  78568.60, epsilon=  0.756, speed=  109.20, gear= 3, damage= 0.00
+Ep:487 step:100(77940), a_t=[s=-0.15, t= 0.550117, b= 0.000000], r_t=[r= 243.94, prog= 280.64, pen=-36.70, r_old= 243.94], Reward=  14548.33 /  14448.21 /  78568.60, epsilon=  0.756, speed=  99.63, gear= 3, damage= 607.00
+Ep:487 step:120(77960), a_t=[s= 0.05, t= 0.670109, b= 0.000000], r_t=[r= 131.27, prog= 300.27, pen=-169.00, r_old=-1.00], Reward=  17891.86 /  17555.16 /  78568.60, epsilon=  0.756, speed=  100.53, gear= 3, damage= 663.00
+Ep:487 step:140(77980), a_t=[s= 1.00, t= 0.609877, b= 0.000000], r_t=[r= 230.20, prog= 317.01, pen=-86.82, r_old= 230.20], Reward=  21585.53 /  21248.84 /  78568.60, epsilon=  0.756, speed=  105.80, gear= 3, damage= 663.00
+Ep:487 step:160(78000), a_t=[s= 0.61, t= 0.721841, b= 0.000000], r_t=[r= 11.82, prog= 235.68, pen=-223.87, r_old= 11.82], Reward=  25679.97 /  25343.27 /  78568.60, epsilon=  0.756, speed=  109.75, gear= 3, damage= 663.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 488/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:488 step:0(78008), a_t=[s=-0.27, t= 0.685112, b= 0.000000], r_t=[r=-0.06, prog=-0.06, pen= 0.00, r_old=-0.06], Reward= -0.06 / -0.06 /  78568.60, epsilon=  0.756, speed= -0.02, gear= 1, damage= 0.00
+Ep:488 step:20(78028), a_t=[s= 0.97, t= 0.793673, b= 0.000000], r_t=[r= 130.68, prog= 161.83, pen=-31.15, r_old= 130.68], Reward=  1209.47 /  1209.47 /  78568.60, epsilon=  0.756, speed=  54.12, gear= 1, damage= 0.00
+Ep:488 step:40(78048), a_t=[s=-0.85, t= 0.769719, b= 0.000000], r_t=[r= 206.92, prog= 255.07, pen=-48.14, r_old= 206.92], Reward=  4891.41 /  4891.41 /  78568.60, epsilon=  0.756, speed=  85.14, gear= 3, damage= 0.00
+Ep:488 step:60(78068), a_t=[s=-1.00, t= 0.514824, b= 0.000000], r_t=[r= 277.79, prog= 303.50, pen=-25.71, r_old= 277.79], Reward=  9891.05 /  9891.05 /  78568.60, epsilon=  0.756, speed=  102.84, gear= 3, damage= 0.00
+Ep:488 step:80(78088), a_t=[s= 0.71, t= 0.636469, b= 0.000000], r_t=[r= 219.35, prog= 312.29, pen=-92.94, r_old= 219.35], Reward=  15088.98 /  15088.98 /  78568.60, epsilon=  0.756, speed=  104.16, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 489/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:489 step:0(78092), a_t=[s= 0.78, t= 0.601459, b= 0.000000], r_t=[r= 0.65, prog= 0.65, pen=-0.00, r_old= 0.65], Reward=  0.65 /  0.65 /  78568.60, epsilon=  0.756, speed=  0.22, gear= 1, damage= 0.00
+Ep:489 step:20(78112), a_t=[s= 0.34, t= 0.589165, b= 0.000000], r_t=[r= 120.03, prog= 158.63, pen=-38.60, r_old= 120.03], Reward=  1424.87 /  1424.87 /  78568.60, epsilon=  0.755, speed=  55.44, gear= 2, damage= 0.00
+Ep:489 step:40(78132), a_t=[s=-0.41, t= 0.620153, b= 0.000000], r_t=[r= 64.80, prog= 163.15, pen=-98.35, r_old= 64.80], Reward=  1842.80 /  1853.91 /  78568.60, epsilon=  0.755, speed=  54.43, gear= 1, damage= 417.00
+Ep:489 step:60(78152), a_t=[s=-0.18, t= 0.661423, b= 0.000000], r_t=[r= 92.72, prog= 197.29, pen=-104.57, r_old= 92.72], Reward=  3411.58 /  3370.87 /  78568.60, epsilon=  0.755, speed=  80.25, gear= 3, damage= 420.00
+Ep:489 step:80(78172), a_t=[s=-0.01, t= 0.659083, b= 0.000000], r_t=[r= 228.47, prog= 308.78, pen=-80.31, r_old= 228.47], Reward=  7426.83 /  7386.12 /  78568.60, epsilon=  0.755, speed=  104.82, gear= 3, damage= 420.00
+Ep:489 step:100(78192), a_t=[s=-0.47, t= 0.444716, b= 0.000000], r_t=[r= 178.55, prog= 322.94, pen=-144.39, r_old= 178.55], Reward=  10826.54 /  10654.64 /  78568.60, epsilon=  0.755, speed=  107.95, gear= 3, damage= 446.00
+Ep:489 step:120(78212), a_t=[s=-0.55, t= 0.551289, b= 0.000000], r_t=[r= 34.59, prog= 232.77, pen=-198.18, r_old= 34.59], Reward=  14576.29 /  14404.39 /  78568.60, epsilon=  0.755, speed=  94.64, gear= 3, damage= 446.00
+Ep:489 step:140(78232), a_t=[s= 1.00, t= 0.591850, b= 0.000000], r_t=[r= 195.27, prog= 281.46, pen=-86.20, r_old= 195.27], Reward=  17566.03 /  17363.43 /  78568.60, epsilon=  0.755, speed=  93.98, gear= 3, damage= 448.00
+Ep:489 step:160(78252), a_t=[s= 1.00, t= 0.753336, b= 0.000000], r_t=[r=-26.71, prog= 4.64, pen=-31.35, r_old=-26.71], Reward=  20649.70 /  20424.12 /  78568.60, epsilon=  0.755, speed=  12.65, gear= 1, damage= 478.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 490/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:490 step:0(78254), a_t=[s=-0.28, t= 0.766053, b= 0.000000], r_t=[r= 0.88, prog= 0.88, pen=-0.00, r_old= 0.88], Reward=  0.88 /  0.88 /  78568.60, epsilon=  0.755, speed=  0.29, gear= 1, damage= 0.00
+Ep:490 step:20(78274), a_t=[s=-0.68, t= 0.520611, b= 0.000000], r_t=[r= 133.34, prog= 157.38, pen=-24.03, r_old= 133.34], Reward=  1389.83 /  1389.83 /  78568.60, epsilon=  0.755, speed=  53.21, gear= 2, damage= 0.00
+Ep:490 step:40(78294), a_t=[s= 0.38, t= 0.614890, b= 0.000000], r_t=[r= 190.64, prog= 244.74, pen=-54.10, r_old= 190.64], Reward=  4264.89 /  4264.89 /  78568.60, epsilon=  0.755, speed=  81.70, gear= 3, damage= 0.00
+Ep:490 step:60(78314), a_t=[s= 0.08, t= 0.641286, b= 0.000000], r_t=[r= 206.22, prog= 297.31, pen=-91.08, r_old= 206.22], Reward=  8708.66 /  8708.66 /  78568.60, epsilon=  0.755, speed=  102.78, gear= 3, damage= 0.00
+Ep:490 step:80(78334), a_t=[s=-1.00, t= 0.676213, b= 0.000000], r_t=[r= 212.13, prog= 342.40, pen=-130.27, r_old= 212.13], Reward=  12347.69 /  12347.69 /  78568.60, epsilon=  0.755, speed=  114.36, gear= 4, damage= 0.00
+Ep:490 step:100(78354), a_t=[s= 0.77, t= 0.671999, b= 0.000000], r_t=[r= 281.50, prog= 315.26, pen=-33.76, r_old= 281.50], Reward=  17018.74 /  17018.74 /  78568.60, epsilon=  0.755, speed=  105.12, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 491/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:491 step:0(78372), a_t=[s=-0.65, t= 0.584121, b= 0.000000], r_t=[r= 0.12, prog= 0.12, pen=-0.00, r_old= 0.12], Reward=  0.12 /  0.12 /  78568.60, epsilon=  0.755, speed=  0.04, gear= 1, damage= 0.00
+Ep:491 step:20(78392), a_t=[s= 0.40, t= 0.694671, b= 0.000000], r_t=[r= 111.39, prog= 157.56, pen=-46.16, r_old= 111.39], Reward=  1233.22 /  1233.22 /  78568.60, epsilon=  0.755, speed=  53.43, gear= 2, damage= 0.00
+Ep:491 step:40(78412), a_t=[s= 0.19, t= 0.514775, b= 0.000000], r_t=[r= 202.76, prog= 251.47, pen=-48.71, r_old= 202.76], Reward=  4254.32 /  4254.32 /  78568.60, epsilon=  0.754, speed=  85.74, gear= 3, damage= 0.00
+Ep:491 step:60(78432), a_t=[s=-0.95, t= 0.755643, b= 0.000000], r_t=[r= 132.97, prog= 321.29, pen=-188.32, r_old= 132.97], Reward=  8141.53 /  8141.53 /  78568.60, epsilon=  0.754, speed=  107.76, gear= 3, damage= 0.00
+Ep:491 step:80(78452), a_t=[s=-1.00, t= 0.749896, b= 0.000000], r_t=[r= 223.13, prog= 319.29, pen=-96.15, r_old= 223.13], Reward=  12598.38 /  12598.38 /  78568.60, epsilon=  0.754, speed=  107.35, gear= 3, damage= 0.00
+Ep:491 step:100(78472), a_t=[s=-0.49, t= 0.473317, b= 0.000000], r_t=[r= 244.65, prog= 324.04, pen=-79.38, r_old= 244.65], Reward=  17778.01 /  17778.01 /  78568.60, epsilon=  0.754, speed=  108.10, gear= 3, damage= 0.00
+Ep:491 step:120(78492), a_t=[s=-0.44, t= 0.605133, b= 0.000000], r_t=[r= 190.52, prog= 287.25, pen=-96.73, r_old= 190.52], Reward=  20293.00 /  20139.64 /  78568.60, epsilon=  0.754, speed=  96.37, gear= 3, damage= 118.00
+Ep:491 step:140(78512), a_t=[s=-0.44, t= 0.633090, b= 0.000000], r_t=[r= 197.32, prog= 303.75, pen=-106.43, r_old= 197.32], Reward=  25397.67 /  25244.30 /  78568.60, epsilon=  0.754, speed=  102.44, gear= 3, damage= 118.00
+Ep:491 step:160(78532), a_t=[s=-0.88, t= 0.571976, b= 0.000000], r_t=[r= 122.43, prog= 298.91, pen=-176.48, r_old= 122.43], Reward=  29352.27 /  29116.33 /  78568.60, epsilon=  0.754, speed=  100.41, gear= 3, damage= 189.00
+Ep:491 step:180(78552), a_t=[s= 0.93, t= 0.622213, b= 0.000000], r_t=[r= 269.78, prog= 321.17, pen=-51.38, r_old= 269.78], Reward=  34175.42 /  33839.73 /  78568.60, epsilon=  0.754, speed=  108.12, gear= 4, damage= 191.00
+Ep:491 step:200(78572), a_t=[s= 0.09, t= 0.551584, b= 0.000000], r_t=[r= 216.06, prog= 331.31, pen=-115.24, r_old= 216.06], Reward=  37425.43 /  36962.83 /  78568.60, epsilon=  0.754, speed=  110.80, gear= 4, damage= 192.00
+Ep:491 step:220(78592), a_t=[s= 0.10, t= 0.598086, b= 0.000000], r_t=[r= 0.17, prog= 146.37, pen=-146.20, r_old= 0.17], Reward=  40521.58 /  39700.05 /  78568.60, epsilon=  0.754, speed=  66.96, gear= 2, damage= 256.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 492/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:492 step:0(78604), a_t=[s= 0.61, t= 0.565132, b= 0.000000], r_t=[r= 0.44, prog= 0.44, pen=-0.00, r_old= 0.44], Reward=  0.44 /  0.44 /  78568.60, epsilon=  0.754, speed=  0.15, gear= 1, damage= 0.00
+Ep:492 step:20(78624), a_t=[s= 1.00, t= 0.428644, b= 0.000000], r_t=[r= 112.95, prog= 153.06, pen=-40.11, r_old= 112.95], Reward=  1459.63 /  1459.63 /  78568.60, epsilon=  0.754, speed=  53.44, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 493/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:493 step:0(78631), a_t=[s=-0.38, t= 0.678113, b= 0.000000], r_t=[r= 0.40, prog= 0.40, pen=-0.00, r_old= 0.40], Reward=  0.40 /  0.40 /  78568.60, epsilon=  0.754, speed=  0.13, gear= 1, damage= 0.00
+Ep:493 step:20(78651), a_t=[s=-0.02, t= 0.713932, b= 0.000000], r_t=[r= 117.24, prog= 145.38, pen=-28.14, r_old= 117.24], Reward=  1355.66 /  1355.66 /  78568.60, epsilon=  0.754, speed=  51.14, gear= 2, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 494/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:494 step:0(78664), a_t=[s=-0.80, t= 0.563223, b= 0.000000], r_t=[r=-0.06, prog=-0.06, pen= 0.00, r_old=-0.06], Reward= -0.06 / -0.06 /  78568.60, epsilon=  0.754, speed= -0.02, gear= 1, damage= 0.00
+Ep:494 step:20(78684), a_t=[s=-0.50, t= 0.743079, b= 0.000000], r_t=[r= 146.83, prog= 161.20, pen=-14.37, r_old= 146.83], Reward=  1491.10 /  1491.10 /  78568.60, epsilon=  0.754, speed=  54.03, gear= 2, damage= 0.00
+Ep:494 step:40(78704), a_t=[s= 0.71, t= 0.585948, b= 0.009704], r_t=[r= 232.80, prog= 248.72, pen=-15.91, r_old= 232.80], Reward=  5347.49 /  5347.49 /  78568.60, epsilon=  0.754, speed=  83.92, gear= 3, damage= 0.00
+Ep:494 step:60(78724), a_t=[s=-0.32, t= 0.605282, b= 0.000000], r_t=[r= 287.11, prog= 311.05, pen=-23.94, r_old= 287.11], Reward=  10175.78 /  10175.78 /  78568.60, epsilon=  0.753, speed=  105.47, gear= 3, damage= 0.00
+Ep:494 step:80(78744), a_t=[s=-0.71, t= 0.687804, b= 0.000000], r_t=[r= 275.43, prog= 325.83, pen=-50.40, r_old= 275.43], Reward=  15972.88 /  15972.88 /  78568.60, epsilon=  0.753, speed=  108.63, gear= 3, damage= 0.00
+Ep:494 step:100(78764), a_t=[s=-0.22, t= 0.603170, b= 0.000000], r_t=[r= 305.90, prog= 334.90, pen=-29.00, r_old= 305.90], Reward=  21653.57 /  21653.57 /  78568.60, epsilon=  0.753, speed=  111.65, gear= 3, damage= 0.00
+Ep:494 step:120(78784), a_t=[s= 0.10, t= 0.664379, b= 0.000000], r_t=[r= 54.53, prog= 243.77, pen=-189.24, r_old= 54.53], Reward=  25017.56 /  25017.56 /  78568.60, epsilon=  0.753, speed=  96.80, gear= 3, damage= 0.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 495/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:495 step:0(78791), a_t=[s=-0.47, t= 0.633555, b= 0.000000], r_t=[r= 0.23, prog= 0.23, pen=-0.00, r_old= 0.23], Reward=  0.23 /  0.23 /  78568.60, epsilon=  0.753, speed=  0.08, gear= 1, damage= 0.00
+Ep:495 step:20(78811), a_t=[s= 0.57, t= 0.583603, b= 0.000000], r_t=[r= 111.30, prog= 155.25, pen=-43.94, r_old= 111.30], Reward=  1227.61 /  1227.61 /  78568.60, epsilon=  0.753, speed=  52.67, gear= 2, damage= 0.00
+Ep:495 step:40(78831), a_t=[s= 0.36, t= 0.645564, b= 0.000000], r_t=[r= 204.68, prog= 242.72, pen=-38.03, r_old= 204.68], Reward=  4775.06 /  4775.06 /  78568.60, epsilon=  0.753, speed=  84.23, gear= 3, damage= 0.00
+Ep:495 step:60(78851), a_t=[s= 0.69, t= 0.657414, b= 0.000000], r_t=[r= 184.98, prog= 302.40, pen=-117.42, r_old= 184.98], Reward=  8290.77 /  8290.77 /  78568.60, epsilon=  0.753, speed=  100.93, gear= 3, damage= 0.00
+Ep:495 step:80(78871), a_t=[s= 0.40, t= 0.662874, b= 0.000000], r_t=[r= 284.30, prog= 320.55, pen=-36.25, r_old= 284.30], Reward=  11781.97 /  11656.40 /  78568.60, epsilon=  0.753, speed=  107.79, gear= 3, damage= 6.00
+Ep:495 step:100(78891), a_t=[s= 0.08, t= 0.667396, b= 0.000000], r_t=[r=-42.62, prog= 25.91, pen=-68.53, r_old=-42.62], Reward=  14594.45 /  14468.88 /  78568.60, epsilon=  0.753, speed=  62.98, gear= 2, damage= 6.00
+Ep:495 step:120(78911), a_t=[s=-1.00, t= 0.655041, b= 0.000000], r_t=[r= 6.04, prog= 18.41, pen=-12.37, r_old= 6.04], Reward=  13304.85 /  13192.15 /  78568.60, epsilon=  0.753, speed=  6.49, gear= 1, damage= 1048.00
+Ep:495 step:140(78931), a_t=[s= 0.12, t= 0.642783, b= 0.000000], r_t=[r= 58.01, prog= 156.12, pen=-98.12, r_old= 58.01], Reward=  13965.94 /  13853.24 /  78568.60, epsilon=  0.753, speed=  54.14, gear= 1, damage= 1048.00
+Ep:495 step:160(78951), a_t=[s= 0.10, t= 0.627614, b= 0.000000], r_t=[r= 157.18, prog= 230.70, pen=-73.52, r_old= 157.18], Reward=  16597.05 /  16484.35 /  78568.60, epsilon=  0.753, speed=  83.03, gear= 3, damage= 1048.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 496/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:496 step:0(78967), a_t=[s= 0.00, t= 0.652486, b= 0.000000], r_t=[r= 0.76, prog= 0.76, pen=-0.00, r_old= 0.76], Reward=  0.76 /  0.76 /  78568.60, epsilon=  0.753, speed=  0.25, gear= 1, damage= 0.00
+Ep:496 step:20(78987), a_t=[s= 0.39, t= 0.715984, b= 0.000000], r_t=[r= 124.86, prog= 160.86, pen=-36.00, r_old= 124.86], Reward=  1334.20 /  1334.20 /  78568.60, epsilon=  0.753, speed=  53.99, gear= 2, damage= 0.00
+Ep:496 step:40(79007), a_t=[s= 0.50, t= 0.579721, b= 0.000000], r_t=[r= 193.28, prog= 271.42, pen=-78.14, r_old= 193.28], Reward=  5016.62 /  5016.62 /  78568.60, epsilon=  0.752, speed=  90.60, gear= 3, damage= 0.00
+Ep:496 step:60(79027), a_t=[s= 0.92, t= 0.619051, b= 0.000000], r_t=[r= 266.59, prog= 323.09, pen=-56.49, r_old= 266.59], Reward=  10074.26 /  10074.26 /  78568.60, epsilon=  0.752, speed=  108.76, gear= 4, damage= 0.00
+Ep:496 step:80(79047), a_t=[s= 0.54, t= 0.652625, b= 0.000000], r_t=[r= 6.82, prog= 129.67, pen=-122.85, r_old= 6.82], Reward=  11794.38 /  11706.10 /  78568.60, epsilon=  0.752, speed=  56.96, gear= 2, damage= 34.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 497/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:497 step:0(79064), a_t=[s=-0.01, t= 0.672239, b= 0.000000], r_t=[r= 0.22, prog= 0.22, pen=-0.00, r_old= 0.22], Reward=  0.22 /  0.22 /  78568.60, epsilon=  0.752, speed=  0.07, gear= 1, damage= 0.00
+Ep:497 step:20(79084), a_t=[s= 0.23, t= 0.672697, b= 0.000000], r_t=[r= 102.52, prog= 149.12, pen=-46.60, r_old= 102.52], Reward=  1273.30 /  1273.30 /  78568.60, epsilon=  0.752, speed=  52.66, gear= 2, damage= 0.00
+Ep:497 step:40(79104), a_t=[s=-0.46, t= 0.531537, b= 0.000000], r_t=[r= 115.77, prog= 238.06, pen=-122.29, r_old= 115.77], Reward=  2595.11 /  2569.75 /  78568.60, epsilon=  0.752, speed=  79.62, gear= 2, damage= 92.00
+Ep:497 step:60(79124), a_t=[s=-1.00, t= 0.642898, b= 0.000000], r_t=[r= 145.86, prog= 287.23, pen=-141.37, r_old= 145.86], Reward=  5513.28 /  5378.34 /  78568.60, epsilon=  0.752, speed=  99.17, gear= 3, damage= 93.00
+Ep:497 step:80(79144), a_t=[s=-0.46, t= 0.547821, b= 0.000000], r_t=[r= 259.08, prog= 311.38, pen=-52.30, r_old= 259.08], Reward=  9445.96 /  9311.02 /  78568.60, epsilon=  0.752, speed=  104.92, gear= 3, damage= 93.00
+Ep:497 step:100(79164), a_t=[s= 0.60, t= 0.767225, b= 0.000000], r_t=[r= 174.53, prog= 320.74, pen=-146.21, r_old= 174.53], Reward=  14547.37 /  14412.43 /  78568.60, epsilon=  0.752, speed=  108.93, gear= 3, damage= 93.00
+Ep:497 step:120(79184), a_t=[s=-0.78, t= 0.693988, b= 0.000000], r_t=[r=-40.77, prog= 51.77, pen=-92.53, r_old=-40.77], Reward=  16619.88 /  16358.41 /  78568.60, epsilon=  0.752, speed=  39.08, gear= 2, damage= 96.00
+META = 1 ... Running backwards
+=============================================================
+ starting episode: 498/2000
+### TORCS is RELAUNCHED ###
+Client connected on 3112..............
+Ep:498 step:0(79187), a_t=[s= 1.00, t= 0.545589, b= 0.000000], r_t=[r= 0.70, prog= 0.70, pen=-0.00, r_old= 0.70], Reward=  0.70 /  0.70 /  78568.60, epsilon=  0.752, speed=  0.23, gear= 1, damage= 0.00
+Ep:498 step:20(79207), a_t=[s=-0.18, t= 0.654127, b= 0.000000], r_t=[r= 151.61, prog= 164.00, pen=-12.39, r_old= 151.61], Reward=  1402.96 /  1402.96 /  78568.60, epsilon=  0.752, speed=  54.71, gear= 2, damage= 0.00
+Ep:498 step:40(79227), a_t=[s=-0.23, t= 0.472114, b= 0.000000], r_t=[r= 235.48, prog= 247.11, pen=-11.62, r_old= 235.48], Reward=  4959.32 /  4959.32 /  78568.60, epsilon=  0.752, speed=  82.64, gear= 3, damage= 0.00
+Ep:498 step:60(79247), a_t=[s= 0.51, t= 0.629228, b= 0.000000], r_t=[r= 290.12, prog= 306.42, pen=-16.30, r_old= 290.12], Reward=  9873.08 /  9873.08 /  78568.60, epsilon=  0.752, speed=  103.18, gear= 3, damage= 0.00
+META = 1 ... out of track
+=============================================================
+ starting episode: 499/2000
+Waiting for server on 3112............
+Count Down : 5
+Client connected on 3112..............
+Ep:499 step:0(79260), a_t=[s=-0.27, t= 0.602977, b= 0.000000], r_t=[r= 0.12, prog= 0.12, pen=-0.00, r_old= 0.12], Reward=  0.12 /  0.12 /  78568.60, epsilon=  0.752, speed=  0.04, gear= 1, damage= 0.00
+Ep:499 step:20(79280), a_t=[s= 0.36, t= 0.644985, b= 0.000000], r_t=[r= 155.56, prog= 167.97, pen=-12.41, r_old= 155.56], Reward=  1391.77 /  1391.77 /  78568.60, epsilon=  0.752, speed=  56.00, gear= 2, damage= 0.00
+Ep:499 step:40(79300), a_t=[s=-0.12, t= 0.681821, b= 0.000000], r_t=[r= 171.11, prog= 244.46, pen=-73.35, r_old= 171.11], Reward=  4671.16 /  4671.16 /  78568.60, epsilon=  0.752, speed=  85.19, gear= 3, damage= 0.00
+Ep:499 step:60(79320), a_t=[s= 0.39, t= 0.538807, b= 0.000000], r_t=[r= 268.50, prog= 293.80, pen=-25.30, r_old= 268.50], Reward=  9433.42 /  9433.42 /  78568.60, epsilon=  0.751, speed=  98.77, gear= 3, damage= 0.00
+Ep:499 step:80(79340), a_t=[s= 0.77, t= 0.451347, b= 0.000000], r_t=[r= 201.73, prog= 269.83, pen=-68.10, r_old= 201.73], Reward=  14933.02 /  14933.02 /  78568.60, epsilon=  0.751, speed=  99.29, gear= 3, damage= 0.00
+Ep:499 step:100(79360), a_t=[s= 0.80, t= 0.590090, b= 0.000000], r_t=[r= 175.55, prog= 273.86, pen=-98.31, r_old= 175.55], Reward=  19946.46 /  19946.46 /  78568.60, epsilon=  0.751, speed=  101.51, gear= 3, damage= 0.00
+META = 1 ... out of track

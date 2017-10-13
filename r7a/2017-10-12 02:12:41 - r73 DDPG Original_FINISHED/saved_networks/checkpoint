@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/kloek/Documents/Thesis_work/results/r7a/2017-10-12 02:12:41 - r73 DDPG Original/saved_networks/TORCSnetwork-ddpg-11686"
+all_model_checkpoint_paths: "/home/kloek/Documents/Thesis_work/results/r7a/2017-10-12 02:12:41 - r73 DDPG Original/saved_networks/TORCSnetwork-ddpg-326"
+all_model_checkpoint_paths: "/home/kloek/Documents/Thesis_work/results/r7a/2017-10-12 02:12:41 - r73 DDPG Original/saved_networks/TORCSnetwork-ddpg-4154"
+all_model_checkpoint_paths: "/home/kloek/Documents/Thesis_work/results/r7a/2017-10-12 02:12:41 - r73 DDPG Original/saved_networks/TORCSnetwork-ddpg-11686"
