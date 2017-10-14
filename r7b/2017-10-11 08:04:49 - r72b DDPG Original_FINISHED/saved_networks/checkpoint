@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-751772"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-495212"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-518650"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-563998"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-692403"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/Thesis_work/results/r7b/2017-10-11 08:04:49 - r72b DDPG Original/saved_networks/TORCSnetwork-ddpg-751772"

@@ -1,0 +1,42 @@
+commit 9c33543078459b0d6f7549062f181355a0d46f05
+Author: Anton Kloek <anton.kloek@gmail.com>
+Date:   Thu Oct 5 18:54:55 2017 +0200
+
+    all configs correct
+On branch all_sc_funcs
+Your branch is up-to-date with 'origin/all_sc_funcs'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   multiple_runns/configs/config_r2a.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+diff --git a/multiple_runns/configs/config_r2a.py b/multiple_runns/configs/config_r2a.py
+index 414a9ea..55dfa64 100644
+--- a/multiple_runns/configs/config_r2a.py
++++ b/multiple_runns/configs/config_r2a.py
+@@ -4,12 +4,12 @@
+ is_training = True  # False just gives testrunns
+ test_frequency = 20 # how often to test /episodes
+ epsilon_start = 1  # TODO sys arg or config file
+-episode_count = 10  # TODO sys arg or config file
+-max_steps = 10  # TODO sys arg or config file
++episode_count =2000  # TODO sys arg or config file
++max_steps = 2000  # TODO sys arg or config file
+ EXPLORE = 300000.0
+ 
+-PORT = 3101
+-RUN_FOLDER = "new_runs/r2/" # use if ~/ outside gymtorcs folder
++PORT = 3102
++RUN_FOLDER = "~/Documents/Thesis_work/results/r2/" # use if ~/ outside gymtorcs folder
+ RUN_NAME = "r2a" # name added to runfolder
+ gear_change = False #False = drive only on first gear, limited to 80 km/h
+ safety_critic = False  # false = normal ddpg, True = double critic
+@@ -67,4 +67,4 @@ C_LAYER1_SIZE = 300
+ C_LAYER2_SIZE = 600
+ C_LEARNING_RATE = 1e-3
+ C_TAU = 0.001
+-C_L2 = 0.0001
+\ No newline at end of file
++C_L2 = 0.0001
